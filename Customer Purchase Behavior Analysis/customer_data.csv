@@ -1,0 +1,2001 @@
+index,Date,Year,Month,Customer Age,Customer Gender,Country,State,Product Category,Sub Category,Quantity,Unit Cost,Unit Price,Cost,Revenue
+0,02/19/16,2016,February,29,F,United States,Washington,Accessories,Tires and Tubes,1,80,109,80,109
+1,02/20/16,2016,February,29,F,United States,Washington,Clothing,Gloves,2,24.5,28.5,49,57
+2,02/27/16,2016,February,29,F,United States,Washington,Accessories,Tires and Tubes,3,3.67,5,11,15
+3,03/12/16,2016,March,29,F,United States,Washington,Accessories,Tires and Tubes,2,87.5,116.5,175,233
+4,03/12/16,2016,March,29,F,United States,Washington,Accessories,Tires and Tubes,3,35,41.666667,105,125
+5,04/08/16,2016,April,29,F,United States,Washington,Accessories,Tires and Tubes,1,66,78,66,78
+6,04/17/16,2016,April,29,F,United States,Washington,Accessories,Tires and Tubes,2,52,60,104,120
+7,04/17/16,2016,April,29,F,United States,Washington,Accessories,Tires and Tubes,1,60,68,60,68
+8,06/22/16,2016,June,29,F,United States,Washington,Accessories,Tires and Tubes,2,8,10,16,20
+9,06/22/16,2016,June,29,F,United States,Washington,Accessories,Tires and Tubes,2,2.5,3,5,6
+10,06/24/16,2016,June,29,F,United States,Washington,Accessories,Helmets,2,17.5,21,35,42
+11,07/01/16,2016,July,29,F,United States,Washington,Accessories,Tires and Tubes,3,40,48.666667,120,146
+12,07/22/16,2016,July,29,F,United States,Washington,Accessories,Tires and Tubes,2,46,60,92,120
+13,07/22/16,2016,July,29,F,United States,Washington,Accessories,Tires and Tubes,1,9,10,9,10
+14,08/18/15,2015,August,29,F,United States,Washington,Accessories,Helmets,3,151.67,181.333333,455,544
+15,08/30/15,2015,August,29,F,United States,Washington,Accessories,Tires and Tubes,3,70,72.666667,210,218
+16,09/17/15,2015,September,29,F,United States,Washington,Accessories,Tires and Tubes,1,385,439,385,439
+17,09/17/15,2015,September,29,F,United States,Washington,Accessories,Tires and Tubes,2,72.5,86.5,145,173
+18,09/17/15,2015,September,29,F,United States,Washington,Accessories,Helmets,3,210,212.666667,630,638
+19,09/24/15,2015,September,29,F,United States,Washington,Accessories,Tires and Tubes,1,64,74,64,74
+20,09/24/15,2015,September,29,F,United States,Washington,Accessories,Helmets,3,326.67,359.666667,980,1079
+21,10/07/15,2015,October,29,F,United States,Washington,Accessories,Tires and Tubes,1,125,136,125,136
+22,10/07/15,2015,October,29,F,United States,Washington,Accessories,Helmets,2,17.5,18,35,36
+23,10/07/15,2015,October,29,F,United States,Washington,Accessories,Tires and Tubes,2,215,226,430,452
+24,10/07/15,2015,October,29,F,United States,Washington,Accessories,Tires and Tubes,3,22,23,66,69
+25,10/13/15,2015,October,29,F,United States,Washington,Accessories,Tires and Tubes,1,750,820,750,820
+26,10/20/15,2015,October,29,F,United States,Washington,Accessories,Tires and Tubes,2,60,70.5,120,141
+27,10/20/15,2015,October,29,F,United States,Washington,Accessories,Tires and Tubes,1,125,130,125,130
+28,10/20/15,2015,October,29,F,United States,Washington,Accessories,Helmets,1,140,143,140,143
+29,11/01/15,2015,November,29,F,United States,Washington,Accessories,Tires and Tubes,2,192.5,213.5,385,427
+30,11/01/15,2015,November,29,F,United States,Washington,Accessories,Tires and Tubes,3,38.33,43.333333,115,130
+31,11/01/15,2015,November,29,F,United States,Washington,Accessories,Helmets,3,151.67,170,455,510
+32,11/15/15,2015,November,29,F,United States,Washington,Accessories,Tires and Tubes,1,56,65,56,65
+33,11/15/15,2015,November,29,F,United States,Washington,Accessories,Tires and Tubes,3,108.67,123.666667,326,371
+34,11/15/15,2015,November,29,F,United States,Washington,Accessories,Tires and Tubes,3,14.67,15,44,45
+35,12/15/15,2015,December,29,F,United States,Washington,Accessories,Helmets,2,280,269,560,538
+36,12/16/15,2015,December,29,F,United States,Washington,Accessories,Tires and Tubes,2,293.5,320.5,587,641
+37,12/16/15,2015,December,29,F,United States,Washington,Accessories,Tires and Tubes,2,2,2,4,4
+38,12/16/15,2015,December,29,F,United States,Washington,Accessories,Helmets,1,420,472,420,472
+39,12/20/15,2015,December,29,F,United States,Washington,Accessories,Tires and Tubes,2,275.5,303,551,606
+40,12/20/15,2015,December,29,F,United States,Washington,Accessories,Tires and Tubes,1,120,120,120,120
+41,12/20/15,2015,December,29,F,United States,Washington,Accessories,Helmets,1,630,624,630,624
+42,12/25/15,2015,December,29,F,United States,Washington,Accessories,Tires and Tubes,2,32.5,36,65,72
+43,12/25/15,2015,December,29,F,United States,Washington,Accessories,Tires and Tubes,3,338.33,389.333333,1015,1168
+44,12/25/15,2015,December,29,F,United States,Washington,Accessories,Tires and Tubes,3,10.67,11,32,33
+45,12/29/15,2015,December,29,F,United States,Washington,Accessories,Tires and Tubes,3,36.67,41.666667,110,125
+46,12/29/15,2015,December,29,F,United States,Washington,Accessories,Helmets,2,245,249.5,490,499
+47,07/22/15,2015,July,18,F,United States,California,Accessories,Bike Stands,1,636,677,636,677
+48,10/10/15,2015,October,18,F,United States,California,Accessories,Bike Stands,3,159,170.666667,477,512
+49,06/11/16,2016,June,18,M,United States,California,Bikes,Mountain Bikes,1,769,875,769,875
+50,08/13/15,2015,August,18,M,United States,California,Bikes,Mountain Bikes,1,2295,2242,2295,2242
+51,09/10/15,2015,September,18,M,United States,California,Bikes,Mountain Bikes,1,769,776,769,776
+52,10/20/15,2015,October,18,M,United States,California,Bikes,Mountain Bikes,2,1160,1005,2320,2010
+53,12/21/15,2015,December,18,M,United States,California,Bikes,Mountain Bikes,1,2295,2303,2295,2303
+54,07/27/15,2015,July,19,F,United States,Oregon,Accessories,Hydration Packs,2,797.5,813,1595,1626
+55,02/07/16,2016,February,19,M,United States,Washington,Bikes,Mountain Bikes,3,180,188.333333,540,565
+56,07/24/15,2015,July,19,M,United States,Washington,Bikes,Mountain Bikes,1,2320,2160,2320,2160
+57,03/20/16,2016,March,19,M,United States,California,Clothing,Jerseys,3,100,117.666667,300,353
+58,03/21/16,2016,March,19,M,United States,California,Clothing,Jerseys,1,750,985,750,985
+59,05/06/16,2016,May,19,M,United States,California,Clothing,Jerseys,3,133.33,164.333333,400,493
+60,06/06/16,2016,June,19,M,United States,California,Accessories,Fenders,3,88,95.333333,264,286
+61,06/09/16,2016,June,19,M,United States,California,Clothing,Jerseys,2,300,384,600,768
+62,08/20/15,2015,August,19,M,United States,California,Clothing,Jerseys,3,133.33,161,400,483
+63,08/21/15,2015,August,19,M,United States,California,Clothing,Jerseys,2,594,569.5,1188,1139
+64,09/27/15,2015,September,19,M,United States,California,Clothing,Jerseys,2,75,79.5,150,159
+65,01/27/16,2016,January,19,M,United States,California,Accessories,Cleaners,2,99.5,126,199,252
+66,01/25/16,2016,January,19,F,United States,California,Accessories,Helmets,3,46.67,51.666667,140,155
+67,01/26/16,2016,January,19,F,United States,California,Accessories,Helmets,1,175,218,175,218
+68,05/20/16,2016,May,19,F,United States,California,Accessories,Helmets,2,52.5,60,105,120
+69,07/26/15,2015,July,19,F,United States,California,Accessories,Helmets,2,122.5,139.5,245,279
+70,12/06/15,2015,December,19,F,United States,California,Accessories,Helmets,1,420,458,420,458
+71,06/24/16,2016,June,20,M,United States,Washington,Clothing,Socks,3,45,52.666667,135,158
+72,10/05/15,2015,October,20,M,United States,Washington,Clothing,Socks,2,27,30.5,54,61
+73,07/18/15,2015,July,20,F,United States,California,Bikes,Mountain Bikes,1,2295,2146,2295,2146
+74,07/25/15,2015,July,20,F,United States,California,Bikes,Mountain Bikes,1,2320,2030,2320,2030
+75,12/04/15,2015,December,20,F,United States,California,Bikes,Mountain Bikes,1,2295,1884,2295,1884
+76,07/16/15,2015,July,22,F,United States,Washington,Clothing,Caps,1,216,228,216,228
+77,08/14/15,2015,August,24,F,United States,California,Accessories,Bike Stands,3,530,529.333333,1590,1588
+78,12/28/15,2015,December,24,F,United States,California,Accessories,Bike Stands,1,1113,1297,1113,1297
+79,03/26/16,2016,March,40,M,United States,Oregon,Bikes,Mountain Bikes,1,769,873,769,873
+80,05/24/16,2016,May,40,M,United States,Oregon,Bikes,Touring Bikes,3,247.33,250.333333,742,751
+81,07/08/15,2015,July,40,M,United States,Oregon,Bikes,Mountain Bikes,1,2320,2340,2320,2340
+82,07/13/15,2015,July,40,M,United States,Oregon,Bikes,Mountain Bikes,2,384.5,353.5,769,707
+83,08/08/15,2015,August,40,M,United States,Oregon,Bikes,Mountain Bikes,1,2320,2340,2320,2340
+84,12/25/15,2015,December,40,M,United States,Oregon,Bikes,Mountain Bikes,1,2320,2095,2320,2095
+85,08/29/15,2015,August,40,F,United States,California,Accessories,Bike Stands,2,477,524.5,954,1049
+86,01/16/16,2016,January,40,M,United States,California,Accessories,Hydration Packs,3,165,186.333333,495,559
+87,02/20/16,2016,February,40,M,United States,California,Accessories,Hydration Packs,3,256.67,334.333333,770,1003
+88,07/31/15,2015,July,40,M,United States,California,Accessories,Hydration Packs,1,715,752,715,752
+89,02/13/16,2016,February,22,F,United States,Washington,Accessories,Bottles and Cages,1,120,156,120,156
+90,07/07/16,2016,July,22,F,United States,Washington,Accessories,Bottles and Cages,1,85,108,85,108
+91,07/08/16,2016,July,22,F,United States,Washington,Accessories,Bottles and Cages,2,105,136,210,272
+92,07/16/15,2015,July,22,F,United States,Washington,Accessories,Bottles and Cages,1,65,67,65,67
+93,07/16/15,2015,July,22,F,United States,Washington,Accessories,Bottles and Cages,2,125,143.5,250,287
+94,07/16/15,2015,July,22,F,United States,Washington,Clothing,Jerseys,3,414,437.666667,1242,1313
+95,09/04/15,2015,September,22,F,United States,Washington,Clothing,Jerseys,2,486,535.5,972,1071
+96,09/06/15,2015,September,22,F,United States,Washington,Accessories,Bottles and Cages,2,25,26.5,50,53
+97,10/22/15,2015,October,22,F,United States,Washington,Accessories,Bottles and Cages,1,189,179,189,179
+98,10/22/15,2015,October,22,F,United States,Washington,Accessories,Bottles and Cages,3,6.67,7,20,21
+99,12/21/15,2015,December,22,F,United States,Washington,Clothing,Jerseys,1,150,159,150,159
+100,07/13/15,2015,July,22,F,United States,Washington,Bikes,Mountain Bikes,2,1147.5,1077,2295,2154
+101,07/16/15,2015,July,22,F,United States,Washington,Bikes,Mountain Bikes,3,765,712.333333,2295,2137
+102,02/13/16,2016,February,19,F,United States,California,Accessories,Tires and Tubes,1,96,105,96,105
+103,03/22/16,2016,March,19,F,United States,California,Accessories,Tires and Tubes,1,100,113,100,113
+104,05/03/16,2016,May,19,F,United States,California,Accessories,Tires and Tubes,2,24,28,48,56
+105,05/20/16,2016,May,19,F,United States,California,Accessories,Tires and Tubes,2,30,35.5,60,71
+106,06/28/16,2016,June,19,F,United States,California,Accessories,Tires and Tubes,1,50,54,50,54
+107,07/03/16,2016,July,19,F,United States,California,Accessories,Tires and Tubes,2,70,92.5,140,185
+108,07/03/16,2016,July,19,F,United States,California,Accessories,Tires and Tubes,1,40,48,40,48
+109,08/08/15,2015,August,19,F,United States,California,Accessories,Tires and Tubes,3,290,341,870,1023
+110,08/08/15,2015,August,19,F,United States,California,Accessories,Tires and Tubes,3,1.67,2,5,6
+111,08/08/15,2015,August,19,F,United States,California,Accessories,Tires and Tubes,3,0.67,0.666667,2,2
+112,10/27/15,2015,October,19,F,United States,California,Accessories,Tires and Tubes,3,83.33,86.333333,250,259
+113,10/27/15,2015,October,19,F,United States,California,Accessories,Tires and Tubes,1,27,29,27,29
+114,10/31/15,2015,October,19,F,United States,California,Accessories,Tires and Tubes,3,163.33,173.333333,490,520
+115,10/31/15,2015,October,19,F,United States,California,Accessories,Tires and Tubes,2,42.5,47,85,94
+116,10/31/15,2015,October,19,F,United States,California,Accessories,Tires and Tubes,2,18.5,20.5,37,41
+117,12/02/15,2015,December,19,F,United States,California,Accessories,Tires and Tubes,3,5,5.666667,15,17
+118,12/02/15,2015,December,19,F,United States,California,Accessories,Tires and Tubes,1,1050,1111,1050,1111
+119,01/10/16,2016,January,20,F,United States,California,Accessories,Helmets,3,23.33,29.333333,70,88
+120,01/13/16,2016,January,20,F,United States,California,Accessories,Helmets,1,105,131,105,131
+121,02/27/16,2016,February,20,F,United States,California,Accessories,Helmets,3,11.67,13.333333,35,40
+122,08/16/15,2015,August,20,F,United States,California,Accessories,Helmets,1,910,928,910,928
+123,11/17/15,2015,November,20,F,United States,California,Accessories,Helmets,3,35,37.666667,105,113
+124,07/29/15,2015,July,18,M,United States,Washington,Bikes,Mountain Bikes,2,1147.5,1106.5,2295,2213
+125,07/29/15,2015,July,18,M,United States,Washington,Accessories,Hydration Packs,1,440,509,440,509
+126,07/29/15,2015,July,18,F,United States,Oregon,Bikes,Mountain Bikes,1,2295,2115,2295,2115
+127,07/29/15,2015,July,18,F,United States,Oregon,Accessories,Bottles and Cages,1,230,250,230,250
+128,07/29/15,2015,July,18,F,United States,Oregon,Accessories,Bottles and Cages,3,5,5,15,15
+129,07/13/15,2015,July,21,M,United States,Washington,Bikes,Mountain Bikes,1,2295,2218,2295,2218
+130,09/30/15,2015,September,21,F,United States,Washington,Clothing,Vests,1,64,61,64,61
+131,07/14/15,2015,July,21,F,United States,Oregon,Bikes,Mountain Bikes,1,2320,2155,2320,2155
+132,10/08/15,2015,October,21,F,United States,Oregon,Bikes,Mountain Bikes,3,256.33,256.333333,769,769
+133,07/12/15,2015,July,21,F,United States,California,Accessories,Hydration Packs,1,825,959,825,959
+134,08/01/15,2015,August,21,F,United States,California,Accessories,Hydration Packs,3,128.33,141.666667,385,425
+135,10/21/15,2015,October,21,F,United States,California,Accessories,Hydration Packs,3,238.33,268,715,804
+136,12/17/15,2015,December,21,F,United States,California,Accessories,Hydration Packs,2,302.5,337.5,605,675
+137,04/04/16,2016,April,23,M,United States,California,Bikes,Mountain Bikes,1,769,815,769,815
+138,04/02/15,2015,April,23,M,United States,California,Bikes,Mountain Bikes,3,683,602.666667,2049,1808
+139,08/22/15,2015,August,23,M,United States,California,Bikes,Mountain Bikes,1,2295,2297,2295,2297
+140,08/25/15,2015,August,23,M,United States,California,Bikes,Mountain Bikes,3,773.33,682,2320,2046
+141,05/13/16,2016,May,24,F,United States,California,Clothing,Vests,1,191,237,191,237
+142,10/09/15,2015,October,24,F,United States,California,Clothing,Vests,2,32,29,64,58
+143,11/26/15,2015,November,24,F,United States,California,Clothing,Vests,3,508,575,1524,1725
+144,04/16/16,2016,April,25,F,United States,Washington,Clothing,Socks,1,207,265,207,265
+145,03/27/16,2016,March,30,M,United States,California,Accessories,Hydration Packs,1,330,413,330,413
+146,07/20/15,2015,July,30,M,United States,California,Accessories,Hydration Packs,2,82.5,88.5,165,177
+147,11/05/15,2015,November,30,M,United States,California,Accessories,Hydration Packs,2,55,63.5,110,127
+148,03/28/16,2016,March,55,F,United States,California,Clothing,Gloves,2,343,359,686,718
+149,01/05/16,2016,January,53,F,United States,Washington,Accessories,Tires and Tubes,1,210,271,210,271
+150,02/07/16,2016,February,53,F,United States,Washington,Accessories,Tires and Tubes,2,35,45.5,70,91
+151,02/07/16,2016,February,53,F,United States,Washington,Accessories,Tires and Tubes,2,20,23.5,40,47
+152,03/01/16,2016,March,53,F,United States,Washington,Accessories,Tires and Tubes,3,20,22,60,66
+153,03/01/16,2016,March,53,F,United States,Washington,Accessories,Tires and Tubes,2,385,495.5,770,991
+154,03/01/16,2016,March,53,F,United States,Washington,Accessories,Tires and Tubes,3,5.33,7.666667,16,23
+155,07/08/16,2016,July,53,F,United States,Washington,Accessories,Tires and Tubes,2,58,65,116,130
+156,07/08/16,2016,July,53,F,United States,Washington,Accessories,Helmets,2,455,578,910,1156
+157,07/20/16,2016,July,53,F,United States,Washington,Accessories,Tires and Tubes,2,30,36,60,72
+158,07/20/16,2016,July,53,F,United States,Washington,Accessories,Tires and Tubes,3,12.33,15.666667,37,47
+159,09/13/15,2015,September,53,F,United States,Washington,Accessories,Tires and Tubes,1,420,442,420,442
+160,10/05/15,2015,October,53,F,United States,Washington,Accessories,Tires and Tubes,1,52,59,52,59
+161,02/11/16,2016,February,53,F,United States,California,Accessories,Tires and Tubes,3,35,42.333333,105,127
+162,02/11/16,2016,February,53,F,United States,California,Accessories,Tires and Tubes,1,35,42,35,42
+163,04/11/16,2016,April,53,F,United States,California,Accessories,Tires and Tubes,2,18,24,36,48
+164,04/11/16,2016,April,53,F,United States,California,Accessories,Tires and Tubes,2,32,41,64,82
+165,04/18/16,2016,April,53,F,United States,California,Accessories,Tires and Tubes,2,40,47.5,80,95
+166,04/18/16,2016,April,53,F,United States,California,Accessories,Tires and Tubes,3,290,340,870,1020
+167,04/20/16,2016,April,53,F,United States,California,Accessories,Tires and Tubes,1,20,28,20,28
+168,04/26/16,2016,April,53,F,United States,California,Accessories,Tires and Tubes,2,8,9,16,18
+169,05/04/16,2016,May,53,F,United States,California,Accessories,Tires and Tubes,2,42.5,53.5,85,107
+170,05/04/16,2016,May,53,F,United States,California,Accessories,Tires and Tubes,3,175,208,525,624
+171,05/29/16,2016,May,53,F,United States,California,Accessories,Tires and Tubes,1,315,390,315,390
+172,07/10/16,2016,July,53,F,United States,California,Accessories,Tires and Tubes,1,455,480,455,480
+173,07/10/16,2016,July,53,F,United States,California,Accessories,Tires and Tubes,3,5.33,7,16,21
+174,07/24/16,2016,July,53,F,United States,California,Accessories,Tires and Tubes,2,6,8,12,16
+175,07/24/16,2016,July,53,F,United States,California,Accessories,Tires and Tubes,1,2,3,2,3
+176,11/01/15,2015,November,53,F,United States,California,Accessories,Tires and Tubes,1,32,35,32,35
+177,11/01/15,2015,November,53,F,United States,California,Accessories,Tires and Tubes,3,21.33,24,64,72
+178,12/15/15,2015,December,53,F,United States,California,Accessories,Tires and Tubes,3,338.33,373.666667,1015,1121
+179,12/15/15,2015,December,53,F,United States,California,Accessories,Tires and Tubes,2,37.5,36,75,72
+180,12/15/15,2015,December,53,F,United States,California,Accessories,Tires and Tubes,1,270,268,270,268
+181,12/15/15,2015,December,53,F,United States,California,Accessories,Tires and Tubes,3,36.67,37.666667,110,113
+182,12/15/15,2015,December,53,F,United States,California,Accessories,Tires and Tubes,1,69,85,69,85
+183,12/19/15,2015,December,53,F,United States,California,Accessories,Tires and Tubes,3,64.33,72,193,216
+184,10/05/15,2015,October,53,F,United States,Washington,Clothing,Vests,1,191,213,191,213
+185,01/26/16,2016,January,53,M,United States,Washington,Bikes,Mountain Bikes,2,1160,1225,2320,2450
+186,04/07/16,2016,April,53,M,United States,Washington,Bikes,Road Bikes,2,850.5,932.5,1701,1865
+187,08/09/15,2015,August,53,M,United States,Washington,Bikes,Mountain Bikes,3,765,703.666667,2295,2111
+188,08/09/15,2015,August,53,M,United States,Washington,Clothing,Socks,1,153,144,153,144
+189,11/10/15,2015,November,53,M,United States,Washington,Bikes,Mountain Bikes,3,765,744.333333,2295,2233
+190,11/29/15,2015,November,53,M,United States,Washington,Bikes,Mountain Bikes,3,773.33,773.333333,2320,2320
+191,01/05/16,2016,January,52,F,United States,California,Bikes,Touring Bikes,3,247.33,263.666667,742,791
+192,01/08/16,2016,January,52,F,United States,California,Bikes,Touring Bikes,2,371,382.5,742,765
+193,05/03/16,2016,May,52,F,United States,California,Bikes,Mountain Bikes,1,769,735,769,735
+194,05/03/16,2016,May,52,F,United States,California,Bikes,Mountain Bikes,1,769,777,769,777
+195,05/03/16,2016,May,52,F,United States,California,Clothing,Caps,1,144,166,144,166
+196,05/09/16,2016,May,52,F,United States,California,Bikes,Touring Bikes,1,742,774,742,774
+197,05/09/16,2016,May,52,F,United States,California,Clothing,Caps,2,4.5,5.5,9,11
+198,07/14/15,2015,July,52,F,United States,California,Bikes,Mountain Bikes,3,773.33,771.333333,2320,2314
+199,09/06/15,2015,September,52,F,United States,California,Clothing,Caps,2,58.5,62,117,124
+200,10/13/15,2015,October,52,F,United States,California,Bikes,Mountain Bikes,2,1147.5,1169.5,2295,2339
+201,06/10/16,2016,June,52,F,United States,California,Clothing,Gloves,3,220.33,269.666667,661,809
+202,04/24/16,2016,April,51,F,United States,Washington,Clothing,Gloves,3,106,125.333333,318,376
+203,03/27/16,2016,March,51,M,United States,Oregon,Accessories,Bike Racks,3,360,444.333333,1080,1333
+204,01/21/16,2016,January,51,F,United States,Washington,Accessories,Bike Stands,3,318,411.666667,954,1235
+205,01/02/16,2016,January,50,F,United States,California,Accessories,Fenders,1,286,380,286,380
+206,01/31/16,2016,January,49,F,United States,California,Accessories,Hydration Packs,3,495,617.333333,1485,1852
+207,03/01/16,2016,March,49,F,United States,California,Accessories,Hydration Packs,2,605,756,1210,1512
+208,09/05/15,2015,September,49,F,United States,California,Accessories,Hydration Packs,3,165,197.666667,495,593
+209,03/06/16,2016,March,48,F,United States,Washington,Accessories,Helmets,3,268.33,316,805,948
+210,03/12/16,2016,March,48,F,United States,Washington,Accessories,Helmets,3,46.67,49.666667,140,149
+211,04/07/16,2016,April,48,F,United States,Washington,Accessories,Helmets,2,210,252,420,504
+212,04/18/16,2016,April,48,F,United States,Washington,Accessories,Helmets,1,420,456,420,456
+213,05/14/16,2016,May,48,F,United States,Washington,Accessories,Helmets,1,350,432,350,432
+214,06/13/16,2016,June,48,F,United States,Washington,Accessories,Helmets,3,268.33,334.666667,805,1004
+215,07/03/16,2016,July,48,F,United States,Washington,Accessories,Helmets,1,1050,1302,1050,1302
+216,08/13/15,2015,August,48,F,United States,Washington,Accessories,Helmets,3,35,38,105,114
+217,08/27/15,2015,August,48,F,United States,Washington,Accessories,Helmets,1,315,345,315,345
+218,09/18/15,2015,September,48,F,United States,Washington,Accessories,Helmets,3,186.67,207,560,621
+219,11/08/15,2015,November,48,F,United States,Washington,Accessories,Helmets,3,35,36,105,108
+220,12/02/15,2015,December,48,F,United States,Washington,Accessories,Helmets,3,210,241,630,723
+221,08/09/15,2015,August,47,F,United States,Oregon,Accessories,Tires and Tubes,2,385,393.5,770,787
+222,08/09/15,2015,August,47,F,United States,Oregon,Accessories,Tires and Tubes,2,52.5,56.5,105,113
+223,08/18/15,2015,August,47,F,United States,Oregon,Accessories,Hydration Packs,3,513.33,554,1540,1662
+224,05/01/16,2016,May,47,M,United States,Oregon,Accessories,Tires and Tubes,2,70,85.5,140,171
+225,05/01/16,2016,May,47,M,United States,Oregon,Accessories,Tires and Tubes,1,14,16,14,16
+226,07/27/16,2016,July,47,M,United States,Oregon,Accessories,Tires and Tubes,2,20.5,23.5,41,47
+227,07/19/15,2015,July,47,M,United States,Oregon,Accessories,Tires and Tubes,3,183.33,209,550,627
+228,07/19/15,2015,July,47,M,United States,Oregon,Accessories,Tires and Tubes,2,4.5,5.5,9,11
+229,06/15/16,2016,June,47,F,United States,California,Accessories,Cleaners,1,111,129,111,129
+230,03/29/16,2016,March,46,F,United States,Washington,Accessories,Helmets,1,105,129,105,129
+231,04/10/16,2016,April,46,F,United States,Washington,Bikes,Road Bikes,3,180,202,540,606
+232,06/05/16,2016,June,46,F,United States,Washington,Bikes,Touring Bikes,1,742,677,742,677
+233,06/05/16,2016,June,46,F,United States,Washington,Accessories,Helmets,2,52.5,67.5,105,135
+234,01/13/15,2015,January,46,F,United States,Washington,Bikes,Mountain Bikes,3,683,623,2049,1869
+235,01/15/15,2015,January,46,F,United States,Washington,Bikes,Mountain Bikes,2,1035.5,973.5,2071,1947
+236,07/31/15,2015,July,46,F,United States,Washington,Bikes,Mountain Bikes,1,2295,2239,2295,2239
+237,07/31/15,2015,July,46,F,United States,Washington,Accessories,Helmets,2,262.5,260,525,520
+238,12/05/15,2015,December,46,F,United States,Washington,Bikes,Touring Bikes,1,742,658,742,658
+239,03/09/16,2016,March,46,F,United States,Washington,Accessories,Fenders,1,637,856,637,856
+240,01/15/16,2016,January,46,F,United States,Oregon,Accessories,Tires and Tubes,2,15,18.5,30,37
+241,01/15/16,2016,January,46,F,United States,Oregon,Accessories,Tires and Tubes,1,100,138,100,138
+242,01/29/16,2016,January,46,F,United States,Oregon,Accessories,Tires and Tubes,2,35,40,70,80
+243,01/29/16,2016,January,46,F,United States,Oregon,Accessories,Tires and Tubes,1,60,73,60,73
+244,04/02/16,2016,April,46,F,United States,Oregon,Accessories,Tires and Tubes,1,425,508,425,508
+245,04/02/16,2016,April,46,F,United States,Oregon,Accessories,Tires and Tubes,1,44,54,44,54
+246,08/25/15,2015,August,46,F,United States,Oregon,Accessories,Tires and Tubes,3,12.33,12,37,36
+247,09/03/15,2015,September,46,F,United States,Oregon,Accessories,Tires and Tubes,2,255,297.5,510,595
+248,09/03/15,2015,September,46,F,United States,Oregon,Accessories,Tires and Tubes,3,48.33,49,145,147
+249,10/02/15,2015,October,46,F,United States,Oregon,Accessories,Tires and Tubes,1,385,414,385,414
+250,12/07/15,2015,December,46,F,United States,Oregon,Accessories,Tires and Tubes,3,198.33,217,595,651
+251,12/07/15,2015,December,46,F,United States,Oregon,Accessories,Tires and Tubes,2,67.5,78.5,135,157
+252,01/13/16,2016,January,46,M,United States,California,Accessories,Fenders,1,659,790,659,790
+253,02/12/16,2016,February,46,M,United States,California,Accessories,Fenders,1,440,510,440,510
+254,01/17/16,2016,January,46,F,United States,California,Accessories,Cleaners,1,207,275,207,275
+255,01/09/16,2016,January,45,M,United States,California,Clothing,Gloves,2,73.5,82,147,164
+256,01/17/16,2016,January,45,M,United States,California,Clothing,Gloves,3,196,279,588,837
+257,01/18/16,2016,January,45,M,United States,California,Accessories,Helmets,3,175,216,525,648
+258,01/26/16,2016,January,45,M,United States,California,Accessories,Helmets,3,303.33,380.333333,910,1141
+259,02/04/16,2016,February,45,M,United States,California,Accessories,Tires and Tubes,1,163,203,163,203
+260,02/04/16,2016,February,45,M,United States,California,Accessories,Tires and Tubes,2,14,16.5,28,33
+261,03/19/16,2016,March,45,M,United States,California,Accessories,Tires and Tubes,1,125,174,125,174
+262,03/19/16,2016,March,45,M,United States,California,Clothing,Gloves,3,8,10.666667,24,32
+263,03/23/16,2016,March,45,M,United States,California,Accessories,Tires and Tubes,2,43.5,50.5,87,101
+264,03/23/16,2016,March,45,M,United States,California,Accessories,Tires and Tubes,2,67.5,81.5,135,163
+265,04/13/16,2016,April,45,M,United States,California,Accessories,Tires and Tubes,2,25,31,50,62
+266,04/13/16,2016,April,45,M,United States,California,Accessories,Tires and Tubes,3,7.67,8.333333,23,25
+267,04/14/16,2016,April,45,M,United States,California,Accessories,Tires and Tubes,3,106.33,132.333333,319,397
+268,04/18/16,2016,April,45,M,United States,California,Accessories,Tires and Tubes,1,717,892,717,892
+269,04/18/16,2016,April,45,M,United States,California,Accessories,Tires and Tubes,3,5.33,6.666667,16,20
+270,04/21/16,2016,April,45,M,United States,California,Clothing,Caps,3,63,78.333333,189,235
+271,04/26/16,2016,April,45,M,United States,California,Accessories,Tires and Tubes,1,225,275,225,275
+272,04/26/16,2016,April,45,M,United States,California,Accessories,Tires and Tubes,2,37.5,42,75,84
+273,05/08/16,2016,May,45,M,United States,California,Accessories,Helmets,3,46.67,63.333333,140,190
+274,06/01/16,2016,June,45,M,United States,California,Clothing,Caps,2,40.5,47,81,94
+275,06/11/16,2016,June,45,M,United States,California,Accessories,Tires and Tubes,3,9.33,11,28,33
+276,06/11/16,2016,June,45,M,United States,California,Accessories,Tires and Tubes,3,76,107,228,321
+277,06/11/16,2016,June,45,M,United States,California,Clothing,Gloves,3,179.67,214.333333,539,643
+278,06/22/16,2016,June,45,M,United States,California,Accessories,Tires and Tubes,3,20,24,60,72
+279,06/22/16,2016,June,45,M,United States,California,Accessories,Helmets,2,350,384.5,700,769
+280,07/17/16,2016,July,45,M,United States,California,Clothing,Caps,1,135,163,135,163
+281,08/12/15,2015,August,45,M,United States,California,Accessories,Tires and Tubes,3,46.67,56.333333,140,169
+282,08/12/15,2015,August,45,M,United States,California,Accessories,Helmets,1,700,712,700,712
+283,08/12/15,2015,August,45,M,United States,California,Clothing,Caps,1,171,190,171,190
+284,09/11/15,2015,September,45,M,United States,California,Accessories,Tires and Tubes,1,300,317,300,317
+285,10/27/15,2015,October,45,M,United States,California,Accessories,Tires and Tubes,3,251.33,302.333333,754,907
+286,10/27/15,2015,October,45,M,United States,California,Accessories,Tires and Tubes,2,12.5,13.5,25,27
+287,10/30/15,2015,October,45,M,United States,California,Accessories,Helmets,2,507.5,508,1015,1016
+288,11/24/15,2015,November,45,M,United States,California,Accessories,Tires and Tubes,2,312.5,341,625,682
+289,11/24/15,2015,November,45,M,United States,California,Accessories,Tires and Tubes,2,67.5,79,135,158
+290,11/24/15,2015,November,45,M,United States,California,Accessories,Tires and Tubes,2,32,36,64,72
+291,12/07/15,2015,December,45,M,United States,California,Clothing,Caps,1,216,245,216,245
+292,12/10/15,2015,December,45,M,United States,California,Accessories,Tires and Tubes,3,8,8,24,24
+293,12/26/15,2015,December,45,M,United States,California,Clothing,Caps,3,90,85.333333,270,256
+294,02/20/16,2016,February,40,F,France,Essonne,Bikes,Touring Bikes,2,1192,1396,2384,2792
+295,02/20/16,2016,February,40,F,France,Essonne,Accessories,Tires and Tubes,2,246.5,314.5,493,629
+296,02/20/16,2016,February,40,F,France,Essonne,Accessories,Tires and Tubes,2,20,26,40,52
+297,02/20/16,2016,February,40,F,France,Essonne,Accessories,Tires and Tubes,3,6,6.666667,18,20
+298,02/20/16,2016,February,40,F,France,Essonne,Accessories,Bike Stands,3,318,321.666667,954,965
+299,02/20/16,2016,February,40,F,France,Essonne,Clothing,Caps,1,153,155,153,155
+300,05/01/16,2016,May,40,F,France,Essonne,Bikes,Touring Bikes,1,2384,2292,2384,2292
+301,05/01/16,2016,May,40,F,France,Essonne,Accessories,Helmets,2,262.5,316.5,525,633
+302,05/01/16,2016,May,40,F,France,Essonne,Clothing,Caps,1,135,172,135,172
+303,07/02/15,2015,July,40,F,France,Essonne,Accessories,Helmets,1,315,353,315,353
+304,10/06/15,2015,October,40,F,France,Essonne,Accessories,Tires and Tubes,1,90,124,90,124
+305,10/06/15,2015,October,40,F,France,Essonne,Accessories,Tires and Tubes,3,233.33,222,700,666
+306,10/06/15,2015,October,40,F,France,Essonne,Accessories,Helmets,2,437.5,342,875,684
+307,10/06/15,2015,October,40,F,France,Essonne,Clothing,Jerseys,3,378,362,1134,1086
+308,11/13/15,2015,November,40,F,France,Essonne,Bikes,Touring Bikes,2,371,301,742,602
+309,11/13/15,2015,November,40,F,France,Essonne,Accessories,Tires and Tubes,2,290,286,580,572
+310,11/13/15,2015,November,40,F,France,Essonne,Accessories,Tires and Tubes,2,37.5,38.5,75,77
+311,11/13/15,2015,November,40,F,France,Essonne,Accessories,Helmets,1,350,275,350,275
+312,01/11/16,2016,January,40,M,France,Yveline,Bikes,Road Bikes,3,567,790,1701,2370
+313,01/11/16,2016,January,40,M,France,Yveline,Accessories,Helmets,2,192.5,199,385,398
+314,01/18/16,2016,January,40,M,France,Yveline,Bikes,Mountain Bikes,2,1160,1511.5,2320,3023
+315,01/18/16,2016,January,40,M,France,Yveline,Accessories,Bottles and Cages,2,115,147,230,294
+316,01/18/16,2016,January,40,M,France,Yveline,Accessories,Bottles and Cages,1,140,167,140,167
+317,01/18/16,2016,January,40,M,France,Yveline,Accessories,Helmets,2,472.5,436.5,945,873
+318,01/21/16,2016,January,40,M,France,Yveline,Bikes,Mountain Bikes,1,2295,2741,2295,2741
+319,01/21/16,2016,January,40,M,France,Yveline,Accessories,Helmets,3,291.67,416.333333,875,1249
+320,02/23/16,2016,February,40,M,France,Yveline,Bikes,Touring Bikes,1,2384,2776,2384,2776
+321,03/30/16,2016,March,40,M,France,Yveline,Bikes,Road Bikes,2,850.5,965.5,1701,1931
+322,03/30/16,2016,March,40,M,France,Yveline,Accessories,Helmets,3,338.33,483.333333,1015,1450
+323,05/21/16,2016,May,40,M,France,Yveline,Bikes,Touring Bikes,1,742,668,742,668
+324,05/21/16,2016,May,40,M,France,Yveline,Accessories,Bottles and Cages,2,18,20.5,36,41
+325,05/21/16,2016,May,40,M,France,Yveline,Accessories,Bottles and Cages,1,50,68,50,68
+326,05/21/16,2016,May,40,M,France,Yveline,Clothing,Gloves,2,330.5,468,661,936
+327,06/06/16,2016,June,40,M,France,Yveline,Bikes,Touring Bikes,3,794.67,983,2384,2949
+328,06/06/16,2016,June,40,M,France,Yveline,Accessories,Helmets,2,280,306,560,612
+329,03/06/15,2015,March,40,M,France,Yveline,Bikes,Road Bikes,1,2443,2499,2443,2499
+330,03/23/15,2015,March,40,M,France,Yveline,Bikes,Mountain Bikes,1,2049,2271,2049,2271
+331,03/30/15,2015,March,40,M,France,Yveline,Bikes,Road Bikes,2,1091,827.5,2182,1655
+332,07/09/15,2015,July,40,M,France,Yveline,Bikes,Mountain Bikes,2,1160,799.5,2320,1599
+333,11/27/15,2015,November,40,M,France,Yveline,Bikes,Mountain Bikes,1,565,692,565,692
+334,11/27/15,2015,November,40,M,France,Yveline,Accessories,Bottles and Cages,3,26.67,32.333333,80,97
+335,12/08/15,2015,December,40,M,France,Yveline,Bikes,Road Bikes,2,270,184,540,368
+336,01/20/16,2016,January,40,F,United Kingdom,England,Bikes,Road Bikes,3,180,189,540,567
+337,01/20/16,2016,January,40,F,United Kingdom,England,Accessories,Helmets,3,81.67,94.333333,245,283
+338,01/24/16,2016,January,40,F,United Kingdom,England,Bikes,Touring Bikes,1,2384,2425,2384,2425
+339,02/03/16,2016,February,40,F,United Kingdom,England,Bikes,Mountain Bikes,1,2295,2296,2295,2296
+340,02/03/16,2016,February,40,F,United Kingdom,England,Accessories,Helmets,3,256.67,341,770,1023
+341,04/14/16,2016,April,40,F,United Kingdom,England,Bikes,Mountain Bikes,1,2320,2308,2320,2308
+342,04/14/16,2016,April,40,F,United Kingdom,England,Accessories,Helmets,2,70,90.5,140,181
+343,04/28/16,2016,April,40,F,United Kingdom,England,Bikes,Touring Bikes,3,794.67,758.333333,2384,2275
+344,04/28/16,2016,April,40,F,United Kingdom,England,Accessories,Helmets,2,525,685,1050,1370
+345,04/29/16,2016,April,40,F,United Kingdom,England,Bikes,Mountain Bikes,3,765,834.666667,2295,2504
+346,06/05/16,2016,June,40,F,United Kingdom,England,Bikes,Mountain Bikes,2,1160,1234,2320,2468
+347,06/13/16,2016,June,40,F,United Kingdom,England,Bikes,Touring Bikes,2,1192,1250.5,2384,2501
+348,06/13/16,2016,June,40,F,United Kingdom,England,Accessories,Helmets,1,945,1232,945,1232
+349,06/15/16,2016,June,40,F,United Kingdom,England,Bikes,Touring Bikes,1,2384,2446,2384,2446
+350,07/28/16,2016,July,40,F,United Kingdom,England,Accessories,Helmets,2,262.5,327,525,654
+351,06/08/15,2015,June,40,F,United Kingdom,England,Bikes,Road Bikes,2,1091,961,2182,1922
+352,06/17/15,2015,June,40,F,United Kingdom,England,Bikes,Mountain Bikes,1,2049,1892,2049,1892
+353,06/21/15,2015,June,40,F,United Kingdom,England,Bikes,Road Bikes,1,2443,2314,2443,2314
+354,06/30/15,2015,June,40,F,United Kingdom,England,Bikes,Mountain Bikes,3,683,628,2049,1884
+355,07/16/15,2015,July,40,F,United Kingdom,England,Bikes,Mountain Bikes,1,2295,2084,2295,2084
+356,07/16/15,2015,July,40,F,United Kingdom,England,Accessories,Helmets,1,315,359,315,359
+357,07/24/15,2015,July,40,F,United Kingdom,England,Bikes,Mountain Bikes,3,773.33,740.666667,2320,2222
+358,07/31/15,2015,July,40,F,United Kingdom,England,Bikes,Road Bikes,2,1221.5,1125.5,2443,2251
+359,08/04/15,2015,August,40,F,United Kingdom,England,Bikes,Mountain Bikes,1,2295,2376,2295,2376
+360,08/12/15,2015,August,40,F,United Kingdom,England,Bikes,Touring Bikes,3,247.33,256.666667,742,770
+361,09/02/15,2015,September,40,F,United Kingdom,England,Bikes,Road Bikes,1,2443,2318,2443,2318
+362,09/25/15,2015,September,40,F,United Kingdom,England,Bikes,Touring Bikes,3,247.33,219.666667,742,659
+363,09/25/15,2015,September,40,F,United Kingdom,England,Accessories,Helmets,3,70,77.666667,210,233
+364,10/10/15,2015,October,40,F,United Kingdom,England,Bikes,Road Bikes,1,540,465,540,465
+365,10/10/15,2015,October,40,F,United Kingdom,England,Accessories,Helmets,1,420,456,420,456
+366,10/25/15,2015,October,40,F,United Kingdom,England,Accessories,Helmets,2,420,462.5,840,925
+367,10/31/15,2015,October,40,F,United Kingdom,England,Accessories,Helmets,2,437.5,441.5,875,883
+368,11/19/15,2015,November,40,F,United Kingdom,England,Bikes,Mountain Bikes,2,1147.5,1034,2295,2068
+369,11/24/15,2015,November,40,F,United Kingdom,England,Bikes,Mountain Bikes,1,2320,2094,2320,2094
+370,11/24/15,2015,November,40,F,United Kingdom,England,Accessories,Helmets,3,175,201.666667,525,605
+371,11/26/15,2015,November,40,F,United Kingdom,England,Bikes,Touring Bikes,2,1192,1117.5,2384,2235
+372,11/26/15,2015,November,40,F,United Kingdom,England,Accessories,Helmets,3,186.67,211,560,633
+373,11/28/15,2015,November,40,F,United Kingdom,England,Bikes,Touring Bikes,1,2384,2192,2384,2192
+374,12/11/15,2015,December,40,F,United Kingdom,England,Bikes,Road Bikes,3,180,167.333333,540,502
+375,12/11/15,2015,December,40,F,United Kingdom,England,Accessories,Helmets,1,630,669,630,669
+376,01/29/16,2016,January,41,M,Germany,Hessen,Accessories,Tires and Tubes,1,660,1066,660,1066
+377,01/29/16,2016,January,41,M,Germany,Hessen,Accessories,Tires and Tubes,1,37,56,37,56
+378,03/19/16,2016,March,41,M,Germany,Hessen,Bikes,Touring Bikes,1,2384,2988,2384,2988
+379,03/19/16,2016,March,41,M,Germany,Hessen,Accessories,Tires and Tubes,2,377,589,754,1178
+380,03/19/16,2016,March,41,M,Germany,Hessen,Accessories,Tires and Tubes,2,37.5,56.5,75,113
+381,06/13/16,2016,June,41,M,Germany,Hessen,Bikes,Road Bikes,3,814.33,1139.666667,2443,3419
+382,06/13/16,2016,June,41,M,Germany,Hessen,Accessories,Bottles and Cages,3,18,25.333333,54,76
+383,07/01/15,2015,July,41,M,Germany,Hessen,Accessories,Bottles and Cages,2,25,33.5,50,67
+384,07/01/15,2015,July,41,M,Germany,Hessen,Accessories,Bottles and Cages,3,46.67,59,140,177
+385,06/22/16,2016,June,41,F,Germany,Hamburg,Accessories,Cleaners,1,111,166,111,166
+386,10/05/15,2015,October,41,F,Germany,Hamburg,Accessories,Cleaners,3,63.67,84.666667,191,254
+387,01/15/16,2016,January,42,M,France,Seine Saint Denis,Accessories,Bottles and Cages,3,45,67,135,201
+388,01/15/16,2016,January,42,M,France,Seine Saint Denis,Clothing,Gloves,3,228.67,290,686,870
+389,01/15/16,2016,January,42,M,France,Seine Saint Denis,Accessories,Bottles and Cages,3,23.33,33,70,99
+390,04/24/16,2016,April,42,M,France,Seine Saint Denis,Accessories,Bottles and Cages,3,30,31.333333,90,94
+391,04/24/16,2016,April,42,M,France,Seine Saint Denis,Accessories,Bottles and Cages,3,1.67,2.666667,5,8
+392,09/28/15,2015,September,42,M,France,Seine Saint Denis,Accessories,Bottles and Cages,1,80,85,80,85
+393,09/28/15,2015,September,42,M,France,Seine Saint Denis,Accessories,Bottles and Cages,1,225,212,225,212
+394,07/05/15,2015,July,42,F,Germany,Saarland,Accessories,Bottles and Cages,1,105,138,105,138
+395,07/05/15,2015,July,42,F,Germany,Saarland,Accessories,Bottles and Cages,2,55,80.5,110,161
+396,01/24/16,2016,January,42,F,United Kingdom,England,Accessories,Tires and Tubes,1,400,498,400,498
+397,02/07/16,2016,February,42,F,United Kingdom,England,Accessories,Tires and Tubes,3,28,36,84,108
+398,02/07/16,2016,February,42,F,United Kingdom,England,Accessories,Tires and Tubes,3,186.33,216.333333,559,649
+399,02/07/16,2016,February,42,F,United Kingdom,England,Clothing,Gloves,1,392,483,392,483
+400,02/17/16,2016,February,42,F,United Kingdom,England,Bikes,Touring Bikes,1,2384,2415,2384,2415
+401,04/14/16,2016,April,42,F,United Kingdom,England,Accessories,Tires and Tubes,3,241.67,301,725,903
+402,04/14/16,2016,April,42,F,United Kingdom,England,Accessories,Tires and Tubes,1,40,49,40,49
+403,04/28/16,2016,April,42,F,United Kingdom,England,Accessories,Tires and Tubes,2,48,60.5,96,121
+404,04/28/16,2016,April,42,F,United Kingdom,England,Accessories,Tires and Tubes,2,204,240.5,408,481
+405,06/03/16,2016,June,42,F,United Kingdom,England,Bikes,Touring Bikes,3,247.33,238.666667,742,716
+406,06/18/16,2016,June,42,F,United Kingdom,England,Bikes,Touring Bikes,1,2384,2432,2384,2432
+407,06/18/16,2016,June,42,F,United Kingdom,England,Accessories,Tires and Tubes,3,8.33,10.666667,25,32
+408,06/18/16,2016,June,42,F,United Kingdom,England,Accessories,Tires and Tubes,1,406,460,406,460
+409,06/18/16,2016,June,42,F,United Kingdom,England,Accessories,Tires and Tubes,2,31,38,62,76
+410,06/28/16,2016,June,42,F,United Kingdom,England,Accessories,Tires and Tubes,1,36,43,36,43
+411,08/27/15,2015,August,42,F,United Kingdom,England,Accessories,Tires and Tubes,2,179.5,182.5,359,365
+412,10/21/15,2015,October,42,F,United Kingdom,England,Accessories,Tires and Tubes,1,522,558,522,558
+413,11/13/15,2015,November,42,F,United Kingdom,England,Accessories,Tires and Tubes,2,182.5,188.5,365,377
+414,11/13/15,2015,November,42,F,United Kingdom,England,Accessories,Tires and Tubes,2,46,48,92,96
+415,12/01/15,2015,December,42,F,United Kingdom,England,Bikes,Touring Bikes,2,1192,1133.5,2384,2267
+416,12/30/15,2015,December,42,F,United Kingdom,England,Bikes,Touring Bikes,1,742,676,742,676
+417,12/30/15,2015,December,42,F,United Kingdom,England,Clothing,Caps,3,75,90.666667,225,272
+418,06/20/16,2016,June,65,M,United States,California,Bikes,Touring Bikes,1,742,757,742,757
+419,05/26/16,2016,May,64,M,United States,Washington,Accessories,Bottles and Cages,1,210,249,210,249
+420,05/26/16,2016,May,64,M,United States,Washington,Accessories,Bottles and Cages,3,25,32,75,96
+421,05/26/16,2016,May,64,M,United States,Washington,Clothing,Vests,1,127,140,127,140
+422,06/16/16,2016,June,64,M,United States,Washington,Accessories,Helmets,1,315,382,315,382
+423,08/27/15,2015,August,64,M,United States,Washington,Accessories,Helmets,3,58.33,65.666667,175,197
+424,10/02/15,2015,October,64,M,United States,Washington,Accessories,Helmets,1,630,704,630,704
+425,04/18/16,2016,April,64,F,United States,Washington,Accessories,Tires and Tubes,3,326.67,398.666667,980,1196
+426,04/18/16,2016,April,64,F,United States,Washington,Accessories,Tires and Tubes,3,26.67,35.333333,80,106
+427,04/18/16,2016,April,64,F,United States,Washington,Accessories,Tires and Tubes,1,23,25,23,25
+428,10/17/15,2015,October,64,F,United States,Washington,Accessories,Tires and Tubes,1,92,106,92,106
+429,10/17/15,2015,October,64,F,United States,Washington,Accessories,Helmets,3,186.67,207,560,621
+430,06/16/16,2016,June,64,F,United States,California,Bikes,Touring Bikes,1,742,737,742,737
+431,06/16/16,2016,June,64,F,United States,California,Accessories,Helmets,3,70,89.666667,210,269
+432,06/16/16,2016,June,64,F,United States,California,Clothing,Gloves,1,686,734,686,734
+433,07/04/15,2015,July,64,F,United States,California,Accessories,Tires and Tubes,1,37,41,37,41
+434,01/16/16,2016,January,64,M,United States,California,Accessories,Tires and Tubes,3,105,134,315,402
+435,06/12/16,2016,June,64,M,United States,California,Accessories,Tires and Tubes,1,100,136,100,136
+436,07/27/16,2016,July,64,M,United States,California,Accessories,Tires and Tubes,3,25,29,75,87
+437,11/03/15,2015,November,64,M,United States,California,Accessories,Tires and Tubes,1,15,16,15,16
+438,11/03/15,2015,November,64,M,United States,California,Accessories,Tires and Tubes,2,157.5,178,315,356
+439,11/22/15,2015,November,64,M,United States,California,Accessories,Tires and Tubes,1,24,24,24,24
+440,11/22/15,2015,November,64,M,United States,California,Accessories,Tires and Tubes,3,21.33,21.333333,64,64
+441,11/22/15,2015,November,64,M,United States,California,Accessories,Cleaners,2,103.5,107.5,207,215
+442,01/26/16,2016,January,32,F,United States,Oregon,Accessories,Helmets,1,560,738,560,738
+443,04/01/16,2016,April,32,F,United States,Oregon,Bikes,Mountain Bikes,3,765,802.333333,2295,2407
+444,04/01/16,2016,April,32,F,United States,Oregon,Accessories,Helmets,1,980,1387,980,1387
+445,06/01/16,2016,June,32,F,United States,Oregon,Bikes,Mountain Bikes,3,765,826.333333,2295,2479
+446,06/09/16,2016,June,32,F,United States,Oregon,Bikes,Road Bikes,2,270,282,540,564
+447,06/22/16,2016,June,32,F,United States,Oregon,Bikes,Touring Bikes,1,742,675,742,675
+448,06/22/16,2016,June,32,F,United States,Oregon,Accessories,Helmets,3,291.67,352.666667,875,1058
+449,02/02/15,2015,February,32,F,United States,Oregon,Bikes,Mountain Bikes,1,2049,1719,2049,1719
+450,07/19/15,2015,July,32,F,United States,Oregon,Bikes,Mountain Bikes,3,765,783,2295,2349
+451,09/03/15,2015,September,32,F,United States,Oregon,Bikes,Mountain Bikes,1,2295,2133,2295,2133
+452,09/03/15,2015,September,32,F,United States,Oregon,Accessories,Helmets,2,52.5,56.5,105,113
+453,09/11/15,2015,September,32,F,United States,Oregon,Bikes,Mountain Bikes,3,773.33,695.666667,2320,2087
+454,01/28/16,2016,January,33,F,United States,Washington,Bikes,Road Bikes,1,540,506,540,506
+455,02/01/16,2016,February,33,F,United States,Washington,Accessories,Tires and Tubes,2,67.5,88,135,176
+456,02/01/16,2016,February,33,F,United States,Washington,Accessories,Tires and Tubes,2,26.5,34,53,68
+457,02/04/16,2016,February,33,F,United States,Washington,Accessories,Tires and Tubes,1,50,64,50,64
+458,02/04/16,2016,February,33,F,United States,Washington,Accessories,Tires and Tubes,1,29,37,29,37
+459,02/07/16,2016,February,33,F,United States,Washington,Bikes,Road Bikes,3,567,559.666667,1701,1679
+460,03/07/16,2016,March,33,F,United States,Washington,Accessories,Tires and Tubes,1,65,86,65,86
+461,03/07/16,2016,March,33,F,United States,Washington,Accessories,Tires and Tubes,2,44,57.5,88,115
+462,03/27/16,2016,March,33,F,United States,Washington,Accessories,Tires and Tubes,2,48,54.5,96,109
+463,03/27/16,2016,March,33,F,United States,Washington,Accessories,Tires and Tubes,3,119.67,157.333333,359,472
+464,04/26/16,2016,April,33,F,United States,Washington,Bikes,Touring Bikes,2,607.5,615,1215,1230
+465,05/08/16,2016,May,33,F,United States,Washington,Accessories,Tires and Tubes,1,60,86,60,86
+466,05/08/16,2016,May,33,F,United States,Washington,Accessories,Tires and Tubes,1,350,415,350,415
+467,05/30/16,2016,May,33,F,United States,Washington,Bikes,Touring Bikes,3,794.67,939.333333,2384,2818
+468,06/12/16,2016,June,33,F,United States,Washington,Bikes,Touring Bikes,1,742,758,742,758
+469,06/17/16,2016,June,33,F,United States,Washington,Bikes,Road Bikes,2,270,248,540,496
+470,06/17/16,2016,June,33,F,United States,Washington,Bikes,Road Bikes,2,270,289.5,540,579
+471,06/25/16,2016,June,33,F,United States,Washington,Accessories,Tires and Tubes,3,32.67,43,98,129
+472,06/25/16,2016,June,33,F,United States,Washington,Accessories,Tires and Tubes,2,46,59.5,92,119
+473,07/01/16,2016,July,33,F,United States,Washington,Accessories,Tires and Tubes,1,430,514,430,514
+474,07/01/16,2016,July,33,F,United States,Washington,Accessories,Tires and Tubes,2,27.5,37,55,74
+475,07/12/16,2016,July,33,F,United States,Washington,Accessories,Tires and Tubes,3,135.33,171.666667,406,515
+476,07/12/16,2016,July,33,F,United States,Washington,Accessories,Tires and Tubes,3,13.33,17.333333,40,52
+477,07/21/16,2016,July,33,F,United States,Washington,Accessories,Tires and Tubes,1,330,394,330,394
+478,05/20/15,2015,May,33,F,United States,Washington,Bikes,Road Bikes,2,500,449.5,1000,899
+479,07/01/15,2015,July,33,F,United States,Washington,Accessories,Tires and Tubes,3,280,310.333333,840,931
+480,07/01/15,2015,July,33,F,United States,Washington,Accessories,Tires and Tubes,1,150,153,150,153
+481,08/04/15,2015,August,33,F,United States,Washington,Accessories,Tires and Tubes,3,50,56,150,168
+482,10/01/15,2015,October,33,F,United States,Washington,Accessories,Tires and Tubes,2,337.5,362.5,675,725
+483,10/01/15,2015,October,33,F,United States,Washington,Accessories,Tires and Tubes,1,25,24,25,24
+484,10/22/15,2015,October,33,F,United States,Washington,Accessories,Tires and Tubes,3,141.67,150.666667,425,452
+485,10/22/15,2015,October,33,F,United States,Washington,Accessories,Tires and Tubes,3,21.33,23.333333,64,70
+486,11/15/15,2015,November,33,F,United States,Washington,Accessories,Tires and Tubes,1,140,150,140,150
+487,11/19/15,2015,November,33,F,United States,Washington,Bikes,Road Bikes,1,1701,1711,1701,1711
+488,11/21/15,2015,November,33,F,United States,Washington,Bikes,Road Bikes,2,560,488,1120,976
+489,11/21/15,2015,November,33,F,United States,Washington,Accessories,Tires and Tubes,3,8,9.666667,24,29
+490,11/21/15,2015,November,33,F,United States,Washington,Accessories,Tires and Tubes,1,200,206,200,206
+491,12/17/15,2015,December,33,F,United States,Washington,Accessories,Tires and Tubes,3,1.33,1.333333,4,4
+492,12/17/15,2015,December,33,F,United States,Washington,Accessories,Tires and Tubes,1,652,717,652,717
+493,12/17/15,2015,December,33,F,United States,Washington,Accessories,Tires and Tubes,3,20,22.333333,60,67
+494,12/18/15,2015,December,33,F,United States,Washington,Accessories,Tires and Tubes,2,180,208,360,416
+495,12/18/15,2015,December,33,F,United States,Washington,Accessories,Tires and Tubes,3,41.67,45.666667,125,137
+496,12/26/15,2015,December,33,F,United States,Washington,Accessories,Tires and Tubes,2,52,55.5,104,111
+497,12/26/15,2015,December,33,F,United States,Washington,Accessories,Tires and Tubes,1,913,948,913,948
+498,06/02/16,2016,June,33,M,United States,Washington,Bikes,Touring Bikes,3,247.33,251.333333,742,754
+499,06/24/16,2016,June,33,M,United States,Washington,Bikes,Touring Bikes,2,1192,1205.5,2384,2411
+500,01/28/16,2016,January,33,F,United States,Washington,Clothing,Caps,2,112.5,151,225,302
+501,02/07/16,2016,February,33,F,United States,Washington,Clothing,Caps,3,6,7,18,21
+502,06/17/16,2016,June,33,F,United States,Washington,Clothing,Caps,2,58.5,62,117,124
+503,07/24/15,2015,July,33,F,United States,Washington,Clothing,Caps,1,180,231,180,231
+504,09/24/15,2015,September,33,F,United States,Washington,Clothing,Caps,1,216,196,216,196
+505,11/24/15,2015,November,41,M,United States,California,Accessories,Bike Stands,2,795,886,1590,1772
+506,08/28/15,2015,August,63,M,United States,Washington,Bikes,Mountain Bikes,2,1147.5,1074.5,2295,2149
+507,01/02/16,2016,January,34,M,United States,Washington,Accessories,Tires and Tubes,1,630,717,630,717
+508,01/02/16,2016,January,34,M,United States,Washington,Accessories,Tires and Tubes,1,95,112,95,112
+509,01/14/16,2016,January,34,M,United States,Washington,Accessories,Tires and Tubes,1,300,353,300,353
+510,01/14/16,2016,January,34,M,United States,Washington,Accessories,Tires and Tubes,2,65,89.5,130,179
+511,02/09/16,2016,February,34,M,United States,Washington,Accessories,Tires and Tubes,3,8.33,11,25,33
+512,02/10/16,2016,February,34,M,United States,Washington,Accessories,Tires and Tubes,2,280,329.5,560,659
+513,02/10/16,2016,February,34,M,United States,Washington,Accessories,Tires and Tubes,2,4.5,6.5,9,13
+514,04/20/16,2016,April,34,M,United States,Washington,Accessories,Tires and Tubes,3,326,417.333333,978,1252
+515,04/24/16,2016,April,34,M,United States,Washington,Accessories,Tires and Tubes,2,60,70.5,120,141
+516,06/01/16,2016,June,34,M,United States,Washington,Accessories,Tires and Tubes,2,195,252,390,504
+517,06/01/16,2016,June,34,M,United States,Washington,Accessories,Tires and Tubes,1,50,60,50,60
+518,07/02/16,2016,July,34,M,United States,Washington,Accessories,Tires and Tubes,1,203,239,203,239
+519,07/02/16,2016,July,34,M,United States,Washington,Accessories,Tires and Tubes,2,37.5,46,75,92
+520,07/02/16,2016,July,34,M,United States,Washington,Accessories,Tires and Tubes,2,28.5,37.5,57,75
+521,07/20/15,2015,July,34,M,United States,Washington,Accessories,Tires and Tubes,2,175,205.5,350,411
+522,07/20/15,2015,July,34,M,United States,Washington,Accessories,Tires and Tubes,2,38,43.5,76,87
+523,07/20/15,2015,July,34,M,United States,Washington,Accessories,Tires and Tubes,3,6,7,18,21
+524,01/30/16,2016,January,34,F,United States,California,Accessories,Cleaners,1,191,253,191,253
+525,07/15/15,2015,July,34,F,United States,California,Accessories,Cleaners,2,12,12,24,24
+526,11/29/15,2015,November,34,F,United States,California,Accessories,Cleaners,3,39.67,42.333333,119,127
+527,07/05/15,2015,July,35,F,United States,California,Accessories,Cleaners,1,231,273,231,273
+528,07/09/15,2015,July,35,F,United States,California,Accessories,Cleaners,2,28,31.5,56,63
+529,08/10/15,2015,August,35,F,United States,California,Accessories,Cleaners,2,95.5,114.5,191,229
+530,09/09/15,2015,September,35,F,United States,California,Accessories,Cleaners,1,111,115,111,115
+531,11/03/15,2015,November,35,F,United States,California,Accessories,Cleaners,1,183,181,183,181
+532,01/28/16,2016,January,35,M,United States,California,Clothing,Vests,2,63.5,77,127,154
+533,05/09/16,2016,May,42,M,United States,Washington,Accessories,Cleaners,2,28,38.5,56,77
+534,09/16/15,2015,September,42,M,United States,Washington,Accessories,Cleaners,1,40,44,40,44
+535,02/01/16,2016,February,43,F,United States,California,Accessories,Tires and Tubes,2,333.5,431,667,862
+536,02/01/16,2016,February,43,F,United States,California,Accessories,Tires and Tubes,2,35,47,70,94
+537,02/07/16,2016,February,43,F,United States,California,Bikes,Road Bikes,3,567,553.333333,1701,1660
+538,02/13/16,2016,February,43,F,United States,California,Accessories,Tires and Tubes,1,84,100,84,100
+539,02/13/16,2016,February,43,F,United States,California,Accessories,Tires and Tubes,3,184.67,215,554,645
+540,02/18/16,2016,February,43,F,United States,California,Bikes,Road Bikes,1,540,622,540,622
+541,02/24/16,2016,February,43,F,United States,California,Accessories,Tires and Tubes,1,69,83,69,83
+542,02/24/16,2016,February,43,F,United States,California,Bikes,Road Bikes,3,373.33,375.333333,1120,1126
+543,02/24/16,2016,February,43,F,United States,California,Accessories,Tires and Tubes,1,56,74,56,74
+544,02/24/16,2016,February,43,F,United States,California,Accessories,Tires and Tubes,1,450,546,450,546
+545,02/27/16,2016,February,43,F,United States,California,Accessories,Tires and Tubes,1,945,1091,945,1091
+546,02/27/16,2016,February,43,F,United States,California,Accessories,Tires and Tubes,3,18.33,23,55,69
+547,03/31/16,2016,March,43,F,United States,California,Accessories,Bike Racks,2,660,867,1320,1734
+548,04/11/16,2016,April,43,F,United States,California,Accessories,Tires and Tubes,1,870,1221,870,1221
+549,04/11/16,2016,April,43,F,United States,California,Accessories,Tires and Tubes,1,80,97,80,97
+550,04/19/16,2016,April,43,F,United States,California,Bikes,Road Bikes,1,1120,1218,1120,1218
+551,04/21/16,2016,April,43,F,United States,California,Accessories,Tires and Tubes,2,30,35.5,60,71
+552,05/03/16,2016,May,43,F,United States,California,Bikes,Road Bikes,3,180,173.666667,540,521
+553,05/23/16,2016,May,43,F,United States,California,Accessories,Tires and Tubes,3,222.33,312,667,936
+554,05/23/16,2016,May,43,F,United States,California,Accessories,Tires and Tubes,2,57.5,69.5,115,139
+555,05/23/16,2016,May,43,F,United States,California,Accessories,Tires and Tubes,2,7,8.5,14,17
+556,05/24/16,2016,May,43,F,United States,California,Bikes,Road Bikes,1,540,549,540,549
+557,06/03/16,2016,June,43,F,United States,California,Bikes,Road Bikes,2,560,537,1120,1074
+558,06/04/15,2015,June,43,F,United States,California,Bikes,Road Bikes,3,261,246.333333,783,739
+559,07/13/15,2015,July,43,F,United States,California,Accessories,Tires and Tubes,1,115,135,115,135
+560,07/13/15,2015,July,43,F,United States,California,Accessories,Tires and Tubes,1,140,160,140,160
+561,07/28/15,2015,July,43,F,United States,California,Bikes,Road Bikes,1,1120,997,1120,997
+562,08/12/15,2015,August,43,F,United States,California,Bikes,Road Bikes,1,1701,1629,1701,1629
+563,10/18/15,2015,October,43,F,United States,California,Accessories,Tires and Tubes,2,367.5,409.5,735,819
+564,10/18/15,2015,October,43,F,United States,California,Accessories,Tires and Tubes,3,46.67,54.666667,140,164
+565,11/05/15,2015,November,43,F,United States,California,Bikes,Road Bikes,1,1120,1062,1120,1062
+566,12/06/15,2015,December,43,F,United States,California,Accessories,Tires and Tubes,2,75,76.5,150,153
+567,12/06/15,2015,December,43,F,United States,California,Accessories,Tires and Tubes,3,23.33,23.666667,70,71
+568,12/07/15,2015,December,43,F,United States,California,Accessories,Tires and Tubes,2,261,269.5,522,539
+569,12/07/15,2015,December,43,F,United States,California,Accessories,Tires and Tubes,1,25,29,25,29
+570,12/13/15,2015,December,43,F,United States,California,Accessories,Tires and Tubes,3,11.67,12.333333,35,37
+571,12/17/15,2015,December,43,F,United States,California,Bikes,Road Bikes,1,1120,1032,1120,1032
+572,12/18/15,2015,December,43,F,United States,California,Accessories,Tires and Tubes,1,100,112,100,112
+573,12/18/15,2015,December,43,F,United States,California,Accessories,Tires and Tubes,3,256.67,295,770,885
+574,12/18/15,2015,December,43,F,United States,California,Accessories,Tires and Tubes,3,7.67,8,23,24
+575,12/28/15,2015,December,43,F,United States,California,Accessories,Tires and Tubes,3,326.67,384.333333,980,1153
+576,12/28/15,2015,December,43,F,United States,California,Accessories,Tires and Tubes,3,1.67,2,5,6
+577,08/02/15,2015,August,62,F,United States,Washington,Bikes,Mountain Bikes,1,2295,2210,2295,2210
+578,08/25/15,2015,August,62,M,United States,California,Clothing,Caps,1,63,69,63,69
+579,02/09/16,2016,February,37,M,United States,Oregon,Accessories,Fenders,3,132,154.666667,396,464
+580,02/09/16,2016,February,37,M,United States,Oregon,Accessories,Cleaners,3,5.33,6.333333,16,19
+581,04/27/16,2016,April,37,M,United States,Oregon,Bikes,Mountain Bikes,3,765,818.666667,2295,2456
+582,06/20/16,2016,June,37,M,United States,Oregon,Accessories,Fenders,1,593,633,593,633
+583,08/06/15,2015,August,37,M,United States,Oregon,Bikes,Mountain Bikes,1,2295,2257,2295,2257
+584,08/06/15,2015,August,37,M,United States,Oregon,Accessories,Cleaners,1,135,164,135,164
+585,08/31/15,2015,August,37,M,United States,Oregon,Accessories,Cleaners,3,77,78.333333,231,235
+586,09/19/15,2015,September,37,M,United States,Oregon,Bikes,Mountain Bikes,3,765,745.666667,2295,2237
+587,12/29/15,2015,December,37,M,United States,Oregon,Bikes,Road Bikes,3,373.33,360.666667,1120,1082
+588,05/28/16,2016,May,37,F,United States,Oregon,Accessories,Fenders,1,528,615,528,615
+589,09/21/15,2015,September,37,F,United States,Oregon,Accessories,Hydration Packs,2,605,674.5,1210,1349
+590,09/21/15,2015,September,37,F,United States,Oregon,Accessories,Cleaners,1,127,140,127,140
+591,01/03/16,2016,January,43,F,United States,Oregon,Accessories,Tires and Tubes,2,358.5,472.5,717,945
+592,01/10/16,2016,January,43,F,United States,Oregon,Accessories,Tires and Tubes,1,840,1108,840,1108
+593,01/10/16,2016,January,43,F,United States,Oregon,Accessories,Tires and Tubes,3,11.67,15.333333,35,46
+594,02/14/16,2016,February,43,F,United States,Oregon,Accessories,Tires and Tubes,3,1.67,2.333333,5,7
+595,02/14/16,2016,February,43,F,United States,Oregon,Accessories,Tires and Tubes,2,23,32,46,64
+596,04/19/16,2016,April,43,F,United States,Oregon,Accessories,Tires and Tubes,1,105,146,105,146
+597,07/08/16,2016,July,43,F,United States,Oregon,Accessories,Tires and Tubes,2,18.5,22,37,44
+598,08/04/15,2015,August,43,F,United States,Oregon,Accessories,Tires and Tubes,2,50,54.5,100,109
+599,08/04/15,2015,August,43,F,United States,Oregon,Accessories,Tires and Tubes,3,66.67,69,200,207
+600,12/02/15,2015,December,43,F,United States,Oregon,Accessories,Tires and Tubes,2,54,60,108,120
+601,12/02/15,2015,December,43,F,United States,Oregon,Accessories,Tires and Tubes,1,587,630,587,630
+602,12/07/15,2015,December,43,F,United States,Oregon,Accessories,Tires and Tubes,2,75,82.5,150,165
+603,12/07/15,2015,December,43,F,United States,Oregon,Accessories,Tires and Tubes,1,420,497,420,497
+604,03/16/16,2016,March,44,F,United States,Washington,Accessories,Tires and Tubes,2,34.5,44,69,88
+605,04/15/16,2016,April,44,F,United States,Washington,Accessories,Tires and Tubes,2,192.5,249,385,498
+606,04/21/16,2016,April,44,F,United States,Washington,Accessories,Tires and Tubes,2,44,52.5,88,105
+607,04/21/16,2016,April,44,F,United States,Washington,Accessories,Tires and Tubes,2,161,212,322,424
+608,05/04/16,2016,May,44,F,United States,Washington,Accessories,Tires and Tubes,1,65,85,65,85
+609,06/05/16,2016,June,44,F,United States,Washington,Accessories,Tires and Tubes,2,12.5,17,25,34
+610,06/19/16,2016,June,44,F,United States,Washington,Accessories,Tires and Tubes,3,11.33,14,34,42
+611,07/03/16,2016,July,44,F,United States,Washington,Accessories,Tires and Tubes,2,75,86.5,150,173
+612,08/29/15,2015,August,44,F,United States,Washington,Accessories,Tires and Tubes,3,338.33,350.666667,1015,1052
+613,08/29/15,2015,August,44,F,United States,Washington,Accessories,Tires and Tubes,1,7,8,7,8
+614,10/20/15,2015,October,44,F,United States,Washington,Accessories,Tires and Tubes,1,595,668,595,668
+615,10/20/15,2015,October,44,F,United States,Washington,Accessories,Tires and Tubes,1,80,83,80,83
+616,11/18/15,2015,November,44,F,United States,Washington,Accessories,Tires and Tubes,3,15.33,17,46,51
+617,11/21/15,2015,November,44,F,United States,Washington,Accessories,Tires and Tubes,2,55,59.5,110,119
+618,11/21/15,2015,November,44,F,United States,Washington,Accessories,Tires and Tubes,3,35,42.666667,105,128
+619,11/23/15,2015,November,44,F,United States,Washington,Accessories,Tires and Tubes,3,8.33,9,25,27
+620,12/04/15,2015,December,44,F,United States,Washington,Accessories,Tires and Tubes,1,20,21,20,21
+621,12/04/15,2015,December,44,F,United States,Washington,Accessories,Tires and Tubes,3,280,283.333333,840,850
+622,12/12/15,2015,December,44,F,United States,Washington,Accessories,Tires and Tubes,3,315,342.666667,945,1028
+623,01/16/16,2016,January,44,M,United States,Washington,Accessories,Tires and Tubes,3,3,3.333333,9,10
+624,03/07/16,2016,March,44,M,United States,Washington,Accessories,Tires and Tubes,1,50,69,50,69
+625,03/27/16,2016,March,44,M,United States,Washington,Accessories,Tires and Tubes,2,57.5,74,115,148
+626,03/27/16,2016,March,44,M,United States,Washington,Accessories,Tires and Tubes,1,60,75,60,75
+627,05/14/16,2016,May,44,M,United States,Washington,Accessories,Tires and Tubes,3,45,48.666667,135,146
+628,05/14/16,2016,May,44,M,United States,Washington,Accessories,Tires and Tubes,1,551,746,551,746
+629,05/14/16,2016,May,44,M,United States,Washington,Accessories,Tires and Tubes,1,27,36,27,36
+630,05/29/16,2016,May,44,M,United States,Washington,Accessories,Tires and Tubes,2,2.5,3,5,6
+631,06/04/16,2016,June,44,M,United States,Washington,Accessories,Tires and Tubes,2,65,76.5,130,153
+632,06/04/16,2016,June,44,M,United States,Washington,Accessories,Tires and Tubes,3,241.67,324.333333,725,973
+633,07/01/16,2016,July,44,M,United States,Washington,Accessories,Tires and Tubes,1,725,973,725,973
+634,07/01/16,2016,July,44,M,United States,Washington,Accessories,Tires and Tubes,2,50,60.5,100,121
+635,10/22/15,2015,October,44,M,United States,Washington,Accessories,Tires and Tubes,3,1.67,2,5,6
+636,10/22/15,2015,October,44,M,United States,Washington,Accessories,Tires and Tubes,2,15,16.5,30,33
+637,11/08/15,2015,November,44,M,United States,Washington,Accessories,Tires and Tubes,2,42.5,47,85,94
+638,11/08/15,2015,November,44,M,United States,Washington,Accessories,Tires and Tubes,1,1015,1090,1015,1090
+639,11/08/15,2015,November,44,M,United States,Washington,Accessories,Tires and Tubes,2,26.5,27.5,53,55
+640,12/17/15,2015,December,44,M,United States,Washington,Accessories,Tires and Tubes,3,5.33,6.333333,16,19
+641,12/17/15,2015,December,44,M,United States,Washington,Accessories,Tires and Tubes,3,141.67,156.333333,425,469
+642,12/17/15,2015,December,44,M,United States,Washington,Accessories,Tires and Tubes,2,23,27,46,54
+643,06/05/16,2016,June,44,F,United States,Washington,Accessories,Cleaners,1,231,288,231,288
+644,01/17/16,2016,January,45,F,United States,Oregon,Bikes,Mountain Bikes,2,1147.5,1105.5,2295,2211
+645,01/24/16,2016,January,45,F,United States,Oregon,Bikes,Mountain Bikes,2,1160,1121,2320,2242
+646,04/24/16,2016,April,45,F,United States,Oregon,Bikes,Road Bikes,2,850.5,840,1701,1680
+647,04/04/15,2015,April,45,F,United States,Oregon,Bikes,Road Bikes,1,1000,891,1000,891
+648,05/09/15,2015,May,45,F,United States,Oregon,Bikes,Road Bikes,2,500,465.5,1000,931
+649,05/16/15,2015,May,45,F,United States,Oregon,Bikes,Road Bikes,3,333.33,313.666667,1000,941
+650,08/22/15,2015,August,45,F,United States,Oregon,Bikes,Mountain Bikes,2,1147.5,1164,2295,2328
+651,11/15/15,2015,November,45,F,United States,Oregon,Bikes,Mountain Bikes,3,773.33,702,2320,2106
+652,12/07/15,2015,December,45,F,United States,Oregon,Bikes,Mountain Bikes,3,256.33,261.333333,769,784
+653,02/20/16,2016,February,60,F,United States,California,Accessories,Fenders,1,220,303,220,303
+654,02/20/16,2016,February,60,F,United States,California,Accessories,Cleaners,2,71.5,86.5,143,173
+655,03/11/16,2016,March,60,F,United States,California,Accessories,Fenders,3,197.67,262.333333,593,787
+656,08/13/15,2015,August,60,F,United States,California,Accessories,Cleaners,2,16,19,32,38
+657,11/10/15,2015,November,60,F,United States,California,Accessories,Cleaners,2,8,8,16,16
+658,07/16/16,2016,July,59,F,United States,Washington,Accessories,Tires and Tubes,1,815,933,815,933
+659,09/25/15,2015,September,59,F,United States,Washington,Accessories,Tires and Tubes,2,297.5,342.5,595,685
+660,09/25/15,2015,September,59,F,United States,Washington,Accessories,Tires and Tubes,2,60,68,120,136
+661,09/25/15,2015,September,59,F,United States,Washington,Accessories,Tires and Tubes,3,19,22.666667,57,68
+662,11/19/15,2015,November,59,F,United States,Washington,Accessories,Tires and Tubes,3,50,53.666667,150,161
+663,11/22/15,2015,November,59,F,United States,Washington,Accessories,Tires and Tubes,3,15.33,18,46,54
+664,08/03/15,2015,August,59,M,United States,California,Accessories,Bike Stands,2,238.5,288,477,576
+665,03/28/16,2016,March,58,M,United States,California,Clothing,Jerseys,3,300,343,900,1029
+666,06/15/16,2016,June,58,M,United States,California,Bikes,Mountain Bikes,2,1147.5,1220,2295,2440
+667,06/17/16,2016,June,58,M,United States,California,Bikes,Mountain Bikes,3,773.33,840.666667,2320,2522
+668,08/09/15,2015,August,58,M,United States,California,Bikes,Mountain Bikes,3,765,739.666667,2295,2219
+669,08/09/15,2015,August,58,M,United States,California,Clothing,Jerseys,3,366.67,435.666667,1100,1307
+670,08/24/15,2015,August,58,M,United States,California,Bikes,Mountain Bikes,3,765,710.333333,2295,2131
+671,11/07/15,2015,November,58,M,United States,California,Bikes,Road Bikes,2,270,256,540,512
+672,11/24/15,2015,November,58,M,United States,California,Bikes,Mountain Bikes,1,2295,2220,2295,2220
+673,11/24/15,2015,November,58,M,United States,California,Clothing,Jerseys,3,522,483.666667,1566,1451
+674,11/26/15,2015,November,58,M,United States,California,Clothing,Jerseys,3,300,308.666667,900,926
+675,08/04/15,2015,August,58,M,United States,Washington,Bikes,Mountain Bikes,2,1160,1140,2320,2280
+676,08/04/15,2015,August,58,M,United States,Washington,Accessories,Bottles and Cages,1,30,33,30,33
+677,08/04/15,2015,August,58,M,United States,Washington,Accessories,Bottles and Cages,1,140,163,140,163
+678,08/04/15,2015,August,58,M,United States,Washington,Accessories,Hydration Packs,2,687.5,745.5,1375,1491
+679,03/19/16,2016,March,58,M,United States,California,Accessories,Helmets,2,245,291.5,490,583
+680,03/28/16,2016,March,58,M,United States,California,Accessories,Helmets,3,23.33,29,70,87
+681,06/24/16,2016,June,58,M,United States,California,Accessories,Helmets,3,315,411,945,1233
+682,08/24/15,2015,August,58,M,United States,California,Accessories,Helmets,3,326.67,368.666667,980,1106
+683,09/12/15,2015,September,58,M,United States,California,Accessories,Helmets,3,315,364,945,1092
+684,07/10/15,2015,July,35,F,Germany,Nordrhein-Westfalen,Bikes,Mountain Bikes,1,2320,2548,2320,2548
+685,01/06/16,2016,January,36,F,United Kingdom,England,Bikes,Touring Bikes,3,247.33,247.666667,742,743
+686,01/21/16,2016,January,36,F,United Kingdom,England,Bikes,Touring Bikes,3,247.33,268,742,804
+687,01/28/16,2016,January,36,F,United Kingdom,England,Bikes,Touring Bikes,2,1192,1229.5,2384,2459
+688,04/26/16,2016,April,36,F,United Kingdom,England,Bikes,Touring Bikes,3,247.33,260.666667,742,782
+689,06/09/16,2016,June,36,F,United Kingdom,England,Bikes,Touring Bikes,2,1192,1275,2384,2550
+690,12/06/15,2015,December,36,F,United Kingdom,England,Bikes,Touring Bikes,3,794.67,722.666667,2384,2168
+691,12/18/15,2015,December,36,F,United Kingdom,England,Bikes,Touring Bikes,2,1192,1044.5,2384,2089
+692,07/08/15,2015,July,36,F,Germany,Bayern,Bikes,Mountain Bikes,2,1160,1253,2320,2506
+693,01/08/16,2016,January,35,M,France,Seine (Paris),Accessories,Helmets,2,350,505.5,700,1011
+694,06/05/16,2016,June,35,M,France,Seine (Paris),Accessories,Bottles and Cages,1,36,58,36,58
+695,06/05/16,2016,June,35,M,France,Seine (Paris),Accessories,Bottles and Cages,2,35,35.5,70,71
+696,06/05/16,2016,June,35,M,France,Seine (Paris),Accessories,Helmets,3,280,301.666667,840,905
+697,03/31/15,2015,March,35,M,France,Seine (Paris),Bikes,Mountain Bikes,2,1035.5,710,2071,1420
+698,07/09/15,2015,July,35,M,France,Seine (Paris),Bikes,Mountain Bikes,2,1160,942,2320,1884
+699,07/09/15,2015,July,35,M,France,Seine (Paris),Accessories,Bottles and Cages,2,55,47.5,110,95
+700,07/09/15,2015,July,35,M,France,Seine (Paris),Accessories,Bottles and Cages,2,30,29,60,58
+701,07/09/15,2015,July,35,M,France,Seine (Paris),Accessories,Helmets,3,198.33,283.666667,595,851
+702,09/04/15,2015,September,35,M,France,Seine (Paris),Accessories,Helmets,3,81.67,65,245,195
+703,01/20/16,2016,January,36,M,United Kingdom,England,Bikes,Touring Bikes,2,1192,1360,2384,2720
+704,05/21/16,2016,May,36,M,United Kingdom,England,Bikes,Touring Bikes,3,247.33,262,742,786
+705,07/23/15,2015,July,36,M,United Kingdom,England,Bikes,Mountain Bikes,1,2320,2007,2320,2007
+706,10/02/15,2015,October,36,M,United Kingdom,England,Bikes,Mountain Bikes,2,270,264.5,540,529
+707,10/09/15,2015,October,36,M,United Kingdom,England,Bikes,Mountain Bikes,2,384.5,375.5,769,751
+708,10/30/15,2015,October,36,M,United Kingdom,England,Bikes,Mountain Bikes,3,180,183.666667,540,551
+709,07/03/15,2015,July,36,M,Germany,Nordrhein-Westfalen,Bikes,Mountain Bikes,3,773.33,908.666667,2320,2726
+710,07/03/15,2015,July,36,M,Germany,Nordrhein-Westfalen,Accessories,Bottles and Cages,1,30,40,30,40
+711,07/03/15,2015,July,36,M,Germany,Nordrhein-Westfalen,Accessories,Bottles and Cages,2,17.5,23.5,35,47
+712,07/03/15,2015,July,36,M,Germany,Nordrhein-Westfalen,Accessories,Helmets,3,186.67,265,560,795
+713,04/10/15,2015,April,36,M,France,Seine (Paris),Bikes,Mountain Bikes,1,2049,2267,2049,2267
+714,07/29/15,2015,July,36,M,France,Seine (Paris),Bikes,Mountain Bikes,2,1147.5,1163,2295,2326
+715,04/30/15,2015,April,61,F,France,Seine (Paris),Bikes,Mountain Bikes,2,1024.5,1077,2049,2154
+716,07/06/15,2015,July,61,F,France,Seine (Paris),Bikes,Mountain Bikes,1,2295,1630,2295,1630
+717,07/06/15,2015,July,61,F,France,Seine (Paris),Accessories,Bottles and Cages,3,43.33,52.333333,130,157
+718,07/06/15,2015,July,61,F,France,Seine (Paris),Accessories,Bottles and Cages,1,145,204,145,204
+719,07/06/15,2015,July,61,F,France,Seine (Paris),Clothing,Jerseys,1,108,100,108,100
+720,01/20/16,2016,January,61,M,United Kingdom,England,Bikes,Touring Bikes,2,1192,1207,2384,2414
+721,01/20/16,2016,January,61,M,United Kingdom,England,Accessories,Tires and Tubes,3,183.67,244.333333,551,733
+722,01/20/16,2016,January,61,M,United Kingdom,England,Accessories,Tires and Tubes,3,23.33,30,70,90
+723,01/20/16,2016,January,61,M,United Kingdom,England,Accessories,Helmets,3,35,40,105,120
+724,04/24/16,2016,April,61,M,United Kingdom,England,Accessories,Tires and Tubes,3,24,30.666667,72,92
+725,04/24/16,2016,April,61,M,United Kingdom,England,Accessories,Helmets,3,338.33,433.666667,1015,1301
+726,07/07/15,2015,July,61,M,United Kingdom,England,Bikes,Mountain Bikes,2,1147.5,1084.5,2295,2169
+727,07/07/15,2015,July,61,M,United Kingdom,England,Accessories,Helmets,2,402.5,491,805,982
+728,07/07/15,2015,July,61,M,United Kingdom,England,Clothing,Caps,2,36,39,72,78
+729,09/03/15,2015,September,61,M,United Kingdom,England,Accessories,Tires and Tubes,3,12,13.666667,36,41
+730,09/03/15,2015,September,61,M,United Kingdom,England,Accessories,Tires and Tubes,2,86,96.5,172,193
+731,01/13/16,2016,January,35,M,France,Pas de Calais,Accessories,Bottles and Cages,1,75,90,75,90
+732,01/13/16,2016,January,35,M,France,Pas de Calais,Accessories,Bottles and Cages,3,48,49.666667,144,149
+733,01/13/16,2016,January,35,M,France,Pas de Calais,Accessories,Helmets,2,385,414,770,828
+734,09/27/15,2015,September,35,M,France,Pas de Calais,Accessories,Bottles and Cages,1,130,167,130,167
+735,09/27/15,2015,September,35,M,France,Pas de Calais,Accessories,Bottles and Cages,2,18,22.5,36,45
+736,01/24/16,2016,January,40,F,United Kingdom,England,Clothing,Gloves,3,73.33,91.333333,220,274
+737,04/25/15,2015,April,40,F,France,Seine Saint Denis,Bikes,Mountain Bikes,2,1024.5,708,2049,1416
+738,07/04/15,2015,July,40,F,France,Seine Saint Denis,Bikes,Mountain Bikes,2,1160,1340.5,2320,2681
+739,07/04/15,2015,July,40,F,France,Seine Saint Denis,Accessories,Tires and Tubes,1,35,36,35,36
+740,08/12/15,2015,August,40,F,France,Seine Saint Denis,Accessories,Tires and Tubes,3,38.67,51,116,153
+741,09/10/15,2015,September,40,F,France,Seine Saint Denis,Accessories,Tires and Tubes,2,420,522.5,840,1045
+742,09/10/15,2015,September,40,F,France,Seine Saint Denis,Accessories,Tires and Tubes,2,33,39,66,78
+743,08/15/15,2015,August,42,F,France,Seine (Paris),Clothing,Jerseys,2,100,104.5,200,209
+744,08/15/15,2015,August,42,F,France,Seine (Paris),Clothing,Socks,2,63,46.5,126,93
+745,10/02/15,2015,October,42,M,Germany,Hamburg,Clothing,Jerseys,3,216,257.333333,648,772
+746,01/09/16,2016,January,43,F,Germany,Hessen,Clothing,Jerseys,3,83.33,117.333333,250,352
+747,07/16/16,2016,July,43,F,Germany,Hessen,Accessories,Bottles and Cages,2,45,59.5,90,119
+748,07/16/16,2016,July,43,F,Germany,Hessen,Accessories,Bottles and Cages,1,27,39,27,39
+749,07/16/16,2016,July,43,F,Germany,Hessen,Clothing,Jerseys,1,1188,1818,1188,1818
+750,11/02/15,2015,November,57,M,France,Seine Saint Denis,Accessories,Bottles and Cages,1,81,74,81,74
+751,11/02/15,2015,November,57,M,France,Seine Saint Denis,Accessories,Bottles and Cages,1,140,184,140,184
+752,06/05/16,2016,June,55,F,Germany,Bayern,Accessories,Bottles and Cages,2,45,64.5,90,129
+753,06/05/16,2016,June,55,F,Germany,Bayern,Clothing,Caps,2,85.5,121,171,242
+754,06/05/16,2016,June,55,F,Germany,Bayern,Accessories,Bottles and Cages,2,112.5,185.5,225,371
+755,01/23/16,2016,January,55,M,United Kingdom,England,Accessories,Bottles and Cages,2,17.5,22,35,44
+756,01/23/16,2016,January,55,M,United Kingdom,England,Accessories,Bottles and Cages,1,110,145,110,145
+757,02/22/16,2016,February,55,M,United Kingdom,England,Accessories,Bottles and Cages,3,43.33,53,130,159
+758,02/22/16,2016,February,55,M,United Kingdom,England,Accessories,Bottles and Cages,2,25,34,50,68
+759,03/29/16,2016,March,55,M,United Kingdom,England,Accessories,Bottles and Cages,2,52.5,72,105,144
+760,03/29/16,2016,March,55,M,United Kingdom,England,Accessories,Bottles and Cages,2,22.5,27.5,45,55
+761,04/07/16,2016,April,55,M,United Kingdom,England,Accessories,Bottles and Cages,2,130.5,179.5,261,359
+762,04/07/16,2016,April,55,M,United Kingdom,England,Accessories,Bottles and Cages,3,36.67,50.333333,110,151
+763,05/05/16,2016,May,55,M,United Kingdom,England,Accessories,Bottles and Cages,1,90,121,90,121
+764,05/05/16,2016,May,55,M,United Kingdom,England,Accessories,Bottles and Cages,3,48.33,60.666667,145,182
+765,08/15/15,2015,August,55,M,United Kingdom,England,Accessories,Bottles and Cages,2,10,11,20,22
+766,02/28/16,2016,February,54,F,Germany,Hessen,Accessories,Bottles and Cages,3,24,38,72,114
+767,02/28/16,2016,February,54,F,Germany,Hessen,Accessories,Bottles and Cages,3,31.67,46,95,138
+768,02/28/16,2016,February,54,F,Germany,Hessen,Clothing,Gloves,1,122,167,122,167
+769,09/08/15,2015,September,54,M,Germany,Nordrhein-Westfalen,Accessories,Tires and Tubes,2,20,28,40,56
+770,09/08/15,2015,September,54,M,Germany,Nordrhein-Westfalen,Accessories,Tires and Tubes,2,20.5,28,41,56
+771,10/17/15,2015,October,54,M,Germany,Nordrhein-Westfalen,Accessories,Tires and Tubes,2,22.5,29,45,58
+772,10/17/15,2015,October,54,M,Germany,Nordrhein-Westfalen,Accessories,Tires and Tubes,1,319,418,319,418
+773,10/17/15,2015,October,54,M,Germany,Nordrhein-Westfalen,Accessories,Helmets,2,210,282.5,420,565
+774,04/17/16,2016,April,54,M,United Kingdom,England,Clothing,Jerseys,1,1404,1661,1404,1661
+775,09/01/15,2015,September,36,M,Germany,Nordrhein-Westfalen,Clothing,Jerseys,2,250,354.5,500,709
+776,04/20/15,2015,April,37,F,France,Moselle,Bikes,Mountain Bikes,3,690.33,518.333333,2071,1555
+777,08/18/15,2015,August,37,F,France,Moselle,Bikes,Mountain Bikes,3,773.33,909.666667,2320,2729
+778,08/18/15,2015,August,37,F,France,Moselle,Accessories,Bottles and Cages,2,125,132.5,250,265
+779,08/18/15,2015,August,37,F,France,Moselle,Accessories,Helmets,2,385,482,770,964
+780,02/07/16,2016,February,38,M,France,Hauts de Seine,Accessories,Fenders,1,352,414,352,414
+781,08/07/15,2015,August,38,M,Germany,Saarland,Accessories,Bottles and Cages,3,13.33,18.333333,40,55
+782,08/07/15,2015,August,38,M,Germany,Saarland,Accessories,Bottles and Cages,1,10,12,10,12
+783,08/07/15,2015,August,38,M,Germany,Saarland,Accessories,Cleaners,2,24,34,48,68
+784,11/27/15,2015,November,38,M,Germany,Saarland,Accessories,Bottles and Cages,2,99,127,198,254
+785,11/27/15,2015,November,38,M,Germany,Saarland,Accessories,Bottles and Cages,3,40,56.666667,120,170
+786,05/07/15,2015,May,39,M,France,Nord,Bikes,Mountain Bikes,3,683,522,2049,1566
+787,08/20/15,2015,August,39,M,France,Nord,Bikes,Mountain Bikes,2,1147.5,1161.5,2295,2323
+788,07/04/16,2016,July,37,F,France,Seine et Marne,Accessories,Bottles and Cages,3,25,31.333333,75,94
+789,07/04/16,2016,July,37,F,France,Seine et Marne,Accessories,Bottles and Cages,2,40.5,43.5,81,87
+790,02/03/16,2016,February,37,F,France,Essonne,Accessories,Bottles and Cages,1,162,164,162,164
+791,02/03/16,2016,February,37,F,France,Essonne,Accessories,Bottles and Cages,2,5,6,10,12
+792,02/03/16,2016,February,37,F,France,Essonne,Accessories,Helmets,2,490,688,980,1376
+793,03/14/16,2016,March,37,F,France,Essonne,Accessories,Bottles and Cages,1,189,263,189,263
+794,03/14/16,2016,March,37,F,France,Essonne,Accessories,Bottles and Cages,2,27.5,36,55,72
+795,03/14/16,2016,March,37,F,France,Essonne,Accessories,Helmets,3,81.67,77.333333,245,232
+796,04/30/16,2016,April,37,F,France,Essonne,Accessories,Helmets,1,805,740,805,740
+797,05/20/16,2016,May,27,M,Germany,Hessen,Accessories,Helmets,1,945,1354,945,1354
+798,08/26/15,2015,August,27,M,Germany,Hessen,Accessories,Helmets,2,175,241.5,350,483
+799,08/29/15,2015,August,27,M,Germany,Hessen,Accessories,Helmets,3,58.33,71.333333,175,214
+800,12/13/15,2015,December,27,M,Germany,Hessen,Accessories,Helmets,3,11.67,15,35,45
+801,05/20/16,2016,May,27,M,Germany,Hessen,Accessories,Tires and Tubes,1,551,761,551,761
+802,05/20/16,2016,May,27,M,Germany,Hessen,Accessories,Tires and Tubes,2,12.5,21,25,42
+803,08/26/15,2015,August,27,M,Germany,Hessen,Accessories,Tires and Tubes,1,580,778,580,778
+804,08/26/15,2015,August,27,M,Germany,Hessen,Accessories,Tires and Tubes,1,135,184,135,184
+805,09/03/15,2015,September,27,M,Germany,Hessen,Accessories,Tires and Tubes,3,9,11.333333,27,34
+806,09/30/15,2015,September,27,M,Germany,Hessen,Accessories,Tires and Tubes,2,43.5,53,87,106
+807,10/01/15,2015,October,27,M,Germany,Hessen,Accessories,Tires and Tubes,2,87,117,174,234
+808,10/01/15,2015,October,27,M,Germany,Hessen,Accessories,Tires and Tubes,3,1.67,2.333333,5,7
+809,10/25/15,2015,October,27,M,Germany,Hessen,Accessories,Tires and Tubes,2,44,60,88,120
+810,10/25/15,2015,October,27,M,Germany,Hessen,Accessories,Tires and Tubes,1,23,30,23,30
+811,12/13/15,2015,December,27,M,Germany,Hessen,Accessories,Tires and Tubes,1,80,100,80,100
+812,12/13/15,2015,December,27,M,Germany,Hessen,Accessories,Tires and Tubes,2,390,546.5,780,1093
+813,08/06/15,2015,August,28,M,United Kingdom,England,Accessories,Cleaners,3,16,18.333333,48,55
+814,01/08/16,2016,January,28,F,France,Seine (Paris),Clothing,Gloves,2,318.5,504,637,1008
+815,05/01/15,2015,May,28,F,France,Seine (Paris),Bikes,Mountain Bikes,3,690.33,623,2071,1869
+816,07/26/15,2015,July,28,F,France,Seine (Paris),Bikes,Mountain Bikes,3,765,668.333333,2295,2005
+817,07/26/15,2015,July,28,F,France,Seine (Paris),Accessories,Hydration Packs,3,440,431.666667,1320,1295
+818,09/09/15,2015,September,28,F,France,Seine (Paris),Accessories,Helmets,1,735,587,735,587
+819,07/04/15,2015,July,28,F,France,Loiret,Accessories,Hydration Packs,1,1045,1434,1045,1434
+820,07/04/15,2015,July,28,F,France,Loiret,Clothing,Caps,1,270,302,270,302
+821,10/04/15,2015,October,28,F,France,Loiret,Accessories,Helmets,3,233.33,253,700,759
+822,02/05/16,2016,February,28,F,France,Charente-Maritime,Bikes,Road Bikes,2,850.5,721,1701,1442
+823,05/01/15,2015,May,28,F,France,Charente-Maritime,Bikes,Mountain Bikes,3,690.33,866.333333,2071,2599
+824,07/22/15,2015,July,28,F,France,Charente-Maritime,Bikes,Mountain Bikes,3,773.33,579,2320,1737
+825,07/22/15,2015,July,28,F,France,Charente-Maritime,Accessories,Bottles and Cages,2,60,85.5,120,171
+826,07/22/15,2015,July,28,F,France,Charente-Maritime,Accessories,Bottles and Cages,1,150,196,150,196
+827,07/22/15,2015,July,28,F,France,Charente-Maritime,Clothing,Caps,1,18,13,18,13
+828,07/22/15,2015,July,28,F,France,Charente-Maritime,Clothing,Jerseys,1,540,368,540,368
+829,11/29/15,2015,November,28,F,France,Charente-Maritime,Bikes,Road Bikes,2,270,205.5,540,411
+830,11/29/15,2015,November,28,F,France,Charente-Maritime,Accessories,Tires and Tubes,3,21.33,26.666667,64,80
+831,11/29/15,2015,November,28,F,France,Charente-Maritime,Accessories,Tires and Tubes,3,13.67,19,41,57
+832,02/06/16,2016,February,46,F,Germany,Hessen,Accessories,Tires and Tubes,3,121.67,195.666667,365,587
+833,08/14/15,2015,August,46,F,Germany,Hessen,Accessories,Tires and Tubes,1,522,667,522,667
+834,08/14/15,2015,August,46,F,Germany,Hessen,Accessories,Tires and Tubes,1,150,195,150,195
+835,09/03/15,2015,September,46,F,Germany,Hessen,Accessories,Tires and Tubes,3,116.67,162,350,486
+836,09/03/15,2015,September,46,F,Germany,Hessen,Accessories,Tires and Tubes,1,20,27,20,27
+837,09/27/15,2015,September,46,F,Germany,Hessen,Accessories,Tires and Tubes,1,55,73,55,73
+838,09/27/15,2015,September,46,F,Germany,Hessen,Accessories,Tires and Tubes,3,5.33,7,16,21
+839,12/10/15,2015,December,46,F,Germany,Hessen,Accessories,Tires and Tubes,1,780,1037,780,1037
+840,12/10/15,2015,December,46,F,Germany,Hessen,Accessories,Tires and Tubes,3,26.67,36.666667,80,110
+841,10/02/15,2015,October,45,F,Germany,Hamburg,Clothing,Jerseys,3,72,102.333333,216,307
+842,12/25/15,2015,December,45,M,Germany,Saarland,Clothing,Jerseys,3,486,674,1458,2022
+843,02/19/16,2016,February,29,F,France,Yveline,Bikes,Mountain Bikes,2,384.5,497.5,769,995
+844,05/21/15,2015,May,29,F,France,Yveline,Bikes,Mountain Bikes,3,683,572.333333,2049,1717
+845,08/01/15,2015,August,29,F,France,Yveline,Bikes,Mountain Bikes,3,773.33,820,2320,2460
+846,08/01/15,2015,August,29,F,France,Yveline,Accessories,Tires and Tubes,3,25,20,75,60
+847,08/01/15,2015,August,29,F,France,Yveline,Accessories,Tires and Tubes,1,980,1221,980,1221
+848,08/01/15,2015,August,29,F,France,Yveline,Accessories,Helmets,3,23.33,23.666667,70,71
+849,02/24/16,2016,February,29,M,France,Seine (Paris),Accessories,Helmets,2,262.5,336,525,672
+850,03/10/16,2016,March,29,M,France,Seine (Paris),Accessories,Tires and Tubes,2,40,50.5,80,101
+851,03/10/16,2016,March,29,M,France,Seine (Paris),Accessories,Tires and Tubes,1,75,92,75,92
+852,03/10/16,2016,March,29,M,France,Seine (Paris),Accessories,Tires and Tubes,1,60,83,60,83
+853,06/05/16,2016,June,29,M,France,Seine (Paris),Accessories,Tires and Tubes,3,183.67,266,551,798
+854,06/05/16,2016,June,29,M,France,Seine (Paris),Accessories,Tires and Tubes,1,27,31,27,31
+855,07/14/15,2015,July,29,M,France,Seine (Paris),Accessories,Helmets,3,233.33,325.333333,700,976
+856,08/08/15,2015,August,29,M,France,Seine (Paris),Accessories,Tires and Tubes,2,192.5,167.5,385,335
+857,08/08/15,2015,August,29,M,France,Seine (Paris),Accessories,Helmets,3,291.67,328.666667,875,986
+858,08/18/15,2015,August,29,M,France,Seine (Paris),Accessories,Helmets,1,490,712,490,712
+859,11/13/15,2015,November,29,M,France,Seine (Paris),Accessories,Tires and Tubes,3,96.67,122.333333,290,367
+860,11/13/15,2015,November,29,M,France,Seine (Paris),Accessories,Tires and Tubes,3,43.33,60,130,180
+861,11/13/15,2015,November,29,M,France,Seine (Paris),Accessories,Tires and Tubes,2,18.5,18.5,37,37
+862,12/30/15,2015,December,29,M,France,Seine (Paris),Accessories,Helmets,2,402.5,450,805,900
+863,02/05/16,2016,February,43,M,Germany,Bayern,Clothing,Gloves,1,245,403,245,403
+864,04/13/16,2016,April,43,F,Germany,Bayern,Bikes,Touring Bikes,3,794.67,948,2384,2844
+865,04/13/16,2016,April,43,F,Germany,Bayern,Clothing,Caps,3,54,76.333333,162,229
+866,04/20/16,2016,April,43,F,Germany,Bayern,Accessories,Helmets,3,210,306.333333,630,919
+867,08/12/15,2015,August,43,F,Germany,Bayern,Bikes,Mountain Bikes,2,1147.5,1352.5,2295,2705
+868,08/12/15,2015,August,43,F,Germany,Bayern,Accessories,Bottles and Cages,2,10,14,20,28
+869,08/12/15,2015,August,43,F,Germany,Bayern,Accessories,Bottles and Cages,2,10,14,20,28
+870,08/12/15,2015,August,43,F,Germany,Bayern,Accessories,Helmets,3,326.67,401.666667,980,1205
+871,10/11/15,2015,October,43,F,Germany,Bayern,Bikes,Road Bikes,2,850.5,877.5,1701,1755
+872,10/11/15,2015,October,43,F,Germany,Bayern,Accessories,Helmets,3,350,472,1050,1416
+873,10/11/15,2015,October,43,F,Germany,Bayern,Clothing,Caps,1,135,169,135,169
+874,10/21/15,2015,October,43,F,Germany,Bayern,Bikes,Road Bikes,1,2443,2927,2443,2927
+875,02/01/16,2016,February,43,F,United Kingdom,England,Bikes,Touring Bikes,3,247.33,264.666667,742,794
+876,03/08/16,2016,March,43,F,United Kingdom,England,Clothing,Vests,1,826,991,826,991
+877,02/17/16,2016,February,53,M,Germany,Hessen,Accessories,Bottles and Cages,1,140,225,140,225
+878,02/17/16,2016,February,53,M,Germany,Hessen,Accessories,Bottles and Cages,1,144,195,144,195
+879,05/11/15,2015,May,52,F,France,Nord,Bikes,Mountain Bikes,2,1024.5,1049,2049,2098
+880,08/06/15,2015,August,52,F,France,Nord,Bikes,Mountain Bikes,1,2295,1859,2295,1859
+881,08/06/15,2015,August,52,F,France,Nord,Accessories,Helmets,3,93.33,139.333333,280,418
+882,11/06/15,2015,November,52,F,France,Nord,Bikes,Road Bikes,1,540,444,540,444
+883,11/06/15,2015,November,52,F,France,Nord,Accessories,Bottles and Cages,1,108,97,108,97
+884,02/01/16,2016,February,52,F,France,Seine Saint Denis,Bikes,Road Bikes,3,180,262,540,786
+885,02/01/16,2016,February,52,F,France,Seine Saint Denis,Accessories,Bottles and Cages,3,3,4.666667,9,14
+886,02/18/16,2016,February,52,F,France,Seine Saint Denis,Bikes,Touring Bikes,1,2384,1986,2384,1986
+887,05/04/16,2016,May,52,F,France,Seine Saint Denis,Bikes,Touring Bikes,1,742,808,742,808
+888,05/04/16,2016,May,52,F,France,Seine Saint Denis,Accessories,Bottles and Cages,3,1.67,1.666667,5,5
+889,05/04/16,2016,May,52,F,France,Seine Saint Denis,Accessories,Bottles and Cages,2,27,43,54,86
+890,06/17/16,2016,June,52,F,France,Seine Saint Denis,Bikes,Touring Bikes,2,1192,1041.5,2384,2083
+891,05/08/15,2015,May,52,F,France,Seine Saint Denis,Bikes,Mountain Bikes,1,2049,2435,2049,2435
+892,07/15/15,2015,July,52,F,France,Seine Saint Denis,Bikes,Mountain Bikes,3,773.33,497.333333,2320,1492
+893,12/04/15,2015,December,52,F,France,Seine Saint Denis,Bikes,Mountain Bikes,2,270,243.5,540,487
+894,12/04/15,2015,December,52,F,France,Seine Saint Denis,Accessories,Bottles and Cages,3,60,50.333333,180,151
+895,12/04/15,2015,December,52,F,France,Seine Saint Denis,Clothing,Caps,1,171,272,171,272
+896,06/19/16,2016,June,52,M,Germany,Nordrhein-Westfalen,Accessories,Tires and Tubes,3,40,63.333333,120,190
+897,06/19/16,2016,June,52,M,Germany,Nordrhein-Westfalen,Accessories,Helmets,1,700,1123,700,1123
+898,06/24/16,2016,June,52,M,Germany,Nordrhein-Westfalen,Accessories,Helmets,2,385,633.5,770,1267
+899,12/13/15,2015,December,52,M,Germany,Nordrhein-Westfalen,Accessories,Tires and Tubes,1,150,192,150,192
+900,12/13/15,2015,December,52,M,Germany,Nordrhein-Westfalen,Accessories,Tires and Tubes,3,150,200.333333,450,601
+901,12/13/15,2015,December,52,M,Germany,Nordrhein-Westfalen,Accessories,Helmets,1,420,552,420,552
+902,09/13/15,2015,September,52,M,United Kingdom,England,Accessories,Bike Stands,3,265,272.333333,795,817
+903,05/06/16,2016,May,51,M,United Kingdom,England,Bikes,Road Bikes,1,540,594,540,594
+904,05/06/16,2016,May,51,M,United Kingdom,England,Clothing,Caps,2,108,147.5,216,295
+905,06/30/16,2016,June,51,M,United Kingdom,England,Clothing,Caps,1,261,288,261,288
+906,06/12/15,2015,June,51,M,United Kingdom,England,Bikes,Road Bikes,1,2443,2205,2443,2205
+907,06/27/15,2015,June,51,M,United Kingdom,England,Bikes,Road Bikes,3,814.33,776,2443,2328
+908,08/12/15,2015,August,51,M,United Kingdom,England,Bikes,Road Bikes,3,814.33,743.333333,2443,2230
+909,04/22/16,2016,April,43,F,Germany,Hamburg,Bikes,Touring Bikes,3,794.67,931.333333,2384,2794
+910,04/22/16,2016,April,43,F,Germany,Hamburg,Clothing,Caps,1,162,239,162,239
+911,07/21/15,2015,July,43,F,Germany,Hamburg,Bikes,Road Bikes,2,270,281.5,540,563
+912,08/28/15,2015,August,43,F,Germany,Hamburg,Bikes,Mountain Bikes,3,765,919,2295,2757
+913,12/28/15,2015,December,43,F,Germany,Hamburg,Bikes,Road Bikes,3,567,661.333333,1701,1984
+914,12/28/15,2015,December,43,F,Germany,Hamburg,Accessories,Hydration Packs,2,302.5,429,605,858
+915,01/02/16,2016,January,44,F,Germany,Saarland,Clothing,Caps,2,103.5,130,207,260
+916,02/20/16,2016,February,44,F,Germany,Saarland,Clothing,Caps,2,54,86.5,108,173
+917,08/12/15,2015,August,44,F,Germany,Saarland,Clothing,Caps,1,234,287,234,287
+918,09/14/15,2015,September,44,F,Germany,Saarland,Clothing,Caps,1,207,267,207,267
+919,10/23/15,2015,October,44,F,Germany,Saarland,Clothing,Caps,2,90,125.5,180,251
+920,04/22/16,2016,April,44,F,Germany,Saarland,Bikes,Touring Bikes,1,2384,3161,2384,3161
+921,04/24/16,2016,April,44,F,Germany,Saarland,Bikes,Touring Bikes,3,794.67,1061.333333,2384,3184
+922,03/12/16,2016,March,45,M,France,Hauts de Seine,Bikes,Touring Bikes,2,1192,1840.5,2384,3681
+923,03/12/16,2016,March,45,M,France,Hauts de Seine,Accessories,Bottles and Cages,2,47.5,49.5,95,99
+924,03/12/16,2016,March,45,M,France,Hauts de Seine,Accessories,Bottles and Cages,3,24,22.333333,72,67
+925,03/12/16,2016,March,45,M,France,Hauts de Seine,Accessories,Helmets,1,945,1351,945,1351
+926,06/03/16,2016,June,45,M,France,Hauts de Seine,Bikes,Road Bikes,1,540,701,540,701
+927,06/03/16,2016,June,45,M,France,Hauts de Seine,Accessories,Bottles and Cages,2,121.5,209.5,243,419
+928,06/03/16,2016,June,45,M,France,Hauts de Seine,Accessories,Bottles and Cages,1,150,152,150,152
+929,06/03/16,2016,June,45,M,France,Hauts de Seine,Accessories,Helmets,2,315,499,630,998
+930,06/21/16,2016,June,45,M,France,Hauts de Seine,Bikes,Mountain Bikes,3,188.33,173,565,519
+931,06/21/16,2016,June,45,M,France,Hauts de Seine,Clothing,Jerseys,1,1458,1509,1458,1509
+932,06/26/16,2016,June,45,M,France,Hauts de Seine,Bikes,Touring Bikes,2,1192,1283.5,2384,2567
+933,06/26/16,2016,June,45,M,France,Hauts de Seine,Accessories,Tires and Tubes,2,275.5,417.5,551,835
+934,06/26/16,2016,June,45,M,France,Hauts de Seine,Accessories,Tires and Tubes,1,10,14,10,14
+935,06/26/16,2016,June,45,M,France,Hauts de Seine,Accessories,Cleaners,1,80,72,80,72
+936,06/17/15,2015,June,45,M,France,Hauts de Seine,Bikes,Mountain Bikes,3,690.33,795.333333,2071,2386
+937,08/29/15,2015,August,45,M,France,Hauts de Seine,Bikes,Mountain Bikes,2,1147.5,1354.5,2295,2709
+938,08/29/15,2015,August,45,M,France,Hauts de Seine,Accessories,Helmets,2,402.5,476,805,952
+939,09/20/15,2015,September,45,F,Germany,Nordrhein-Westfalen,Accessories,Helmets,1,770,1032,770,1032
+940,09/20/15,2015,September,45,F,Germany,Nordrhein-Westfalen,Clothing,Jerseys,3,50,66.666667,150,200
+941,03/30/16,2016,March,45,M,Germany,Bayern,Bikes,Road Bikes,1,1701,2113,1701,2113
+942,03/30/16,2016,March,45,M,Germany,Bayern,Accessories,Bottles and Cages,3,15,21.333333,45,64
+943,03/30/16,2016,March,45,M,Germany,Bayern,Accessories,Bottles and Cages,2,72,112,144,224
+944,03/30/16,2016,March,45,M,Germany,Bayern,Accessories,Helmets,3,128.33,212,385,636
+945,04/02/16,2016,April,45,M,Germany,Bayern,Bikes,Touring Bikes,1,2384,3455,2384,3455
+946,04/02/16,2016,April,45,M,Germany,Bayern,Accessories,Bottles and Cages,3,48.33,77,145,231
+947,04/02/16,2016,April,45,M,Germany,Bayern,Accessories,Bottles and Cages,1,27,39,27,39
+948,09/11/15,2015,September,45,M,Germany,Bayern,Bikes,Mountain Bikes,3,765,967,2295,2901
+949,09/11/15,2015,September,45,M,Germany,Bayern,Accessories,Tires and Tubes,3,175,246.333333,525,739
+950,09/11/15,2015,September,45,M,Germany,Bayern,Accessories,Helmets,2,35,45,70,90
+951,03/11/16,2016,March,46,F,France,Seine et Marne,Bikes,Touring Bikes,3,794.67,918,2384,2754
+952,03/11/16,2016,March,46,F,France,Seine et Marne,Accessories,Helmets,1,35,54,35,54
+953,03/11/16,2016,March,46,F,France,Seine et Marne,Clothing,Jerseys,1,1050,826,1050,826
+954,06/01/16,2016,June,46,F,France,Seine et Marne,Bikes,Road Bikes,2,270,283.5,540,567
+955,06/01/16,2016,June,46,F,France,Seine et Marne,Accessories,Bottles and Cages,2,76.5,73,153,146
+956,06/01/16,2016,June,46,F,France,Seine et Marne,Accessories,Bottles and Cages,1,65,112,65,112
+957,06/27/16,2016,June,46,F,France,Seine et Marne,Bikes,Mountain Bikes,3,188.33,287.333333,565,862
+958,06/27/16,2016,June,46,F,France,Seine et Marne,Accessories,Fenders,2,253,235.5,506,471
+959,06/27/16,2016,June,46,F,France,Seine et Marne,Accessories,Helmets,2,472.5,556.5,945,1113
+960,06/13/15,2015,June,46,F,France,Seine et Marne,Bikes,Mountain Bikes,2,1035.5,1123.5,2071,2247
+961,08/16/15,2015,August,46,F,France,Seine et Marne,Bikes,Mountain Bikes,1,2320,1620,2320,1620
+962,08/16/15,2015,August,46,F,France,Seine et Marne,Accessories,Bottles and Cages,2,130,107,260,214
+963,11/04/15,2015,November,46,F,France,Seine et Marne,Bikes,Touring Bikes,2,607.5,760,1215,1520
+964,11/04/15,2015,November,46,F,France,Seine et Marne,Accessories,Tires and Tubes,2,42.5,50.5,85,101
+965,11/04/15,2015,November,46,F,France,Seine et Marne,Accessories,Tires and Tubes,2,232,247,464,494
+966,11/04/15,2015,November,46,F,France,Seine et Marne,Accessories,Helmets,2,525,653.5,1050,1307
+967,01/29/16,2016,January,46,M,France,Seine Saint Denis,Bikes,Touring Bikes,2,607.5,642,1215,1284
+968,01/29/16,2016,January,46,M,France,Seine Saint Denis,Clothing,Jerseys,3,396,497.666667,1188,1493
+969,02/16/16,2016,February,46,M,France,Seine Saint Denis,Bikes,Road Bikes,3,814.33,895.666667,2443,2687
+970,03/17/16,2016,March,46,M,France,Seine Saint Denis,Bikes,Touring Bikes,2,1192,1617,2384,3234
+971,06/05/15,2015,June,46,M,France,Seine Saint Denis,Bikes,Mountain Bikes,1,2049,1555,2049,1555
+972,07/05/15,2015,July,46,M,France,Seine Saint Denis,Bikes,Touring Bikes,2,1192,1342.5,2384,2685
+973,07/05/15,2015,July,46,M,France,Seine Saint Denis,Accessories,Bottles and Cages,1,144,192,144,192
+974,07/05/15,2015,July,46,M,France,Seine Saint Denis,Accessories,Bottles and Cages,1,45,46,45,46
+975,07/05/15,2015,July,46,M,France,Seine Saint Denis,Accessories,Helmets,2,490,517.5,980,1035
+976,07/05/15,2015,July,46,M,France,Seine Saint Denis,Clothing,Caps,2,4.5,5,9,10
+977,07/05/15,2015,July,46,M,France,Seine Saint Denis,Bikes,Road Bikes,1,2443,2516,2443,2516
+978,09/29/15,2015,September,46,M,France,Seine Saint Denis,Bikes,Mountain Bikes,1,2320,1812,2320,1812
+979,12/02/15,2015,December,46,M,France,Seine Saint Denis,Bikes,Touring Bikes,2,1192,1039,2384,2078
+980,12/02/15,2015,December,46,M,France,Seine Saint Denis,Accessories,Helmets,3,128.33,128,385,384
+981,12/31/15,2015,December,46,M,France,Seine Saint Denis,Bikes,Mountain Bikes,3,765,898.666667,2295,2696
+982,12/31/15,2015,December,46,M,France,Seine Saint Denis,Accessories,Bottles and Cages,1,50,69,50,69
+983,12/31/15,2015,December,46,M,France,Seine Saint Denis,Accessories,Bottles and Cages,3,16.67,23.333333,50,70
+984,03/29/16,2016,March,47,F,United Kingdom,England,Clothing,Jerseys,2,250,313.5,500,627
+985,03/30/16,2016,March,47,F,United Kingdom,England,Clothing,Jerseys,2,700,952.5,1400,1905
+986,05/26/16,2016,May,47,F,United Kingdom,England,Clothing,Jerseys,2,450,524.5,900,1049
+987,09/23/15,2015,September,47,F,United Kingdom,England,Clothing,Jerseys,3,283.33,273.666667,850,821
+988,10/15/15,2015,October,47,F,United Kingdom,England,Clothing,Jerseys,1,1566,1719,1566,1719
+989,10/30/15,2015,October,47,F,United Kingdom,England,Clothing,Jerseys,3,18,21,54,63
+990,11/23/15,2015,November,47,F,United Kingdom,England,Clothing,Jerseys,2,513,608,1026,1216
+991,06/21/16,2016,June,48,M,France,Nord,Clothing,Jerseys,1,540,691,540,691
+992,05/27/16,2016,May,48,F,Germany,Nordrhein-Westfalen,Accessories,Helmets,3,116.67,173.666667,350,521
+993,08/09/15,2015,August,48,F,Germany,Nordrhein-Westfalen,Accessories,Helmets,2,105,142.5,210,285
+994,02/24/16,2016,February,49,F,France,Hauts de Seine,Bikes,Touring Bikes,1,2384,1696,2384,1696
+995,03/31/16,2016,March,49,F,France,Hauts de Seine,Bikes,Road Bikes,3,814.33,946,2443,2838
+996,04/22/16,2016,April,49,F,France,Hauts de Seine,Bikes,Touring Bikes,3,794.67,1115,2384,3345
+997,06/02/15,2015,June,49,F,France,Hauts de Seine,Bikes,Mountain Bikes,2,1035.5,1368.5,2071,2737
+998,07/11/15,2015,July,49,F,France,Hauts de Seine,Bikes,Road Bikes,1,2443,3095,2443,3095
+999,07/26/15,2015,July,49,F,France,Hauts de Seine,Bikes,Touring Bikes,1,2384,2615,2384,2615
+1000,09/09/15,2015,September,49,F,France,Hauts de Seine,Bikes,Touring Bikes,2,371,498.5,742,997
+1001,09/17/15,2015,September,49,F,France,Hauts de Seine,Bikes,Mountain Bikes,2,1147.5,788,2295,1576
+1002,12/08/15,2015,December,49,F,France,Hauts de Seine,Bikes,Mountain Bikes,2,1160,1207,2320,2414
+1003,09/28/15,2015,September,50,M,France,Nord,Clothing,Jerseys,1,648,868,648,868
+1004,08/25/15,2015,August,24,M,Germany,Saarland,Bikes,Mountain Bikes,3,765,828.666667,2295,2486
+1005,11/18/15,2015,November,24,F,France,Yveline,Clothing,Jerseys,3,504,562,1512,1686
+1006,12/04/15,2015,December,17,F,France,Seine Saint Denis,Clothing,Caps,3,48,70,144,210
+1007,12/04/15,2015,December,17,F,France,Seine Saint Denis,Clothing,Jerseys,1,54,50,54,50
+1008,12/31/15,2015,December,17,F,France,Seine Saint Denis,Clothing,Jerseys,2,100,127.5,200,255
+1009,03/29/16,2016,March,17,M,United Kingdom,England,Clothing,Gloves,3,24.33,29,73,87
+1010,01/14/16,2016,January,24,M,Germany,Hessen,Accessories,Helmets,1,210,292,210,292
+1011,01/18/16,2016,January,24,M,Germany,Hessen,Accessories,Helmets,2,455,750,910,1500
+1012,03/28/16,2016,March,24,M,Germany,Hessen,Accessories,Helmets,2,297.5,476.5,595,953
+1013,04/06/16,2016,April,24,M,Germany,Hessen,Accessories,Helmets,3,81.67,132.333333,245,397
+1014,05/12/16,2016,May,24,M,Germany,Hessen,Accessories,Helmets,3,326.67,479,980,1437
+1015,09/07/15,2015,September,24,M,Germany,Hessen,Accessories,Helmets,3,326.67,432.333333,980,1297
+1016,09/23/15,2015,September,24,M,Germany,Hessen,Accessories,Helmets,3,46.67,66.333333,140,199
+1017,12/28/15,2015,December,24,M,Germany,Hessen,Accessories,Helmets,1,70,90,70,90
+1018,06/08/15,2015,June,24,M,France,Loir et Cher,Bikes,Mountain Bikes,1,2071,2211,2071,2211
+1019,08/26/15,2015,August,24,M,France,Loir et Cher,Bikes,Mountain Bikes,3,765,669.333333,2295,2008
+1020,08/26/15,2015,August,24,M,France,Loir et Cher,Accessories,Tires and Tubes,2,315,297.5,630,595
+1021,08/26/15,2015,August,24,M,France,Loir et Cher,Accessories,Tires and Tubes,1,30,38,30,38
+1022,08/26/15,2015,August,24,M,France,Loir et Cher,Accessories,Tires and Tubes,1,69,71,69,71
+1023,08/26/15,2015,August,24,M,France,Loir et Cher,Accessories,Cleaners,1,80,111,80,111
+1024,11/25/15,2015,November,24,M,France,Loir et Cher,Bikes,Road Bikes,1,540,563,540,563
+1025,11/25/15,2015,November,24,M,France,Loir et Cher,Accessories,Bottles and Cages,2,7.5,10,15,20
+1026,11/25/15,2015,November,24,M,France,Loir et Cher,Accessories,Bottles and Cages,3,81,76,243,228
+1027,01/26/16,2016,January,24,F,France,Seine Saint Denis,Bikes,Road Bikes,3,180,256.666667,540,770
+1028,01/26/16,2016,January,24,F,France,Seine Saint Denis,Accessories,Bottles and Cages,3,42,43,126,129
+1029,01/26/16,2016,January,24,F,France,Seine Saint Denis,Accessories,Bottles and Cages,2,32.5,51,65,102
+1030,08/10/15,2015,August,24,F,France,Seine Saint Denis,Accessories,Bottles and Cages,2,37.5,36,75,72
+1031,08/10/15,2015,August,24,F,France,Seine Saint Denis,Accessories,Bottles and Cages,2,100,111,200,222
+1032,07/20/15,2015,July,25,M,Germany,Saarland,Bikes,Mountain Bikes,3,765,937.666667,2295,2813
+1033,05/27/16,2016,May,26,F,Germany,Bayern,Accessories,Helmets,3,128.33,202,385,606
+1034,06/17/16,2016,June,26,F,France,Nord,Clothing,Jerseys,1,1350,1633,1350,1633
+1035,08/07/15,2015,August,26,F,France,Nord,Clothing,Jerseys,1,1050,1267,1050,1267
+1036,08/08/15,2015,August,26,F,France,Nord,Clothing,Jerseys,2,486,629,972,1258
+1037,08/19/15,2015,August,26,F,France,Nord,Clothing,Jerseys,1,486,334,486,334
+1038,10/06/15,2015,October,26,M,France,Hauts de Seine,Clothing,Jerseys,3,414,323.333333,1242,970
+1039,08/23/15,2015,August,26,M,Germany,Brandenburg,Bikes,Mountain Bikes,1,2320,2344,2320,2344
+1040,08/23/15,2015,August,26,M,Germany,Brandenburg,Accessories,Helmets,3,198.33,272.666667,595,818
+1041,02/17/16,2016,February,23,M,United States,California,Accessories,Cleaners,2,71.5,87,143,174
+1042,06/03/16,2016,June,23,M,United States,California,Accessories,Cleaners,3,53,72.333333,159,217
+1043,10/08/15,2015,October,23,M,United States,California,Accessories,Cleaners,1,175,190,175,190
+1044,06/10/16,2016,June,67,M,United States,California,Accessories,Tires and Tubes,3,13.67,17.333333,41,52
+1045,11/27/15,2015,November,67,M,United States,California,Accessories,Tires and Tubes,2,490,518.5,980,1037
+1046,11/02/15,2015,November,66,F,United States,California,Accessories,Tires and Tubes,1,27,30,27,30
+1047,11/04/15,2015,November,66,F,United States,California,Accessories,Tires and Tubes,1,70,81,70,81
+1048,11/04/15,2015,November,66,F,United States,California,Accessories,Tires and Tubes,3,23.33,26.333333,70,79
+1049,11/04/15,2015,November,66,F,United States,California,Accessories,Tires and Tubes,3,14.67,14.333333,44,43
+1050,01/30/16,2016,January,44,F,United States,California,Accessories,Bike Stands,3,530,592.666667,1590,1778
+1051,04/29/16,2016,April,42,M,United States,Oregon,Accessories,Cleaners,3,29,38.333333,87,115
+1052,07/13/16,2016,July,40,F,United States,Alabama,Accessories,Tires and Tubes,3,315,385,945,1155
+1053,11/15/15,2015,November,40,F,United States,Alabama,Accessories,Tires and Tubes,3,19,19.666667,57,59
+1054,04/08/15,2015,April,39,M,United States,Oregon,Bikes,Mountain Bikes,3,683,707.666667,2049,2123
+1055,09/16/15,2015,September,39,M,United States,Oregon,Bikes,Mountain Bikes,2,1147.5,1002,2295,2004
+1056,09/16/15,2015,September,39,M,United States,Oregon,Clothing,Socks,1,225,216,225,216
+1057,02/11/16,2016,February,29,F,France,Seine (Paris),Clothing,Jerseys,2,525,610,1050,1220
+1058,03/20/16,2016,March,29,F,France,Seine (Paris),Clothing,Jerseys,2,162,188.5,324,377
+1059,06/23/16,2016,June,29,F,France,Seine (Paris),Clothing,Jerseys,3,126,183,378,549
+1060,12/07/15,2015,December,29,F,France,Seine (Paris),Clothing,Jerseys,1,300,230,300,230
+1061,01/14/16,2016,January,29,M,France,Seine (Paris),Clothing,Jerseys,2,783,886,1566,1772
+1062,08/08/15,2015,August,29,M,France,Seine (Paris),Clothing,Jerseys,1,500,543,500,543
+1063,09/02/15,2015,September,29,M,France,Seine (Paris),Clothing,Jerseys,2,300,276,600,552
+1064,09/13/15,2015,September,29,F,France,Nord,Clothing,Jerseys,3,54,49,162,147
+1065,09/02/15,2015,September,30,M,France,Hauts de Seine,Clothing,Jerseys,2,432,595.5,864,1191
+1066,11/09/15,2015,November,71,F,France,Seine Saint Denis,Accessories,Helmets,1,630,691,630,691
+1067,11/09/15,2015,November,71,F,United Kingdom,England,Accessories,Helmets,3,128.33,139.666667,385,419
+1068,01/01/16,2016,January,30,F,United Kingdom,England,Clothing,Jerseys,1,216,243,216,243
+1069,03/01/16,2016,March,30,F,United Kingdom,England,Clothing,Jerseys,3,116.67,159,350,477
+1070,06/05/16,2016,June,30,F,United Kingdom,England,Clothing,Jerseys,2,243,283,486,566
+1071,08/17/15,2015,August,30,F,United Kingdom,England,Clothing,Jerseys,1,850,900,850,900
+1072,10/21/15,2015,October,30,F,United Kingdom,England,Clothing,Jerseys,2,783,873,1566,1746
+1073,01/21/16,2016,January,30,F,France,Val d'Oise,Accessories,Tires and Tubes,2,36,35.5,72,71
+1074,01/21/16,2016,January,30,F,France,Val d'Oise,Clothing,Caps,1,234,309,234,309
+1075,01/22/16,2016,January,30,F,France,Val d'Oise,Accessories,Tires and Tubes,2,348,540,696,1080
+1076,01/22/16,2016,January,30,F,France,Val d'Oise,Accessories,Tires and Tubes,3,20,27.333333,60,82
+1077,01/22/16,2016,January,30,F,France,Val d'Oise,Accessories,Helmets,1,560,872,560,872
+1078,02/21/16,2016,February,30,F,France,Val d'Oise,Accessories,Tires and Tubes,2,52,82,104,164
+1079,02/21/16,2016,February,30,F,France,Val d'Oise,Accessories,Helmets,2,297.5,395,595,790
+1080,02/21/16,2016,February,30,F,France,Val d'Oise,Clothing,Caps,1,144,189,144,189
+1081,02/21/16,2016,February,30,F,France,Val d'Oise,Clothing,Jerseys,2,175,151,350,302
+1082,03/01/16,2016,March,30,F,France,Val d'Oise,Accessories,Tires and Tubes,1,85,136,85,136
+1083,03/01/16,2016,March,30,F,France,Val d'Oise,Accessories,Helmets,2,315,316.5,630,633
+1084,03/13/16,2016,March,30,F,France,Val d'Oise,Accessories,Tires and Tubes,2,58,53.5,116,107
+1085,04/21/16,2016,April,30,F,France,Val d'Oise,Accessories,Tires and Tubes,1,145,214,145,214
+1086,04/21/16,2016,April,30,F,France,Val d'Oise,Accessories,Helmets,3,326.67,300.333333,980,901
+1087,04/21/16,2016,April,30,F,France,Val d'Oise,Clothing,Caps,2,72,77.5,144,155
+1088,04/25/16,2016,April,30,F,France,Val d'Oise,Clothing,Gloves,3,171.33,295.666667,514,887
+1089,04/25/16,2016,April,30,F,France,Val d'Oise,Accessories,Tires and Tubes,3,5,7.666667,15,23
+1090,04/30/16,2016,April,30,F,France,Val d'Oise,Accessories,Tires and Tubes,2,75,96.5,150,193
+1091,04/30/16,2016,April,30,F,France,Val d'Oise,Accessories,Tires and Tubes,1,16,15,16,15
+1092,05/14/16,2016,May,30,F,France,Val d'Oise,Accessories,Tires and Tubes,1,645,794,645,794
+1093,05/14/16,2016,May,30,F,France,Val d'Oise,Clothing,Caps,1,90,101,90,101
+1094,05/15/16,2016,May,30,F,France,Val d'Oise,Accessories,Tires and Tubes,1,193,161,193,161
+1095,05/15/16,2016,May,30,F,France,Val d'Oise,Accessories,Tires and Tubes,3,1.33,2,4,6
+1096,06/07/16,2016,June,30,F,France,Val d'Oise,Accessories,Tires and Tubes,1,116,129,116,129
+1097,06/07/16,2016,June,30,F,France,Val d'Oise,Accessories,Tires and Tubes,2,43,63.5,86,127
+1098,07/10/16,2016,July,30,F,France,Val d'Oise,Accessories,Tires and Tubes,3,203,239.333333,609,718
+1099,07/10/16,2016,July,30,F,France,Val d'Oise,Accessories,Tires and Tubes,3,25,24.666667,75,74
+1100,07/10/16,2016,July,30,F,France,Val d'Oise,Accessories,Tires and Tubes,3,17.67,29.666667,53,89
+1101,08/01/15,2015,August,30,F,France,Val d'Oise,Accessories,Tires and Tubes,2,45,49,90,98
+1102,08/01/15,2015,August,30,F,France,Val d'Oise,Clothing,Jerseys,1,1400,1130,1400,1130
+1103,08/09/15,2015,August,30,F,France,Val d'Oise,Accessories,Tires and Tubes,2,217.5,311.5,435,623
+1104,08/09/15,2015,August,30,F,France,Val d'Oise,Accessories,Tires and Tubes,3,3.33,3.333333,10,10
+1105,08/09/15,2015,August,30,F,France,Val d'Oise,Accessories,Tires and Tubes,1,60,48,60,48
+1106,08/09/15,2015,August,30,F,France,Val d'Oise,Accessories,Bike Stands,2,397.5,539,795,1078
+1107,08/24/15,2015,August,30,F,France,Val d'Oise,Accessories,Tires and Tubes,3,183.67,240.666667,551,722
+1108,08/24/15,2015,August,30,F,France,Val d'Oise,Accessories,Tires and Tubes,2,12.5,18,25,36
+1109,08/24/15,2015,August,30,F,France,Val d'Oise,Accessories,Tires and Tubes,2,23,30,46,60
+1110,09/08/15,2015,September,30,F,France,Val d'Oise,Accessories,Tires and Tubes,3,7,8,21,24
+1111,09/29/15,2015,September,30,F,France,Val d'Oise,Accessories,Tires and Tubes,2,129,133.5,258,267
+1112,09/29/15,2015,September,30,F,France,Val d'Oise,Accessories,Tires and Tubes,3,12,9.666667,36,29
+1113,09/29/15,2015,September,30,F,France,Val d'Oise,Accessories,Tires and Tubes,3,5.33,5.666667,16,17
+1114,10/01/15,2015,October,30,F,France,Val d'Oise,Accessories,Bottles and Cages,2,67.5,52.5,135,105
+1115,10/01/15,2015,October,30,F,France,Val d'Oise,Accessories,Bottles and Cages,3,41.67,56.666667,125,170
+1116,10/05/15,2015,October,30,F,France,Val d'Oise,Accessories,Tires and Tubes,2,17.5,16,35,32
+1117,10/05/15,2015,October,30,F,France,Val d'Oise,Accessories,Tires and Tubes,2,31,40,62,80
+1118,10/05/15,2015,October,30,F,France,Val d'Oise,Accessories,Tires and Tubes,2,45,52,90,104
+1119,10/05/15,2015,October,30,F,France,Val d'Oise,Accessories,Helmets,2,280,394,560,788
+1120,10/17/15,2015,October,30,F,France,Val d'Oise,Accessories,Tires and Tubes,1,100,121,100,121
+1121,10/17/15,2015,October,30,F,France,Val d'Oise,Accessories,Tires and Tubes,2,4.5,6,9,12
+1122,11/29/15,2015,November,30,F,France,Val d'Oise,Accessories,Tires and Tubes,2,10,13,20,26
+1123,11/30/15,2015,November,30,F,France,Val d'Oise,Accessories,Tires and Tubes,3,43.33,40.333333,130,121
+1124,11/30/15,2015,November,30,F,France,Val d'Oise,Accessories,Helmets,1,385,476,385,476
+1125,12/09/15,2015,December,30,F,France,Val d'Oise,Accessories,Tires and Tubes,2,319,379.5,638,759
+1126,12/09/15,2015,December,30,F,France,Val d'Oise,Accessories,Tires and Tubes,3,8.33,7,25,21
+1127,12/09/15,2015,December,30,F,France,Val d'Oise,Accessories,Helmets,3,315,446,945,1338
+1128,12/12/15,2015,December,30,F,France,Val d'Oise,Accessories,Tires and Tubes,1,261,371,261,371
+1129,12/12/15,2015,December,30,F,France,Val d'Oise,Accessories,Tires and Tubes,2,57.5,68.5,115,137
+1130,12/12/15,2015,December,30,F,France,Val d'Oise,Accessories,Tires and Tubes,1,14,12,14,12
+1131,09/16/15,2015,September,30,F,Germany,Saarland,Clothing,Jerseys,1,54,70,54,70
+1132,01/01/16,2016,January,31,M,United Kingdom,England,Accessories,Helmets,2,297.5,379.5,595,759
+1133,01/09/16,2016,January,31,M,United Kingdom,England,Accessories,Helmets,3,326.67,407.333333,980,1222
+1134,02/08/16,2016,February,31,M,United Kingdom,England,Accessories,Helmets,3,35,42.333333,105,127
+1135,03/01/16,2016,March,31,M,United Kingdom,England,Accessories,Helmets,3,35,45.666667,105,137
+1136,03/11/16,2016,March,31,M,United Kingdom,England,Accessories,Helmets,1,525,715,525,715
+1137,05/23/16,2016,May,31,M,United Kingdom,England,Accessories,Helmets,2,87.5,109,175,218
+1138,08/03/15,2015,August,31,M,United Kingdom,England,Accessories,Helmets,2,245,276.5,490,553
+1139,10/31/15,2015,October,31,M,United Kingdom,England,Accessories,Helmets,2,367.5,452.5,735,905
+1140,11/30/15,2015,November,31,M,United Kingdom,England,Accessories,Helmets,1,35,39,35,39
+1141,12/11/15,2015,December,31,M,United Kingdom,England,Accessories,Helmets,2,140,146,280,292
+1142,12/23/15,2015,December,31,M,United Kingdom,England,Accessories,Helmets,2,122.5,147.5,245,295
+1143,04/15/16,2016,April,31,F,Germany,Hessen,Bikes,Mountain Bikes,1,769,1006,769,1006
+1144,09/15/15,2015,September,31,F,Germany,Hessen,Bikes,Mountain Bikes,3,773.33,868.666667,2320,2606
+1145,05/01/16,2016,May,31,M,France,Loiret,Bikes,Mountain Bikes,2,1160,1094,2320,2188
+1146,06/15/15,2015,June,31,M,France,Loiret,Bikes,Mountain Bikes,2,1035.5,1296,2071,2592
+1147,09/21/15,2015,September,31,M,France,Loiret,Bikes,Mountain Bikes,1,2295,2697,2295,2697
+1148,09/21/15,2015,September,31,M,France,Loiret,Accessories,Tires and Tubes,3,14.67,10.666667,44,32
+1149,06/12/15,2015,June,31,M,France,Nord,Bikes,Mountain Bikes,1,2071,2377,2071,2377
+1150,09/09/15,2015,September,31,M,France,Nord,Bikes,Mountain Bikes,1,2320,1774,2320,1774
+1151,09/09/15,2015,September,31,M,France,Nord,Clothing,Caps,3,30,25.333333,90,76
+1152,06/18/15,2015,June,32,M,France,Nord,Bikes,Mountain Bikes,3,690.33,680,2071,2040
+1153,09/24/15,2015,September,32,M,France,Nord,Bikes,Mountain Bikes,2,1147.5,1391.5,2295,2783
+1154,10/04/15,2015,October,32,M,France,Nord,Bikes,Mountain Bikes,3,256.33,184.333333,769,553
+1155,06/24/15,2015,June,32,F,France,Seine (Paris),Bikes,Mountain Bikes,1,2049,2328,2049,2328
+1156,09/13/15,2015,September,32,F,France,Seine (Paris),Bikes,Mountain Bikes,3,765,601,2295,1803
+1157,06/02/15,2015,June,33,F,France,Seine Saint Denis,Bikes,Mountain Bikes,2,1035.5,674.5,2071,1349
+1158,06/02/15,2015,June,33,F,France,Seine Saint Denis,Bikes,Mountain Bikes,1,2049,1605,2049,1605
+1159,09/13/15,2015,September,33,F,France,Seine Saint Denis,Bikes,Mountain Bikes,1,2320,2205,2320,2205
+1160,09/13/15,2015,September,33,F,France,Seine Saint Denis,Accessories,Bottles and Cages,1,100,86,100,86
+1161,09/13/15,2015,September,33,F,France,Seine Saint Denis,Accessories,Bottles and Cages,1,5,7,5,7
+1162,11/13/15,2015,November,33,F,France,Seine Saint Denis,Bikes,Mountain Bikes,1,2320,2093,2320,2093
+1163,10/18/15,2015,October,64,M,United Kingdom,England,Accessories,Helmets,1,105,107,105,107
+1164,01/10/16,2016,January,31,F,France,Seine (Paris),Clothing,Caps,3,6,8,18,24
+1165,03/28/16,2016,March,31,F,France,Seine (Paris),Clothing,Caps,2,22.5,27.5,45,55
+1166,06/24/15,2015,June,32,F,France,Yveline,Bikes,Mountain Bikes,3,690.33,572.666667,2071,1718
+1167,10/10/15,2015,October,32,F,France,Yveline,Bikes,Mountain Bikes,3,765,757.333333,2295,2272
+1168,06/02/15,2015,June,33,M,France,Moselle,Bikes,Mountain Bikes,2,1024.5,1037.5,2049,2075
+1169,10/11/15,2015,October,33,M,France,Moselle,Bikes,Mountain Bikes,2,1147.5,1061,2295,2122
+1170,10/11/15,2015,October,33,M,France,Moselle,Accessories,Tires and Tubes,2,175,160.5,350,321
+1171,10/11/15,2015,October,33,M,France,Moselle,Accessories,Tires and Tubes,1,5,4,5,4
+1172,10/11/15,2015,October,33,M,France,Moselle,Accessories,Bike Stands,1,636,774,636,774
+1173,12/01/15,2015,December,33,M,France,Moselle,Accessories,Tires and Tubes,2,165,140,330,280
+1174,12/01/15,2015,December,33,M,France,Moselle,Accessories,Tires and Tubes,2,5.5,4.5,11,9
+1175,11/24/15,2015,November,34,F,France,Seine Saint Denis,Accessories,Bottles and Cages,2,60,76.5,120,153
+1176,11/24/15,2015,November,34,F,France,Seine Saint Denis,Accessories,Bottles and Cages,1,135,168,135,168
+1177,02/06/15,2015,February,34,F,France,Yveline,Bikes,Mountain Bikes,2,1024.5,840.5,2049,1681
+1178,11/22/15,2015,November,34,F,France,Yveline,Bikes,Mountain Bikes,3,256.33,207.333333,769,622
+1179,11/24/15,2015,November,34,F,France,Yveline,Bikes,Mountain Bikes,3,765,850.666667,2295,2552
+1180,03/18/16,2016,March,19,M,France,Seine (Paris),Accessories,Tires and Tubes,1,90,121,90,121
+1181,11/13/15,2015,November,19,M,France,Seine (Paris),Bikes,Mountain Bikes,3,765,618,2295,1854
+1182,11/13/15,2015,November,19,M,France,Seine (Paris),Accessories,Tires and Tubes,3,16.67,18,50,54
+1183,12/21/15,2015,December,20,M,France,Loiret,Bikes,Mountain Bikes,1,2320,2660,2320,2660
+1184,12/21/15,2015,December,20,M,France,Loiret,Accessories,Bottles and Cages,1,240,330,240,330
+1185,02/18/16,2016,February,18,M,France,Essonne,Accessories,Helmets,3,105,154,315,462
+1186,02/18/16,2016,February,18,M,France,Essonne,Clothing,Jerseys,1,378,520,378,520
+1187,07/02/16,2016,July,18,M,Germany,Bayern,Accessories,Helmets,3,233.33,353,700,1059
+1188,07/08/16,2016,July,19,F,France,Val de Marne,Accessories,Helmets,2,420,430.5,840,861
+1189,07/07/16,2016,July,19,F,Germany,Saarland,Accessories,Tires and Tubes,3,15,24.333333,45,73
+1190,09/25/15,2015,September,19,F,Germany,Saarland,Bikes,Mountain Bikes,2,1160,1323,2320,2646
+1191,09/25/15,2015,September,19,F,Germany,Saarland,Accessories,Tires and Tubes,3,268.33,370.333333,805,1111
+1192,09/25/15,2015,September,19,F,Germany,Saarland,Accessories,Tires and Tubes,3,20,27.333333,60,82
+1193,12/14/15,2015,December,20,F,France,Essonne,Bikes,Mountain Bikes,2,1160,1015.5,2320,2031
+1194,12/14/15,2015,December,20,F,France,Essonne,Accessories,Bottles and Cages,2,30,39,60,78
+1195,12/14/15,2015,December,20,F,France,Essonne,Accessories,Bottles and Cages,2,30,37.5,60,75
+1196,12/14/15,2015,December,20,F,France,Essonne,Accessories,Helmets,1,245,261,245,261
+1197,12/14/15,2015,December,20,F,France,Essonne,Clothing,Caps,3,72,64,216,192
+1198,11/07/15,2015,November,20,F,France,Hauts de Seine,Accessories,Helmets,2,227.5,281.5,455,563
+1199,12/09/15,2015,December,20,M,France,Yveline,Bikes,Mountain Bikes,1,2295,2525,2295,2525
+1200,12/09/15,2015,December,20,M,France,Yveline,Accessories,Bottles and Cages,1,190,291,190,291
+1201,12/09/15,2015,December,20,M,France,Yveline,Accessories,Bottles and Cages,2,47.5,36.5,95,73
+1202,12/09/15,2015,December,20,M,France,Yveline,Clothing,Caps,1,189,166,189,166
+1203,12/09/15,2015,December,20,M,France,Yveline,Accessories,Helmets,2,280,386.5,560,773
+1204,01/11/16,2016,January,20,M,Germany,Hessen,Accessories,Helmets,3,163.33,243,490,729
+1205,05/18/16,2016,May,20,M,Germany,Hessen,Accessories,Helmets,2,280,444,560,888
+1206,04/10/16,2016,April,20,M,United Kingdom,England,Bikes,Touring Bikes,1,2384,2308,2384,2308
+1207,04/18/16,2016,April,20,M,United Kingdom,England,Bikes,Touring Bikes,3,794.67,842.333333,2384,2527
+1208,09/13/15,2015,September,20,M,United Kingdom,England,Clothing,Caps,3,15,17.666667,45,53
+1209,09/01/15,2015,September,21,F,Germany,Saarland,Bikes,Mountain Bikes,2,1147.5,1349.5,2295,2699
+1210,05/22/16,2016,May,22,F,France,Essonne,Bikes,Road Bikes,3,180,194.666667,540,584
+1211,12/15/15,2015,December,22,F,France,Essonne,Clothing,Caps,1,144,147,144,147
+1212,12/30/15,2015,December,22,F,France,Essonne,Bikes,Mountain Bikes,1,2320,2001,2320,2001
+1213,12/30/15,2015,December,22,F,France,Essonne,Clothing,Caps,3,54,75.333333,162,226
+1214,12/12/15,2015,December,22,M,France,Seine (Paris),Bikes,Mountain Bikes,2,1160,873,2320,1746
+1215,12/12/15,2015,December,22,M,France,Seine (Paris),Accessories,Bottles and Cages,1,190,238,190,238
+1216,12/12/15,2015,December,22,M,France,Seine (Paris),Accessories,Bottles and Cages,2,47.5,35.5,95,71
+1217,06/15/16,2016,June,21,M,France,Hauts de Seine,Accessories,Helmets,1,595,1010,595,1010
+1218,01/21/16,2016,January,21,M,United Kingdom,England,Bikes,Touring Bikes,2,371,413,742,826
+1219,05/26/16,2016,May,21,M,United Kingdom,England,Bikes,Touring Bikes,3,794.67,875.666667,2384,2627
+1220,03/11/15,2015,March,23,M,France,Loiret,Bikes,Road Bikes,2,391.5,432,783,864
+1221,09/11/15,2015,September,23,M,France,Loiret,Bikes,Road Bikes,3,373.33,313.666667,1120,941
+1222,12/31/15,2015,December,23,M,France,Loiret,Bikes,Mountain Bikes,3,765,940.333333,2295,2821
+1223,04/17/16,2016,April,23,M,United Kingdom,England,Accessories,Bottles and Cages,2,50,59.5,100,119
+1224,06/27/16,2016,June,23,M,United Kingdom,England,Accessories,Fenders,1,418,570,418,570
+1225,10/19/15,2015,October,23,M,United Kingdom,England,Accessories,Bottles and Cages,1,140,167,140,167
+1226,10/23/15,2015,October,23,M,United Kingdom,England,Accessories,Bottles and Cages,2,20,24.5,40,49
+1227,10/23/15,2015,October,23,M,United Kingdom,England,Accessories,Bottles and Cages,2,13.5,15.5,27,31
+1228,10/28/15,2015,October,23,M,United Kingdom,England,Accessories,Bottles and Cages,1,117,146,117,146
+1229,10/28/15,2015,October,23,M,United Kingdom,England,Accessories,Bottles and Cages,1,120,136,120,136
+1230,05/28/16,2016,May,22,F,Germany,Nordrhein-Westfalen,Accessories,Bottles and Cages,3,38.33,51.666667,115,155
+1231,05/28/16,2016,May,22,F,Germany,Nordrhein-Westfalen,Accessories,Bottles and Cages,1,216,315,216,315
+1232,06/21/16,2016,June,22,F,Germany,Nordrhein-Westfalen,Bikes,Mountain Bikes,2,1147.5,1656,2295,3312
+1233,06/14/15,2015,June,22,F,Germany,Nordrhein-Westfalen,Bikes,Mountain Bikes,3,690.33,738,2071,2214
+1234,09/01/15,2015,September,22,F,Germany,Nordrhein-Westfalen,Accessories,Bottles and Cages,1,125,174,125,174
+1235,09/01/15,2015,September,22,F,Germany,Nordrhein-Westfalen,Accessories,Bottles and Cages,2,4.5,6.5,9,13
+1236,10/26/15,2015,October,22,F,Germany,Nordrhein-Westfalen,Bikes,Mountain Bikes,1,2295,2675,2295,2675
+1237,10/26/15,2015,October,22,F,Germany,Nordrhein-Westfalen,Accessories,Bottles and Cages,3,43.33,52.666667,130,158
+1238,10/26/15,2015,October,22,F,Germany,Nordrhein-Westfalen,Accessories,Bottles and Cages,2,7.5,10.5,15,21
+1239,10/07/15,2015,October,22,F,Germany,Saarland,Accessories,Bottles and Cages,1,50,69,50,69
+1240,10/07/15,2015,October,22,F,Germany,Saarland,Accessories,Bottles and Cages,1,115,158,115,158
+1241,07/21/15,2015,July,22,F,United Kingdom,England,Accessories,Cleaners,3,29,30.666667,87,92
+1242,05/13/16,2016,May,24,M,United States,Washington,Clothing,Jerseys,2,525,578,1050,1156
+1243,10/11/15,2015,October,24,M,United States,Washington,Clothing,Jerseys,2,750,899,1500,1798
+1244,11/15/15,2015,November,24,M,United States,Washington,Clothing,Jerseys,3,504,537.333333,1512,1612
+1245,12/08/15,2015,December,24,M,United States,Washington,Clothing,Jerseys,1,1200,1204,1200,1204
+1246,12/15/15,2015,December,24,M,United States,Washington,Clothing,Jerseys,2,432,453,864,906
+1247,12/17/15,2015,December,24,M,United States,Washington,Clothing,Jerseys,1,350,347,350,347
+1248,01/02/16,2016,January,24,M,United States,California,Accessories,Tires and Tubes,2,65,72.5,130,145
+1249,01/02/16,2016,January,24,M,United States,California,Accessories,Tires and Tubes,3,9.67,10.666667,29,32
+1250,02/12/16,2016,February,24,M,United States,California,Accessories,Tires and Tubes,3,200,251.666667,600,755
+1251,02/12/16,2016,February,24,M,United States,California,Accessories,Tires and Tubes,2,44,51.5,88,103
+1252,02/18/16,2016,February,24,M,United States,California,Accessories,Tires and Tubes,2,268.5,364,537,728
+1253,02/18/16,2016,February,24,M,United States,California,Bikes,Road Bikes,3,180,214,540,642
+1254,02/18/16,2016,February,24,M,United States,California,Accessories,Tires and Tubes,2,20,24.5,40,49
+1255,02/18/16,2016,February,24,M,United States,California,Accessories,Tires and Tubes,2,18.5,22.5,37,45
+1256,02/28/16,2016,February,24,M,United States,California,Accessories,Tires and Tubes,1,48,54,48,54
+1257,03/27/16,2016,March,24,M,United States,California,Accessories,Tires and Tubes,3,191.67,214.666667,575,644
+1258,03/27/16,2016,March,24,M,United States,California,Accessories,Tires and Tubes,3,37.33,47.666667,112,143
+1259,03/27/16,2016,March,24,M,United States,California,Accessories,Tires and Tubes,1,62,74,62,74
+1260,04/08/16,2016,April,24,M,United States,California,Accessories,Tires and Tubes,1,232,275,232,275
+1261,04/25/16,2016,April,24,M,United States,California,Accessories,Tires and Tubes,3,141.33,184.333333,424,553
+1262,04/25/16,2016,April,24,M,United States,California,Accessories,Tires and Tubes,2,15,16,30,32
+1263,05/12/16,2016,May,24,M,United States,California,Accessories,Tires and Tubes,1,560,626,560,626
+1264,05/12/16,2016,May,24,M,United States,California,Accessories,Tires and Tubes,2,60,67,120,134
+1265,05/28/16,2016,May,24,M,United States,California,Accessories,Tires and Tubes,3,38.33,45,115,135
+1266,05/28/16,2016,May,24,M,United States,California,Accessories,Tires and Tubes,1,53,65,53,65
+1267,05/30/16,2016,May,24,M,United States,California,Bikes,Mountain Bikes,2,384.5,436.5,769,873
+1268,06/06/16,2016,June,24,M,United States,California,Accessories,Tires and Tubes,1,69,86,69,86
+1269,01/25/15,2015,January,24,M,United States,California,Bikes,Road Bikes,1,2443,2229,2443,2229
+1270,02/01/15,2015,February,24,M,United States,California,Bikes,Road Bikes,3,333.33,313,1000,939
+1271,02/14/15,2015,February,24,M,United States,California,Bikes,Road Bikes,3,333.33,301,1000,903
+1272,06/17/15,2015,June,24,M,United States,California,Bikes,Mountain Bikes,3,690.33,609,2071,1827
+1273,06/29/15,2015,June,24,M,United States,California,Bikes,Mountain Bikes,3,683,685.333333,2049,2056
+1274,08/03/15,2015,August,24,M,United States,California,Accessories,Tires and Tubes,3,3.33,3.666667,10,11
+1275,08/03/15,2015,August,24,M,United States,California,Accessories,Tires and Tubes,2,319,329.5,638,659
+1276,08/10/15,2015,August,24,M,United States,California,Accessories,Tires and Tubes,1,420,475,420,475
+1277,08/10/15,2015,August,24,M,United States,California,Accessories,Tires and Tubes,1,150,154,150,154
+1278,08/13/15,2015,August,24,M,United States,California,Bikes,Mountain Bikes,3,256.33,246,769,738
+1279,08/13/15,2015,August,24,M,United States,California,Accessories,Tires and Tubes,2,360,395.5,720,791
+1280,08/13/15,2015,August,24,M,United States,California,Accessories,Tires and Tubes,3,3.33,3.666667,10,11
+1281,10/13/15,2015,October,24,M,United States,California,Accessories,Tires and Tubes,2,345,365.5,690,731
+1282,10/13/15,2015,October,24,M,United States,California,Accessories,Tires and Tubes,3,16,16.666667,48,50
+1283,10/25/15,2015,October,24,M,United States,California,Bikes,Mountain Bikes,2,1147.5,1036.5,2295,2073
+1284,10/25/15,2015,October,24,M,United States,California,Accessories,Tires and Tubes,1,105,113,105,113
+1285,10/25/15,2015,October,24,M,United States,California,Accessories,Tires and Tubes,1,65,75,65,75
+1286,10/25/15,2015,October,24,M,United States,California,Accessories,Tires and Tubes,2,424,445.5,848,891
+1287,10/26/15,2015,October,24,M,United States,California,Bikes,Mountain Bikes,2,1160,1069.5,2320,2139
+1288,11/01/15,2015,November,24,M,United States,California,Bikes,Mountain Bikes,1,2320,2214,2320,2214
+1289,11/15/15,2015,November,24,M,United States,California,Accessories,Tires and Tubes,3,96.67,107.666667,290,323
+1290,11/16/15,2015,November,24,M,United States,California,Bikes,Road Bikes,1,2443,2511,2443,2511
+1291,11/16/15,2015,November,24,M,United States,California,Accessories,Tires and Tubes,3,130.33,132,391,396
+1292,11/16/15,2015,November,24,M,United States,California,Accessories,Tires and Tubes,1,80,94,80,94
+1293,11/16/15,2015,November,24,M,United States,California,Accessories,Tires and Tubes,2,2.5,2.5,5,5
+1294,11/19/15,2015,November,24,M,United States,California,Accessories,Tires and Tubes,1,480,493,480,493
+1295,11/19/15,2015,November,24,M,United States,California,Accessories,Tires and Tubes,1,406,398,406,398
+1296,11/19/15,2015,November,24,M,United States,California,Accessories,Tires and Tubes,2,30,36,60,72
+1297,12/05/15,2015,December,24,M,United States,California,Bikes,Mountain Bikes,3,773.33,739.666667,2320,2219
+1298,12/17/15,2015,December,24,M,United States,California,Bikes,Mountain Bikes,2,384.5,336,769,672
+1299,12/27/15,2015,December,24,M,United States,California,Accessories,Tires and Tubes,2,125,136,250,272
+1300,12/27/15,2015,December,24,M,United States,California,Accessories,Tires and Tubes,3,48.33,53.666667,145,161
+1301,12/29/15,2015,December,24,M,United States,California,Bikes,Mountain Bikes,2,384.5,329.5,769,659
+1302,01/03/16,2016,January,27,F,United States,Washington,Accessories,Tires and Tubes,1,45,55,45,55
+1303,01/05/16,2016,January,27,F,United States,Washington,Accessories,Cleaners,3,21.33,28,64,84
+1304,01/05/16,2016,January,27,F,United States,Washington,Accessories,Tires and Tubes,2,31,39.5,62,79
+1305,03/18/16,2016,March,27,F,United States,Washington,Accessories,Tires and Tubes,3,38.33,47.666667,115,143
+1306,05/12/16,2016,May,27,F,United States,Washington,Accessories,Tires and Tubes,1,64,87,64,87
+1307,05/12/16,2016,May,27,F,United States,Washington,Accessories,Tires and Tubes,1,28,36,28,36
+1308,06/06/16,2016,June,27,F,United States,Washington,Clothing,Jerseys,1,200,256,200,256
+1309,06/13/16,2016,June,27,F,United States,Washington,Accessories,Tires and Tubes,2,44,53.5,88,107
+1310,06/13/16,2016,June,27,F,United States,Washington,Accessories,Tires and Tubes,3,16.67,23.333333,50,70
+1311,06/19/16,2016,June,27,F,United States,Washington,Accessories,Tires and Tubes,1,7,8,7,8
+1312,06/19/16,2016,June,27,F,United States,Washington,Accessories,Tires and Tubes,3,1.67,2,5,6
+1313,08/28/15,2015,August,27,F,United States,Washington,Accessories,Tires and Tubes,2,15,17,30,34
+1314,08/28/15,2015,August,27,F,United States,Washington,Accessories,Tires and Tubes,1,420,517,420,517
+1315,10/23/15,2015,October,27,F,United States,Washington,Accessories,Tires and Tubes,3,20,22.666667,60,68
+1316,10/23/15,2015,October,27,F,United States,Washington,Accessories,Tires and Tubes,3,58.33,66.333333,175,199
+1317,10/23/15,2015,October,27,F,United States,Washington,Clothing,Jerseys,3,16.67,16.333333,50,49
+1318,07/06/16,2016,July,28,F,United States,Oregon,Clothing,Gloves,3,16.33,20,49,60
+1319,09/24/15,2015,September,26,F,United States,Oregon,Clothing,Jerseys,2,325,361.5,650,723
+1320,10/06/15,2015,October,26,F,United States,Oregon,Clothing,Jerseys,3,216.67,227.333333,650,682
+1321,10/18/15,2015,October,26,F,United States,Oregon,Clothing,Jerseys,1,702,788,702,788
+1322,02/08/16,2016,February,26,F,United States,California,Accessories,Tires and Tubes,3,45,58.666667,135,176
+1323,02/08/16,2016,February,26,F,United States,California,Accessories,Tires and Tubes,2,19.5,27,39,54
+1324,02/18/16,2016,February,26,F,United States,California,Accessories,Tires and Tubes,1,110,133,110,133
+1325,02/22/16,2016,February,26,F,United States,California,Accessories,Tires and Tubes,1,75,104,75,104
+1326,03/12/16,2016,March,26,F,United States,California,Accessories,Cleaners,1,87,94,87,94
+1327,03/14/16,2016,March,26,F,United States,California,Accessories,Tires and Tubes,3,35,38.666667,105,116
+1328,03/14/16,2016,March,26,F,United States,California,Accessories,Tires and Tubes,3,23.33,29.666667,70,89
+1329,03/14/16,2016,March,26,F,United States,California,Accessories,Tires and Tubes,1,35,46,35,46
+1330,03/16/16,2016,March,26,F,United States,California,Accessories,Tires and Tubes,3,43,52.666667,129,158
+1331,03/16/16,2016,March,26,F,United States,California,Accessories,Tires and Tubes,1,25,31,25,31
+1332,03/19/16,2016,March,26,F,United States,California,Accessories,Tires and Tubes,1,135,144,135,144
+1333,03/19/16,2016,March,26,F,United States,California,Accessories,Tires and Tubes,1,53,62,53,62
+1334,03/19/16,2016,March,26,F,United States,California,Accessories,Tires and Tubes,2,16,21,32,42
+1335,03/20/16,2016,March,26,F,United States,California,Accessories,Tires and Tubes,2,38,41.5,76,83
+1336,03/26/16,2016,March,26,F,United States,California,Accessories,Tires and Tubes,3,5.33,6.666667,16,20
+1337,04/01/16,2016,April,26,F,United States,California,Accessories,Cleaners,3,34.33,43.333333,103,130
+1338,04/01/16,2016,April,26,F,United States,California,Accessories,Tires and Tubes,3,8.33,9.666667,25,29
+1339,04/07/16,2016,April,26,F,United States,California,Accessories,Tires and Tubes,1,70,77,70,77
+1340,04/07/16,2016,April,26,F,United States,California,Accessories,Tires and Tubes,2,13.5,15.5,27,31
+1341,05/21/16,2016,May,26,F,United States,California,Accessories,Tires and Tubes,3,23,28.666667,69,86
+1342,05/21/16,2016,May,26,F,United States,California,Accessories,Tires and Tubes,3,18.67,21,56,63
+1343,06/04/16,2016,June,26,F,United States,California,Accessories,Tires and Tubes,2,50,60,100,120
+1344,07/05/16,2016,July,26,F,United States,California,Accessories,Tires and Tubes,1,25,28,25,28
+1345,07/05/16,2016,July,26,F,United States,California,Accessories,Tires and Tubes,2,2.5,3,5,6
+1346,07/15/16,2016,July,26,F,United States,California,Accessories,Tires and Tubes,3,0.67,1,2,3
+1347,07/30/16,2016,July,26,F,United States,California,Accessories,Tires and Tubes,3,33.33,38.333333,100,115
+1348,08/24/15,2015,August,26,F,United States,California,Accessories,Tires and Tubes,2,8,9.5,16,19
+1349,08/24/15,2015,August,26,F,United States,California,Accessories,Tires and Tubes,2,98,93,196,186
+1350,08/25/15,2015,August,26,F,United States,California,Accessories,Tires and Tubes,1,105,122,105,122
+1351,08/25/15,2015,August,26,F,United States,California,Accessories,Tires and Tubes,2,17.5,19.5,35,39
+1352,08/25/15,2015,August,26,F,United States,California,Accessories,Tires and Tubes,3,4.67,5,14,15
+1353,08/27/15,2015,August,26,F,United States,California,Accessories,Tires and Tubes,2,232,244,464,488
+1354,11/12/15,2015,November,26,F,United States,California,Accessories,Tires and Tubes,3,31.67,31.333333,95,94
+1355,11/12/15,2015,November,26,F,United States,California,Accessories,Tires and Tubes,3,93.33,106.333333,280,319
+1356,11/26/15,2015,November,26,F,United States,California,Accessories,Tires and Tubes,2,47.5,54.5,95,109
+1357,11/26/15,2015,November,26,F,United States,California,Accessories,Tires and Tubes,2,87.5,90,175,180
+1358,12/15/15,2015,December,26,F,United States,California,Accessories,Tires and Tubes,1,200,229,200,229
+1359,12/15/15,2015,December,26,F,United States,California,Accessories,Tires and Tubes,3,20.67,21.666667,62,65
+1360,01/07/16,2016,January,27,M,United States,Oregon,Clothing,Caps,2,76.5,80,153,160
+1361,12/25/15,2015,December,27,M,United States,Oregon,Clothing,Caps,3,18,18.333333,54,55
+1362,05/09/16,2016,May,27,M,United States,Washington,Bikes,Road Bikes,2,560,556.5,1120,1113
+1363,05/09/16,2016,May,27,M,United States,Washington,Accessories,Helmets,1,420,546,420,546
+1364,05/15/16,2016,May,27,M,United States,Washington,Bikes,Road Bikes,2,560,545,1120,1090
+1365,06/03/16,2016,June,27,M,United States,Washington,Accessories,Helmets,1,280,342,280,342
+1366,01/10/15,2015,January,27,M,United States,Washington,Bikes,Road Bikes,2,391.5,359.5,783,719
+1367,02/01/15,2015,February,27,M,United States,Washington,Bikes,Road Bikes,2,1221.5,989.5,2443,1979
+1368,07/17/15,2015,July,27,M,United States,Washington,Bikes,Road Bikes,3,180,169.333333,540,508
+1369,08/19/15,2015,August,27,M,United States,Washington,Accessories,Helmets,2,455,448,910,896
+1370,08/26/15,2015,August,27,M,United States,Washington,Bikes,Road Bikes,2,270,277.5,540,555
+1371,08/26/15,2015,August,27,M,United States,Washington,Accessories,Helmets,2,87.5,89,175,178
+1372,12/03/15,2015,December,27,M,United States,Washington,Accessories,Helmets,1,245,260,245,260
+1373,12/03/15,2015,December,27,M,United States,Washington,Bikes,Road Bikes,2,270,248,540,496
+1374,12/03/15,2015,December,27,M,United States,Washington,Accessories,Helmets,3,140,170.333333,420,511
+1375,12/04/15,2015,December,27,M,United States,Washington,Accessories,Helmets,2,437.5,498.5,875,997
+1376,12/20/15,2015,December,27,M,United States,Washington,Bikes,Road Bikes,2,270,256.5,540,513
+1377,01/18/16,2016,January,31,F,United States,Washington,Clothing,Jerseys,2,425,495,850,990
+1378,01/18/16,2016,January,31,F,United States,Washington,Clothing,Caps,2,76.5,88,153,176
+1379,02/14/16,2016,February,31,F,United States,Washington,Clothing,Jerseys,3,66.67,81.333333,200,244
+1380,02/21/16,2016,February,31,F,United States,Washington,Clothing,Caps,1,252,344,252,344
+1381,04/27/16,2016,April,31,F,United States,Washington,Clothing,Caps,3,12,15.333333,36,46
+1382,07/19/15,2015,July,31,F,United States,Washington,Clothing,Jerseys,1,400,400,400,400
+1383,08/03/15,2015,August,31,F,United States,Washington,Clothing,Jerseys,3,270,278,810,834
+1384,08/16/15,2015,August,31,F,United States,Washington,Clothing,Caps,2,117,138,234,276
+1385,09/04/15,2015,September,31,F,United States,Washington,Clothing,Caps,3,60,62.333333,180,187
+1386,09/04/15,2015,September,31,F,United States,Washington,Clothing,Jerseys,1,756,870,756,870
+1387,11/09/15,2015,November,31,F,United States,Washington,Clothing,Jerseys,3,283.33,297,850,891
+1388,02/21/16,2016,February,31,M,United States,Minnesota,Clothing,Jerseys,2,378,428,756,856
+1389,06/11/16,2016,June,31,M,United States,Minnesota,Accessories,Tires and Tubes,1,1050,1234,1050,1234
+1390,06/11/16,2016,June,31,M,United States,Minnesota,Accessories,Tires and Tubes,3,17.67,23.666667,53,71
+1391,08/09/15,2015,August,28,M,United States,Wyoming,Bikes,Mountain Bikes,3,773.33,698,2320,2094
+1392,08/09/15,2015,August,28,M,United States,Wyoming,Accessories,Tires and Tubes,1,64,80,64,80
+1393,09/08/15,2015,September,28,F,United States,Washington,Clothing,Caps,1,162,178,162,178
+1394,02/07/16,2016,February,32,M,United States,Oregon,Clothing,Caps,2,85.5,98,171,196
+1395,02/26/16,2016,February,32,M,United States,Oregon,Clothing,Caps,2,76.5,98,153,196
+1396,06/15/16,2016,June,32,M,United States,Oregon,Clothing,Caps,3,75,87,225,261
+1397,01/10/16,2016,January,32,F,United States,Washington,Bikes,Road Bikes,2,270,310,540,620
+1398,01/27/16,2016,January,32,F,United States,Washington,Bikes,Mountain Bikes,2,1147.5,1075.5,2295,2151
+1399,03/07/16,2016,March,32,F,United States,Washington,Clothing,Caps,3,66,73.666667,198,221
+1400,03/08/16,2016,March,32,F,United States,Washington,Clothing,Caps,1,18,23,18,23
+1401,03/31/16,2016,March,32,F,United States,Washington,Bikes,Mountain Bikes,3,773.33,943.333333,2320,2830
+1402,04/13/16,2016,April,32,F,United States,Washington,Clothing,Caps,1,27,35,27,35
+1403,04/30/16,2016,April,32,F,United States,Washington,Bikes,Mountain Bikes,3,773.33,871.666667,2320,2615
+1404,05/09/16,2016,May,32,F,United States,Washington,Bikes,Mountain Bikes,1,2320,2413,2320,2413
+1405,05/18/16,2016,May,32,F,United States,Washington,Bikes,Road Bikes,3,567,638,1701,1914
+1406,05/27/16,2016,May,32,F,United States,Washington,Bikes,Mountain Bikes,1,2295,2681,2295,2681
+1407,05/29/16,2016,May,32,F,United States,Washington,Bikes,Mountain Bikes,3,773.33,868.333333,2320,2605
+1408,06/24/16,2016,June,32,F,United States,Washington,Bikes,Mountain Bikes,3,765,790.666667,2295,2372
+1409,06/24/16,2016,June,32,F,United States,Washington,Clothing,Caps,1,189,209,189,209
+1410,04/03/15,2015,April,32,F,United States,Washington,Bikes,Road Bikes,1,2182,1863,2182,1863
+1411,04/09/15,2015,April,32,F,United States,Washington,Bikes,Road Bikes,2,1091,993.5,2182,1987
+1412,04/09/15,2015,April,32,F,United States,Washington,Bikes,Road Bikes,2,1091,1069,2182,2138
+1413,04/24/15,2015,April,32,F,United States,Washington,Bikes,Road Bikes,3,727.33,708,2182,2124
+1414,05/02/15,2015,May,32,F,United States,Washington,Bikes,Road Bikes,3,261,248.333333,783,745
+1415,05/11/15,2015,May,32,F,United States,Washington,Bikes,Road Bikes,3,333.33,282.666667,1000,848
+1416,08/18/15,2015,August,32,F,United States,Washington,Bikes,Mountain Bikes,1,2295,2235,2295,2235
+1417,08/18/15,2015,August,32,F,United States,Washington,Clothing,Caps,3,21,20.333333,63,61
+1418,09/24/15,2015,September,32,F,United States,Washington,Bikes,Mountain Bikes,3,256.33,217,769,651
+1419,10/05/15,2015,October,32,F,United States,Washington,Bikes,Mountain Bikes,1,2320,2261,2320,2261
+1420,10/22/15,2015,October,32,F,United States,Washington,Clothing,Caps,3,33,33,99,99
+1421,10/28/15,2015,October,32,F,United States,Washington,Bikes,Mountain Bikes,3,765,695.666667,2295,2087
+1422,11/05/15,2015,November,32,F,United States,Washington,Bikes,Mountain Bikes,2,1147.5,1002,2295,2004
+1423,11/22/15,2015,November,32,F,United States,Washington,Bikes,Mountain Bikes,3,188.33,168.333333,565,505
+1424,12/05/15,2015,December,32,F,United States,Washington,Bikes,Mountain Bikes,3,765,681.666667,2295,2045
+1425,12/15/15,2015,December,32,F,United States,Washington,Bikes,Mountain Bikes,2,1147.5,1087.5,2295,2175
+1426,12/28/15,2015,December,32,F,United States,Washington,Bikes,Mountain Bikes,2,1147.5,1107.5,2295,2215
+1427,01/03/16,2016,January,34,M,United States,California,Accessories,Tires and Tubes,1,70,93,70,93
+1428,01/03/16,2016,January,34,M,United States,California,Clothing,Caps,2,13.5,17,27,34
+1429,01/10/16,2016,January,34,M,United States,California,Accessories,Tires and Tubes,1,52,68,52,68
+1430,01/10/16,2016,January,34,M,United States,California,Accessories,Tires and Tubes,1,650,805,650,805
+1431,01/11/16,2016,January,34,M,United States,California,Accessories,Tires and Tubes,1,700,879,700,879
+1432,01/11/16,2016,January,34,M,United States,California,Accessories,Tires and Tubes,1,145,173,145,173
+1433,01/11/16,2016,January,34,M,United States,California,Accessories,Helmets,3,338.33,449.666667,1015,1349
+1434,01/21/16,2016,January,34,M,United States,California,Accessories,Helmets,2,262.5,317.5,525,635
+1435,01/21/16,2016,January,34,M,United States,California,Clothing,Jerseys,2,150,168.5,300,337
+1436,01/23/16,2016,January,34,M,United States,California,Accessories,Tires and Tubes,3,5,6.333333,15,19
+1437,01/29/16,2016,January,34,M,United States,California,Accessories,Helmets,1,70,80,70,80
+1438,02/06/16,2016,February,34,M,United States,California,Accessories,Tires and Tubes,3,175,220.333333,525,661
+1439,02/06/16,2016,February,34,M,United States,California,Accessories,Tires and Tubes,3,36,44.333333,108,133
+1440,02/17/16,2016,February,34,M,United States,California,Accessories,Tires and Tubes,1,675,864,675,864
+1441,02/17/16,2016,February,34,M,United States,California,Accessories,Tires and Tubes,2,4.5,5.5,9,11
+1442,02/27/16,2016,February,34,M,United States,California,Clothing,Caps,1,63,85,63,85
+1443,03/03/16,2016,March,34,M,United States,California,Accessories,Helmets,2,157.5,190.5,315,381
+1444,03/05/16,2016,March,34,M,United States,California,Clothing,Jerseys,2,675,914.5,1350,1829
+1445,03/14/16,2016,March,34,M,United States,California,Clothing,Jerseys,2,675,879.5,1350,1759
+1446,03/26/16,2016,March,34,M,United States,California,Accessories,Tires and Tubes,3,40,53,120,159
+1447,03/26/16,2016,March,34,M,United States,California,Accessories,Tires and Tubes,1,15,20,15,20
+1448,04/02/16,2016,April,34,M,United States,California,Accessories,Tires and Tubes,3,10,11.666667,30,35
+1449,04/02/16,2016,April,34,M,United States,California,Accessories,Tires and Tubes,3,19,23.333333,57,70
+1450,04/03/16,2016,April,34,M,United States,California,Accessories,Helmets,2,87.5,117,175,234
+1451,04/06/16,2016,April,34,M,United States,California,Clothing,Jerseys,2,729,917,1458,1834
+1452,04/06/16,2016,April,34,M,United States,California,Accessories,Helmets,1,140,170,140,170
+1453,04/06/16,2016,April,34,M,United States,California,Accessories,Tires and Tubes,1,120,152,120,152
+1454,04/06/16,2016,April,34,M,United States,California,Accessories,Tires and Tubes,1,490,670,490,670
+1455,04/14/16,2016,April,34,M,United States,California,Accessories,Tires and Tubes,1,100,122,100,122
+1456,04/14/16,2016,April,34,M,United States,California,Accessories,Tires and Tubes,1,210,266,210,266
+1457,04/14/16,2016,April,34,M,United States,California,Accessories,Helmets,3,105,122,315,366
+1458,04/25/16,2016,April,34,M,United States,California,Accessories,Helmets,1,420,499,420,499
+1459,04/26/16,2016,April,34,M,United States,California,Accessories,Tires and Tubes,1,406,550,406,550
+1460,04/26/16,2016,April,34,M,United States,California,Accessories,Tires and Tubes,3,43.33,55,130,165
+1461,04/26/16,2016,April,34,M,United States,California,Accessories,Helmets,1,385,492,385,492
+1462,05/01/16,2016,May,34,M,United States,California,Clothing,Jerseys,2,27,35,54,70
+1463,05/03/16,2016,May,34,M,United States,California,Clothing,Caps,3,27,31.333333,81,94
+1464,05/06/16,2016,May,34,M,United States,California,Accessories,Tires and Tubes,3,43.33,56.333333,130,169
+1465,05/06/16,2016,May,34,M,United States,California,Accessories,Tires and Tubes,1,377,437,377,437
+1466,05/18/16,2016,May,34,M,United States,California,Clothing,Jerseys,3,180,239.666667,540,719
+1467,05/25/16,2016,May,34,M,United States,California,Accessories,Tires and Tubes,2,280,331,560,662
+1468,05/25/16,2016,May,34,M,United States,California,Accessories,Tires and Tubes,2,10,13,20,26
+1469,05/25/16,2016,May,34,M,United States,California,Accessories,Tires and Tubes,2,4.5,5.5,9,11
+1470,05/26/16,2016,May,34,M,United States,California,Accessories,Tires and Tubes,3,70,91.333333,210,274
+1471,05/29/16,2016,May,34,M,United States,California,Accessories,Tires and Tubes,2,225,269.5,450,539
+1472,05/29/16,2016,May,34,M,United States,California,Accessories,Tires and Tubes,3,33.33,41.333333,100,124
+1473,05/30/16,2016,May,34,M,United States,California,Accessories,Tires and Tubes,1,85,106,85,106
+1474,05/30/16,2016,May,34,M,United States,California,Accessories,Tires and Tubes,2,130.5,155,261,310
+1475,05/30/16,2016,May,34,M,United States,California,Accessories,Tires and Tubes,1,100,133,100,133
+1476,05/30/16,2016,May,34,M,United States,California,Accessories,Helmets,3,23.33,28.666667,70,86
+1477,06/05/16,2016,June,34,M,United States,California,Clothing,Jerseys,2,351,438,702,876
+1478,06/06/16,2016,June,34,M,United States,California,Accessories,Tires and Tubes,3,8.33,11,25,33
+1479,06/06/16,2016,June,34,M,United States,California,Accessories,Helmets,1,665,826,665,826
+1480,06/11/16,2016,June,34,M,United States,California,Accessories,Tires and Tubes,3,183.33,207.333333,550,622
+1481,06/11/16,2016,June,34,M,United States,California,Accessories,Tires and Tubes,3,7.67,9.333333,23,28
+1482,06/19/16,2016,June,34,M,United States,California,Accessories,Tires and Tubes,3,140,155.333333,420,466
+1483,06/19/16,2016,June,34,M,United States,California,Accessories,Tires and Tubes,2,70,89.5,140,179
+1484,06/19/16,2016,June,34,M,United States,California,Accessories,Tires and Tubes,1,25,30,25,30
+1485,06/21/16,2016,June,34,M,United States,California,Accessories,Tires and Tubes,3,270,313,810,939
+1486,06/21/16,2016,June,34,M,United States,California,Accessories,Tires and Tubes,1,55,59,55,59
+1487,06/22/16,2016,June,34,M,United States,California,Accessories,Tires and Tubes,1,11,13,11,13
+1488,06/22/16,2016,June,34,M,United States,California,Accessories,Tires and Tubes,3,12,15,36,45
+1489,06/22/16,2016,June,34,M,United States,California,Accessories,Tires and Tubes,1,815,1041,815,1041
+1490,06/22/16,2016,June,34,M,United States,California,Clothing,Jerseys,2,432,509,864,1018
+1491,06/22/16,2016,June,34,M,United States,California,Clothing,Caps,3,60,73,180,219
+1492,06/23/16,2016,June,34,M,United States,California,Accessories,Tires and Tubes,3,76,94.333333,228,283
+1493,06/23/16,2016,June,34,M,United States,California,Accessories,Tires and Tubes,2,14,17.5,28,35
+1494,06/23/16,2016,June,34,M,United States,California,Accessories,Helmets,3,151.67,209,455,627
+1495,07/28/16,2016,July,34,M,United States,California,Accessories,Tires and Tubes,2,137.5,158,275,316
+1496,07/28/16,2016,July,34,M,United States,California,Accessories,Tires and Tubes,1,37,45,37,45
+1497,08/06/15,2015,August,34,M,United States,California,Clothing,Jerseys,1,54,52,54,52
+1498,08/06/15,2015,August,34,M,United States,California,Clothing,Caps,2,108,123,216,246
+1499,08/17/15,2015,August,34,M,United States,California,Clothing,Caps,3,87,83,261,249
+1500,08/22/15,2015,August,34,M,United States,California,Accessories,Tires and Tubes,1,301,349,301,349
+1501,08/22/15,2015,August,34,M,United States,California,Accessories,Tires and Tubes,1,27,32,27,32
+1502,09/02/15,2015,September,34,M,United States,California,Accessories,Tires and Tubes,1,35,36,35,36
+1503,09/09/15,2015,September,34,M,United States,California,Accessories,Tires and Tubes,3,338.33,337.333333,1015,1012
+1504,09/17/15,2015,September,34,M,United States,California,Clothing,Jerseys,2,675,650.5,1350,1301
+1505,10/14/15,2015,October,34,M,United States,California,Clothing,Caps,1,135,160,135,160
+1506,10/26/15,2015,October,34,M,United States,California,Clothing,Jerseys,2,243,283,486,566
+1507,10/29/15,2015,October,34,M,United States,California,Accessories,Tires and Tubes,2,45,49.5,90,99
+1508,10/29/15,2015,October,34,M,United States,California,Accessories,Tires and Tubes,2,350,393.5,700,787
+1509,11/01/15,2015,November,34,M,United States,California,Clothing,Caps,1,243,245,243,245
+1510,11/03/15,2015,November,34,M,United States,California,Accessories,Tires and Tubes,2,159.5,194.5,319,389
+1511,11/05/15,2015,November,34,M,United States,California,Accessories,Tires and Tubes,3,105,117.666667,315,353
+1512,11/05/15,2015,November,34,M,United States,California,Accessories,Tires and Tubes,2,25,24.5,50,49
+1513,11/05/15,2015,November,34,M,United States,California,Accessories,Helmets,3,256.67,292,770,876
+1514,11/08/15,2015,November,34,M,United States,California,Clothing,Jerseys,2,525,519,1050,1038
+1515,11/08/15,2015,November,34,M,United States,California,Clothing,Caps,3,18,17,54,51
+1516,11/19/15,2015,November,34,M,United States,California,Accessories,Helmets,2,175,185,350,370
+1517,11/20/15,2015,November,34,M,United States,California,Accessories,Tires and Tubes,3,232,253.333333,696,760
+1518,11/20/15,2015,November,34,M,United States,California,Clothing,Caps,2,117,131,234,262
+1519,11/20/15,2015,November,34,M,United States,California,Accessories,Tires and Tubes,1,75,94,75,94
+1520,11/22/15,2015,November,34,M,United States,California,Accessories,Helmets,2,17.5,18.5,35,37
+1521,11/30/15,2015,November,34,M,United States,California,Clothing,Jerseys,1,100,132,100,132
+1522,12/02/15,2015,December,34,M,United States,California,Accessories,Helmets,3,116.67,131.333333,350,394
+1523,12/11/15,2015,December,34,M,United States,California,Accessories,Tires and Tubes,3,46.67,53.333333,140,160
+1524,12/11/15,2015,December,34,M,United States,California,Accessories,Tires and Tubes,2,72.5,76.5,145,153
+1525,12/11/15,2015,December,34,M,United States,California,Accessories,Helmets,3,140,151.333333,420,454
+1526,12/11/15,2015,December,34,M,United States,California,Accessories,Tires and Tubes,2,17.5,19,35,38
+1527,12/11/15,2015,December,34,M,United States,California,Accessories,Helmets,3,140,155.666667,420,467
+1528,12/16/15,2015,December,34,M,United States,California,Accessories,Tires and Tubes,2,55,55.5,110,111
+1529,12/18/15,2015,December,34,M,United States,California,Accessories,Tires and Tubes,2,4.5,5,9,10
+1530,12/18/15,2015,December,34,M,United States,California,Clothing,Jerseys,1,810,910,810,910
+1531,12/21/15,2015,December,34,M,United States,California,Accessories,Tires and Tubes,2,46,50.5,92,101
+1532,12/21/15,2015,December,34,M,United States,California,Accessories,Tires and Tubes,3,65.33,73.666667,196,221
+1533,12/21/15,2015,December,34,M,United States,California,Accessories,Helmets,3,35,39.666667,105,119
+1534,12/25/15,2015,December,34,M,United States,California,Accessories,Tires and Tubes,2,180,185.5,360,371
+1535,12/25/15,2015,December,34,M,United States,California,Accessories,Tires and Tubes,2,32,32.5,64,65
+1536,12/25/15,2015,December,34,M,United States,California,Clothing,Jerseys,2,351,357,702,714
+1537,12/27/15,2015,December,34,M,United States,California,Accessories,Tires and Tubes,2,330,319.5,660,639
+1538,11/25/15,2015,November,34,F,United States,California,Accessories,Hydration Packs,1,1430,1493,1430,1493
+1539,01/04/16,2016,January,35,F,United States,California,Accessories,Tires and Tubes,2,122.5,158.5,245,317
+1540,01/04/16,2016,January,35,F,United States,California,Accessories,Tires and Tubes,2,297.5,391.5,595,783
+1541,01/04/16,2016,January,35,F,United States,California,Accessories,Tires and Tubes,3,9,11,27,33
+1542,01/21/16,2016,January,35,F,United States,California,Clothing,Caps,1,243,275,243,275
+1543,02/05/16,2016,February,35,F,United States,California,Accessories,Tires and Tubes,3,33.33,43,100,129
+1544,02/23/16,2016,February,35,F,United States,California,Accessories,Tires and Tubes,3,25,34,75,102
+1545,02/25/16,2016,February,35,F,United States,California,Accessories,Tires and Tubes,2,34,43.5,68,87
+1546,02/25/16,2016,February,35,F,United States,California,Accessories,Tires and Tubes,2,236.5,289,473,578
+1547,03/01/16,2016,March,35,F,United States,California,Clothing,Jerseys,3,90,111.333333,270,334
+1548,03/17/16,2016,March,35,F,United States,California,Accessories,Tires and Tubes,2,13.5,17.5,27,35
+1549,03/24/16,2016,March,35,F,United States,California,Accessories,Tires and Tubes,1,129,152,129,152
+1550,03/24/16,2016,March,35,F,United States,California,Clothing,Caps,2,81,104,162,208
+1551,04/23/16,2016,April,35,F,United States,California,Clothing,Jerseys,1,1350,1739,1350,1739
+1552,04/27/16,2016,April,35,F,United States,California,Clothing,Caps,2,13.5,17,27,34
+1553,05/05/16,2016,May,35,F,United States,California,Clothing,Caps,3,75,88.333333,225,265
+1554,05/17/16,2016,May,35,F,United States,California,Accessories,Tires and Tubes,1,735,932,735,932
+1555,05/17/16,2016,May,35,F,United States,California,Accessories,Tires and Tubes,3,41.67,51.333333,125,154
+1556,05/21/16,2016,May,35,F,United States,California,Accessories,Tires and Tubes,1,630,783,630,783
+1557,05/21/16,2016,May,35,F,United States,California,Accessories,Tires and Tubes,3,5,6.666667,15,20
+1558,05/26/16,2016,May,35,F,United States,California,Clothing,Jerseys,2,270,330,540,660
+1559,05/26/16,2016,May,35,F,United States,California,Clothing,Caps,2,72,104.5,144,209
+1560,06/14/16,2016,June,35,F,United States,California,Accessories,Tires and Tubes,1,1050,1247,1050,1247
+1561,06/19/16,2016,June,35,F,United States,California,Clothing,Jerseys,2,297,363,594,726
+1562,06/19/16,2016,June,35,F,United States,California,Clothing,Caps,2,63,68,126,136
+1563,06/23/16,2016,June,35,F,United States,California,Clothing,Caps,3,45,54,135,162
+1564,06/25/16,2016,June,35,F,United States,California,Accessories,Tires and Tubes,3,8.33,11.333333,25,34
+1565,06/26/16,2016,June,35,F,United States,California,Accessories,Tires and Tubes,2,11.5,14,23,28
+1566,06/27/16,2016,June,35,F,United States,California,Accessories,Tires and Tubes,3,35,48.666667,105,146
+1567,06/28/16,2016,June,35,F,United States,California,Accessories,Tires and Tubes,3,26.67,33.333333,80,100
+1568,06/28/16,2016,June,35,F,United States,California,Accessories,Tires and Tubes,3,175,213.666667,525,641
+1569,06/28/16,2016,June,35,F,United States,California,Clothing,Jerseys,1,900,1163,900,1163
+1570,06/29/16,2016,June,35,F,United States,California,Clothing,Caps,3,72,87.666667,216,263
+1571,07/02/16,2016,July,35,F,United States,California,Clothing,Jerseys,2,378,493,756,986
+1572,07/04/16,2016,July,35,F,United States,California,Accessories,Tires and Tubes,1,20,26,20,26
+1573,07/04/16,2016,July,35,F,United States,California,Accessories,Tires and Tubes,2,19.5,24,39,48
+1574,07/16/16,2016,July,35,F,United States,California,Clothing,Caps,3,12,13.333333,36,40
+1575,07/30/16,2016,July,35,F,United States,California,Accessories,Tires and Tubes,3,26.67,35.666667,80,107
+1576,07/30/16,2016,July,35,F,United States,California,Accessories,Tires and Tubes,2,43,52,86,104
+1577,07/05/15,2015,July,35,F,United States,California,Accessories,Tires and Tubes,3,24,23,72,69
+1578,07/05/15,2015,July,35,F,United States,California,Accessories,Tires and Tubes,1,489,491,489,491
+1579,07/09/15,2015,July,35,F,United States,California,Accessories,Tires and Tubes,3,8.33,8.666667,25,26
+1580,08/10/15,2015,August,35,F,United States,California,Accessories,Tires and Tubes,2,27.5,32.5,55,65
+1581,08/20/15,2015,August,35,F,United States,California,Clothing,Jerseys,2,75,73,150,146
+1582,08/22/15,2015,August,35,F,United States,California,Clothing,Jerseys,3,216,273.333333,648,820
+1583,09/09/15,2015,September,35,F,United States,California,Accessories,Tires and Tubes,2,45,46,90,92
+1584,09/28/15,2015,September,35,F,United States,California,Clothing,Jerseys,2,600,596,1200,1192
+1585,10/08/15,2015,October,35,F,United States,California,Accessories,Tires and Tubes,1,120,133,120,133
+1586,10/08/15,2015,October,35,F,United States,California,Accessories,Tires and Tubes,3,338.33,398.333333,1015,1195
+1587,10/08/15,2015,October,35,F,United States,California,Accessories,Tires and Tubes,3,3.67,4.333333,11,13
+1588,11/03/15,2015,November,35,F,United States,California,Accessories,Tires and Tubes,3,93.33,94.333333,280,283
+1589,11/03/15,2015,November,35,F,United States,California,Accessories,Tires and Tubes,1,55,56,55,56
+1590,11/07/15,2015,November,35,F,United States,California,Accessories,Tires and Tubes,2,2,2.5,4,5
+1591,11/07/15,2015,November,35,F,United States,California,Accessories,Tires and Tubes,2,391,425,782,850
+1592,11/07/15,2015,November,35,F,United States,California,Accessories,Tires and Tubes,2,18.5,19,37,38
+1593,11/15/15,2015,November,35,F,United States,California,Accessories,Tires and Tubes,1,95,102,95,102
+1594,11/15/15,2015,November,35,F,United States,California,Accessories,Tires and Tubes,2,175,176,350,352
+1595,11/16/15,2015,November,35,F,United States,California,Accessories,Tires and Tubes,1,560,610,560,610
+1596,11/28/15,2015,November,35,F,United States,California,Clothing,Caps,3,90,96.333333,270,289
+1597,12/20/15,2015,December,35,F,United States,California,Accessories,Tires and Tubes,2,250,265,500,530
+1598,12/20/15,2015,December,35,F,United States,California,Accessories,Tires and Tubes,1,41,45,41,45
+1599,12/21/15,2015,December,35,F,United States,California,Accessories,Tires and Tubes,1,280,316,280,316
+1600,04/15/16,2016,April,36,M,United States,Oregon,Clothing,Vests,2,921,1225,1842,2450
+1601,06/30/16,2016,June,36,M,United States,Oregon,Clothing,Vests,3,317.67,445,953,1335
+1602,04/13/16,2016,April,36,F,United States,Oregon,Accessories,Tires and Tubes,3,116.67,145,350,435
+1603,04/13/16,2016,April,36,F,United States,Oregon,Accessories,Tires and Tubes,1,5,6,5,6
+1604,06/02/16,2016,June,36,F,United States,Oregon,Clothing,Jerseys,1,350,382,350,382
+1605,07/26/16,2016,July,36,F,United States,Oregon,Clothing,Jerseys,1,800,942,800,942
+1606,08/12/15,2015,August,36,F,United States,Oregon,Accessories,Tires and Tubes,2,10,10.5,20,21
+1607,09/07/15,2015,September,36,F,United States,Oregon,Accessories,Tires and Tubes,3,93.33,102,280,306
+1608,09/07/15,2015,September,36,F,United States,Oregon,Accessories,Tires and Tubes,3,16,17.333333,48,52
+1609,09/22/15,2015,September,36,F,United States,Oregon,Clothing,Jerseys,2,270,252.5,540,505
+1610,09/22/15,2015,September,36,F,United States,Oregon,Clothing,Caps,1,81,76,81,76
+1611,10/07/15,2015,October,36,F,United States,Oregon,Accessories,Tires and Tubes,2,390,424.5,780,849
+1612,10/16/15,2015,October,36,F,United States,Oregon,Accessories,Tires and Tubes,2,30,30,60,60
+1613,10/16/15,2015,October,36,F,United States,Oregon,Accessories,Tires and Tubes,3,0.67,1,2,3
+1614,10/28/15,2015,October,36,F,United States,Oregon,Clothing,Jerseys,2,243,262,486,524
+1615,12/22/15,2015,December,36,F,United States,Oregon,Accessories,Tires and Tubes,2,163,171.5,326,343
+1616,01/31/16,2016,January,37,M,United States,Washington,Clothing,Gloves,3,179.67,238.333333,539,715
+1617,03/27/16,2016,March,37,M,United States,Washington,Clothing,Gloves,2,367.5,452.5,735,905
+1618,02/21/16,2016,February,30,M,United States,Washington,Clothing,Jerseys,2,50,67,100,134
+1619,07/19/16,2016,July,30,M,United States,Washington,Clothing,Jerseys,2,378,422,756,844
+1620,11/03/15,2015,November,30,M,United States,Washington,Clothing,Jerseys,2,135,139.5,270,279
+1621,05/01/16,2016,May,30,M,United States,Washington,Accessories,Fenders,2,329.5,409,659,818
+1622,06/09/16,2016,June,30,M,United States,Washington,Accessories,Fenders,3,36.67,48.666667,110,146
+1623,02/15/16,2016,February,37,F,United States,California,Clothing,Gloves,1,122,172,122,172
+1624,02/17/16,2016,February,37,F,United States,California,Clothing,Gloves,1,661,736,661,736
+1625,04/28/16,2016,April,37,F,United States,California,Clothing,Gloves,1,441,525,441,525
+1626,02/16/16,2016,February,38,M,United States,Ohio,Accessories,Helmets,1,1050,1351,1050,1351
+1627,02/16/16,2016,February,38,M,United States,Ohio,Clothing,Vests,1,1842,1950,1842,1950
+1628,12/11/15,2015,December,38,M,United States,Ohio,Accessories,Tires and Tubes,2,507.5,546.5,1015,1093
+1629,12/11/15,2015,December,38,M,United States,Ohio,Accessories,Tires and Tubes,3,21.67,22.333333,65,67
+1630,12/11/15,2015,December,38,M,United States,Ohio,Accessories,Helmets,1,875,967,875,967
+1631,03/04/16,2016,March,38,F,United States,California,Accessories,Bike Racks,2,240,290.5,480,581
+1632,05/30/16,2016,May,38,F,United States,California,Accessories,Bike Racks,1,240,274,240,274
+1633,06/28/16,2016,June,38,F,United States,California,Accessories,Bike Racks,3,400,505,1200,1515
+1634,07/10/16,2016,July,38,F,United States,California,Accessories,Bike Racks,1,1560,2073,1560,2073
+1635,01/30/16,2016,January,38,F,United States,Washington,Accessories,Tires and Tubes,1,870,1090,870,1090
+1636,01/30/16,2016,January,38,F,United States,Washington,Accessories,Tires and Tubes,3,26.67,33,80,99
+1637,01/30/16,2016,January,38,F,United States,Washington,Accessories,Tires and Tubes,1,23,26,23,26
+1638,02/02/16,2016,February,38,F,United States,Washington,Accessories,Tires and Tubes,1,580,735,580,735
+1639,02/02/16,2016,February,38,F,United States,Washington,Accessories,Tires and Tubes,1,110,137,110,137
+1640,02/02/16,2016,February,38,F,United States,Washington,Accessories,Tires and Tubes,1,48,59,48,59
+1641,03/05/16,2016,March,38,F,United States,Washington,Accessories,Helmets,3,175,224.666667,525,674
+1642,04/06/16,2016,April,38,F,United States,Washington,Accessories,Tires and Tubes,2,1,1.5,2,3
+1643,04/08/16,2016,April,38,F,United States,Washington,Accessories,Tires and Tubes,2,179.5,232,359,464
+1644,04/08/16,2016,April,38,F,United States,Washington,Accessories,Tires and Tubes,2,31,38,62,76
+1645,04/19/16,2016,April,38,F,United States,Washington,Accessories,Helmets,3,23.33,26.333333,70,79
+1646,04/23/16,2016,April,38,F,United States,Washington,Accessories,Tires and Tubes,2,118,142,236,284
+1647,05/12/16,2016,May,38,F,United States,Washington,Accessories,Tires and Tubes,2,58,75,116,150
+1648,05/12/16,2016,May,38,F,United States,Washington,Accessories,Tires and Tubes,1,25,28,25,28
+1649,05/13/16,2016,May,38,F,United States,Washington,Accessories,Tires and Tubes,3,207.67,270.666667,623,812
+1650,05/17/16,2016,May,38,F,United States,Washington,Accessories,Helmets,2,105,134,210,268
+1651,05/27/16,2016,May,38,F,United States,Washington,Accessories,Tires and Tubes,1,85,105,85,105
+1652,06/04/16,2016,June,38,F,United States,Washington,Accessories,Helmets,1,105,143,105,143
+1653,06/14/16,2016,June,38,F,United States,Washington,Accessories,Helmets,2,192.5,262.5,385,525
+1654,06/24/16,2016,June,38,F,United States,Washington,Accessories,Helmets,1,315,405,315,405
+1655,07/01/16,2016,July,38,F,United States,Washington,Accessories,Helmets,2,105,134.5,210,269
+1656,08/03/15,2015,August,38,F,United States,Washington,Accessories,Tires and Tubes,2,100,115,200,230
+1657,08/21/15,2015,August,38,F,United States,Washington,Accessories,Tires and Tubes,1,175,182,175,182
+1658,08/21/15,2015,August,38,F,United States,Washington,Accessories,Tires and Tubes,3,30,33,90,99
+1659,08/21/15,2015,August,38,F,United States,Washington,Accessories,Helmets,2,157.5,183,315,366
+1660,08/25/15,2015,August,38,F,United States,Washington,Accessories,Tires and Tubes,2,507.5,583.5,1015,1167
+1661,08/25/15,2015,August,38,F,United States,Washington,Accessories,Tires and Tubes,1,90,89,90,89
+1662,08/25/15,2015,August,38,F,United States,Washington,Accessories,Tires and Tubes,3,17.67,19,53,57
+1663,08/28/15,2015,August,38,F,United States,Washington,Accessories,Tires and Tubes,1,245,247,245,247
+1664,08/28/15,2015,August,38,F,United States,Washington,Accessories,Tires and Tubes,3,13.33,13.666667,40,41
+1665,08/28/15,2015,August,38,F,United States,Washington,Accessories,Helmets,3,315,351,945,1053
+1666,08/29/15,2015,August,38,F,United States,Washington,Accessories,Tires and Tubes,2,225,243,450,486
+1667,09/03/15,2015,September,38,F,United States,Washington,Accessories,Tires and Tubes,1,425,471,425,471
+1668,10/22/15,2015,October,38,F,United States,Washington,Accessories,Helmets,1,35,41,35,41
+1669,11/03/15,2015,November,38,F,United States,Washington,Accessories,Tires and Tubes,1,105,116,105,116
+1670,11/03/15,2015,November,38,F,United States,Washington,Accessories,Helmets,1,455,505,455,505
+1671,11/12/15,2015,November,38,F,United States,Washington,Accessories,Tires and Tubes,1,100,105,100,105
+1672,12/03/15,2015,December,38,F,United States,Washington,Accessories,Tires and Tubes,2,2.5,2.5,5,5
+1673,12/03/15,2015,December,38,F,United States,Washington,Accessories,Tires and Tubes,1,240,265,240,265
+1674,12/03/15,2015,December,38,F,United States,Washington,Accessories,Tires and Tubes,2,32,37,64,74
+1675,05/20/16,2016,May,38,M,United States,California,Accessories,Fenders,2,198,278,396,556
+1676,06/04/16,2016,June,38,M,United States,California,Accessories,Fenders,1,242,301,242,301
+1677,06/06/16,2016,June,38,M,United States,California,Accessories,Fenders,3,14.67,18,44,54
+1678,06/19/16,2016,June,38,M,United States,California,Accessories,Fenders,1,22,25,22,25
+1679,07/15/16,2016,July,38,M,United States,California,Accessories,Fenders,1,528,677,528,677
+1680,07/22/16,2016,July,38,M,United States,California,Accessories,Fenders,2,209,249,418,498
+1681,04/06/16,2016,April,38,F,United States,California,Accessories,Bike Stands,2,477,604.5,954,1209
+1682,04/26/16,2016,April,38,F,United States,California,Accessories,Fenders,1,198,265,198,265
+1683,05/30/16,2016,May,38,F,United States,California,Bikes,Mountain Bikes,2,1147.5,1237,2295,2474
+1684,02/09/15,2015,February,38,F,United States,California,Bikes,Mountain Bikes,1,2071,2188,2071,2188
+1685,06/13/15,2015,June,38,F,United States,California,Bikes,Mountain Bikes,3,690.33,681,2071,2043
+1686,06/30/15,2015,June,38,F,United States,California,Bikes,Mountain Bikes,1,2071,1959,2071,1959
+1687,08/24/15,2015,August,38,F,United States,California,Bikes,Mountain Bikes,1,2320,2290,2320,2290
+1688,08/24/15,2015,August,38,F,United States,California,Accessories,Bike Stands,2,159,187.5,318,375
+1689,09/02/15,2015,September,38,F,United States,California,Bikes,Mountain Bikes,3,765,800.666667,2295,2402
+1690,12/20/15,2015,December,38,F,United States,California,Bikes,Mountain Bikes,2,1147.5,1153.5,2295,2307
+1691,01/25/16,2016,January,24,M,United States,Washington,Clothing,Gloves,1,196,275,196,275
+1692,11/16/15,2015,November,24,M,United States,Washington,Bikes,Mountain Bikes,1,2320,2152,2320,2152
+1693,01/09/15,2015,January,24,F,United States,California,Bikes,Mountain Bikes,3,690.33,680.666667,2071,2042
+1694,02/17/15,2015,February,24,F,United States,California,Bikes,Mountain Bikes,2,1024.5,962.5,2049,1925
+1695,02/19/15,2015,February,24,F,United States,California,Bikes,Mountain Bikes,2,1024.5,887,2049,1774
+1696,02/21/15,2015,February,24,F,United States,California,Bikes,Mountain Bikes,2,1024.5,915,2049,1830
+1697,08/30/15,2015,August,24,F,United States,California,Bikes,Mountain Bikes,2,384.5,365,769,730
+1698,10/09/15,2015,October,24,F,United States,California,Bikes,Mountain Bikes,3,765,767,2295,2301
+1699,10/28/15,2015,October,24,F,United States,California,Bikes,Mountain Bikes,3,765,818,2295,2454
+1700,12/05/15,2015,December,24,F,United States,California,Bikes,Mountain Bikes,2,1147.5,1199.5,2295,2399
+1701,12/07/15,2015,December,24,F,United States,California,Bikes,Mountain Bikes,1,769,764,769,764
+1702,12/15/15,2015,December,24,F,United States,California,Bikes,Mountain Bikes,1,2320,2027,2320,2027
+1703,01/28/16,2016,January,24,M,United States,California,Accessories,Fenders,2,55,67,110,134
+1704,03/09/16,2016,March,24,M,United States,California,Accessories,Fenders,3,88,118.666667,264,356
+1705,03/14/16,2016,March,24,M,United States,California,Accessories,Fenders,1,308,345,308,345
+1706,05/30/16,2016,May,24,M,United States,California,Accessories,Fenders,2,198,238.5,396,477
+1707,06/09/16,2016,June,24,M,United States,California,Accessories,Fenders,3,44,59,132,177
+1708,12/05/15,2015,December,24,M,United States,California,Accessories,Bike Stands,3,424,451,1272,1353
+1709,03/07/15,2015,March,26,F,United States,Oregon,Bikes,Road Bikes,2,500,461,1000,922
+1710,09/24/15,2015,September,26,F,United States,Oregon,Bikes,Road Bikes,1,1120,928,1120,928
+1711,12/15/15,2015,December,26,F,United States,Oregon,Bikes,Road Bikes,1,1701,1630,1701,1630
+1712,11/10/15,2015,November,25,F,United States,California,Accessories,Bike Stands,1,636,716,636,716
+1713,02/06/16,2016,February,27,M,United States,California,Clothing,Jerseys,2,425,552,850,1104
+1714,02/06/16,2016,February,27,M,United States,California,Clothing,Jerseys,3,198,250,594,750
+1715,02/26/16,2016,February,27,M,United States,California,Accessories,Fenders,3,154,216,462,648
+1716,02/26/16,2016,February,27,M,United States,California,Clothing,Jerseys,1,324,412,324,412
+1717,03/31/16,2016,March,27,M,United States,California,Accessories,Helmets,1,665,821,665,821
+1718,04/08/16,2016,April,27,M,United States,California,Clothing,Jerseys,2,108,128.5,216,257
+1719,04/11/16,2016,April,27,M,United States,California,Accessories,Helmets,2,35,37.5,70,75
+1720,04/16/16,2016,April,27,M,United States,California,Accessories,Helmets,2,210,256.5,420,513
+1721,04/17/16,2016,April,27,M,United States,California,Accessories,Helmets,2,297.5,394.5,595,789
+1722,04/30/16,2016,April,27,M,United States,California,Accessories,Fenders,2,176,212,352,424
+1723,05/07/16,2016,May,27,M,United States,California,Accessories,Fenders,2,242,298.5,484,597
+1724,05/21/16,2016,May,27,M,United States,California,Accessories,Fenders,2,187,217.5,374,435
+1725,05/22/16,2016,May,27,M,United States,California,Accessories,Fenders,2,55,62.5,110,125
+1726,06/08/16,2016,June,27,M,United States,California,Accessories,Helmets,1,385,498,385,498
+1727,06/17/16,2016,June,27,M,United States,California,Accessories,Helmets,3,105,113,315,339
+1728,06/29/16,2016,June,27,M,United States,California,Accessories,Helmets,2,437.5,529.5,875,1059
+1729,07/14/15,2015,July,27,M,United States,California,Accessories,Helmets,3,128.33,153,385,459
+1730,08/03/15,2015,August,27,M,United States,California,Clothing,Jerseys,3,33.33,39.333333,100,118
+1731,08/11/15,2015,August,27,M,United States,California,Accessories,Helmets,2,455,554,910,1108
+1732,08/13/15,2015,August,27,M,United States,California,Accessories,Helmets,1,105,109,105,109
+1733,08/24/15,2015,August,27,M,United States,California,Accessories,Helmets,2,367.5,390,735,780
+1734,08/25/15,2015,August,27,M,United States,California,Accessories,Helmets,2,525,562,1050,1124
+1735,08/25/15,2015,August,27,M,United States,California,Clothing,Jerseys,2,550,559,1100,1118
+1736,09/12/15,2015,September,27,M,United States,California,Clothing,Jerseys,2,600,599,1200,1198
+1737,10/05/15,2015,October,27,M,United States,California,Accessories,Helmets,3,35,38,105,114
+1738,10/21/15,2015,October,27,M,United States,California,Accessories,Helmets,1,105,108,105,108
+1739,10/22/15,2015,October,27,M,United States,California,Accessories,Helmets,1,245,252,245,252
+1740,10/22/15,2015,October,27,M,United States,California,Clothing,Jerseys,2,567,573,1134,1146
+1741,11/07/15,2015,November,27,M,United States,California,Clothing,Jerseys,1,50,53,50,53
+1742,11/23/15,2015,November,27,M,United States,California,Accessories,Helmets,3,280,291.666667,840,875
+1743,12/13/15,2015,December,27,M,United States,California,Accessories,Helmets,3,186.67,204.666667,560,614
+1744,12/24/15,2015,December,27,M,United States,California,Clothing,Jerseys,3,324,354.666667,972,1064
+1745,01/04/16,2016,January,28,M,United States,California,Accessories,Tires and Tubes,1,120,168,120,168
+1746,01/04/16,2016,January,28,M,United States,California,Accessories,Tires and Tubes,3,7,9,21,27
+1747,01/12/16,2016,January,28,M,United States,California,Accessories,Fenders,1,571,816,571,816
+1748,01/12/16,2016,January,28,M,United States,California,Accessories,Helmets,2,192.5,240.5,385,481
+1749,01/12/16,2016,January,28,M,United States,California,Accessories,Fenders,1,308,369,308,369
+1750,01/12/16,2016,January,28,M,United States,California,Accessories,Helmets,1,35,44,35,44
+1751,01/13/16,2016,January,28,M,United States,California,Accessories,Fenders,3,51.33,60,154,180
+1752,01/16/16,2016,January,28,M,United States,California,Accessories,Helmets,3,81.67,99.333333,245,298
+1753,01/24/16,2016,January,28,M,United States,California,Accessories,Helmets,2,280,354.5,560,709
+1754,01/24/16,2016,January,28,M,United States,California,Accessories,Tires and Tubes,3,50,68.333333,150,205
+1755,01/24/16,2016,January,28,M,United States,California,Accessories,Tires and Tubes,1,15,17,15,17
+1756,01/25/16,2016,January,28,M,United States,California,Accessories,Tires and Tubes,3,20,25.666667,60,77
+1757,01/25/16,2016,January,28,M,United States,California,Accessories,Tires and Tubes,2,17.5,21,35,42
+1758,02/05/16,2016,February,28,M,United States,California,Accessories,Tires and Tubes,3,251.33,302,754,906
+1759,02/05/16,2016,February,28,M,United States,California,Accessories,Tires and Tubes,3,15,19,45,57
+1760,02/27/16,2016,February,28,M,United States,California,Accessories,Tires and Tubes,2,87.5,117.5,175,235
+1761,03/04/16,2016,March,28,M,United States,California,Accessories,Tires and Tubes,3,14.67,18.666667,44,56
+1762,03/05/16,2016,March,28,M,United States,California,Accessories,Tires and Tubes,1,490,587,490,587
+1763,03/11/16,2016,March,28,M,United States,California,Accessories,Fenders,1,528,719,528,719
+1764,03/15/16,2016,March,28,M,United States,California,Accessories,Fenders,3,219.67,317,659,951
+1765,03/15/16,2016,March,28,M,United States,California,Accessories,Helmets,1,315,358,315,358
+1766,04/08/16,2016,April,28,M,United States,California,Accessories,Helmets,1,350,416,350,416
+1767,04/18/16,2016,April,28,M,United States,California,Accessories,Helmets,2,17.5,24,35,48
+1768,04/28/16,2016,April,28,M,United States,California,Accessories,Tires and Tubes,1,348,378,348,378
+1769,04/28/16,2016,April,28,M,United States,California,Accessories,Tires and Tubes,2,40,51.5,80,103
+1770,05/09/16,2016,May,28,M,United States,California,Accessories,Helmets,1,980,1128,980,1128
+1771,05/23/16,2016,May,28,M,United States,California,Accessories,Tires and Tubes,3,50,59.333333,150,178
+1772,05/26/16,2016,May,28,M,United States,California,Accessories,Tires and Tubes,3,245,312,735,936
+1773,05/26/16,2016,May,28,M,United States,California,Accessories,Tires and Tubes,1,11,12,11,12
+1774,05/27/16,2016,May,28,M,United States,California,Accessories,Helmets,1,700,807,700,807
+1775,06/16/16,2016,June,28,M,United States,California,Accessories,Tires and Tubes,2,20.5,28,41,56
+1776,06/16/16,2016,June,28,M,United States,California,Accessories,Tires and Tubes,2,20,22.5,40,45
+1777,06/26/16,2016,June,28,M,United States,California,Accessories,Tires and Tubes,2,53.5,69.5,107,139
+1778,06/26/16,2016,June,28,M,United States,California,Accessories,Tires and Tubes,3,23,29.333333,69,88
+1779,06/26/16,2016,June,28,M,United States,California,Accessories,Tires and Tubes,1,56,68,56,68
+1780,06/28/16,2016,June,28,M,United States,California,Accessories,Tires and Tubes,1,21,25,21,25
+1781,07/09/16,2016,July,28,M,United States,California,Accessories,Fenders,1,44,52,44,52
+1782,07/21/16,2016,July,28,M,United States,California,Accessories,Tires and Tubes,2,456.5,522,913,1044
+1783,07/21/16,2016,July,28,M,United States,California,Accessories,Tires and Tubes,1,72,96,72,96
+1784,07/16/15,2015,July,28,M,United States,California,Accessories,Helmets,1,630,712,630,712
+1785,08/08/15,2015,August,28,M,United States,California,Accessories,Tires and Tubes,2,245,260.5,490,521
+1786,08/14/15,2015,August,28,M,United States,California,Accessories,Helmets,2,175,204.5,350,409
+1787,08/14/15,2015,August,28,M,United States,California,Accessories,Helmets,3,315,345.666667,945,1037
+1788,08/19/15,2015,August,28,M,United States,California,Accessories,Tires and Tubes,3,163.33,187.666667,490,563
+1789,08/19/15,2015,August,28,M,United States,California,Accessories,Tires and Tubes,3,10,11,30,33
+1790,08/19/15,2015,August,28,M,United States,California,Accessories,Helmets,1,875,874,875,874
+1791,09/08/15,2015,September,28,M,United States,California,Accessories,Tires and Tubes,2,65,73,130,146
+1792,09/08/15,2015,September,28,M,United States,California,Accessories,Helmets,1,210,231,210,231
+1793,10/12/15,2015,October,28,M,United States,California,Accessories,Tires and Tubes,1,105,132,105,132
+1794,10/12/15,2015,October,28,M,United States,California,Accessories,Tires and Tubes,2,32.5,33,65,66
+1795,10/12/15,2015,October,28,M,United States,California,Accessories,Helmets,2,332.5,383.5,665,767
+1796,10/20/15,2015,October,28,M,United States,California,Accessories,Helmets,3,140,152.333333,420,457
+1797,10/25/15,2015,October,28,M,United States,California,Accessories,Tires and Tubes,2,87.5,103,175,206
+1798,10/25/15,2015,October,28,M,United States,California,Accessories,Tires and Tubes,2,5.5,6,11,12
+1799,10/28/15,2015,October,28,M,United States,California,Accessories,Tires and Tubes,2,455,539.5,910,1079
+1800,10/28/15,2015,October,28,M,United States,California,Accessories,Tires and Tubes,1,145,147,145,147
+1801,11/23/15,2015,November,28,M,United States,California,Accessories,Helmets,2,315,349,630,698
+1802,11/24/15,2015,November,28,M,United States,California,Accessories,Tires and Tubes,1,600,618,600,618
+1803,11/24/15,2015,November,28,M,United States,California,Accessories,Tires and Tubes,3,21.33,23,64,69
+1804,12/03/15,2015,December,28,M,United States,California,Accessories,Helmets,1,840,888,840,888
+1805,12/31/15,2015,December,28,M,United States,California,Accessories,Tires and Tubes,3,81.67,91.333333,245,274
+1806,12/31/15,2015,December,28,M,United States,California,Accessories,Tires and Tubes,1,90,89,90,89
+1807,12/31/15,2015,December,28,M,United States,California,Accessories,Helmets,2,70,75.5,140,151
+1808,12/31/15,2015,December,28,M,United States,California,Accessories,Tires and Tubes,2,455,497,910,994
+1809,12/31/15,2015,December,28,M,United States,California,Accessories,Tires and Tubes,3,21.67,23.666667,65,71
+1810,12/31/15,2015,December,28,M,United States,California,Accessories,Helmets,2,385,453,770,906
+1811,01/24/16,2016,January,28,M,United States,California,Clothing,Gloves,3,81.67,89.666667,245,269
+1812,12/13/15,2015,December,28,M,United States,Washington,Accessories,Hydration Packs,3,366.67,429.666667,1100,1289
+1813,03/21/16,2016,March,28,M,United States,Washington,Bikes,Mountain Bikes,1,540,527,540,527
+1814,05/20/15,2015,May,28,M,United States,Washington,Bikes,Mountain Bikes,2,1035.5,1024.5,2071,2049
+1815,12/11/15,2015,December,28,M,United States,Washington,Bikes,Mountain Bikes,2,1160,1106.5,2320,2213
+1816,12/11/15,2015,December,28,M,United States,Washington,Accessories,Cleaners,2,67.5,76,135,152
+1817,12/11/15,2015,December,28,M,United States,Washington,Bikes,Mountain Bikes,3,765,786,2295,2358
+1818,12/13/15,2015,December,28,M,United States,Washington,Bikes,Mountain Bikes,2,1160,1103,2320,2206
+1819,01/07/16,2016,January,26,M,United States,California,Clothing,Jerseys,1,500,679,500,679
+1820,03/15/16,2016,March,26,M,United States,California,Clothing,Jerseys,3,54,63.666667,162,191
+1821,05/08/16,2016,May,26,M,United States,California,Clothing,Jerseys,3,126,156,378,468
+1822,06/18/16,2016,June,26,M,United States,California,Clothing,Jerseys,2,325,422.5,650,845
+1823,10/06/15,2015,October,26,M,United States,California,Clothing,Jerseys,2,575,549.5,1150,1099
+1824,12/19/15,2015,December,26,M,United States,California,Clothing,Jerseys,3,133.33,135,400,405
+1825,08/11/15,2015,August,30,M,United States,California,Clothing,Caps,2,94.5,106.5,189,213
+1826,09/10/15,2015,September,30,M,United States,California,Clothing,Caps,1,252,304,252,304
+1827,11/05/15,2015,November,30,M,United States,California,Clothing,Caps,1,198,187,198,187
+1828,12/12/15,2015,December,30,M,United States,California,Clothing,Caps,3,78,89.333333,234,268
+1829,12/30/15,2015,December,30,M,United States,California,Clothing,Caps,3,63,75.333333,189,226
+1830,12/30/15,2015,December,30,F,United States,Oregon,Bikes,Mountain Bikes,3,773.33,678.666667,2320,2036
+1831,12/30/15,2015,December,30,F,United States,Oregon,Accessories,Hydration Packs,1,1595,1772,1595,1772
+1832,02/15/16,2016,February,28,F,United States,Washington,Accessories,Fenders,1,220,273,220,273
+1833,03/04/16,2016,March,28,F,United States,Washington,Accessories,Fenders,3,66,81.333333,198,244
+1834,03/04/16,2016,March,28,F,United States,Washington,Accessories,Bottles and Cages,3,13.33,16,40,48
+1835,03/04/16,2016,March,28,F,United States,Washington,Accessories,Bottles and Cages,2,5,6.5,10,13
+1836,03/14/16,2016,March,28,F,United States,Washington,Accessories,Bottles and Cages,2,62.5,87,125,174
+1837,03/14/16,2016,March,28,F,United States,Washington,Accessories,Bottles and Cages,3,26.67,33.333333,80,100
+1838,08/18/15,2015,August,28,F,United States,Washington,Accessories,Bottles and Cages,3,87,94.666667,261,284
+1839,08/18/15,2015,August,28,F,United States,Washington,Accessories,Bottles and Cages,1,55,62,55,62
+1840,11/11/15,2015,November,28,F,United States,Washington,Accessories,Bottles and Cages,3,33.33,35.666667,100,107
+1841,11/11/15,2015,November,28,F,United States,Washington,Accessories,Bottles and Cages,2,75,81,150,162
+1842,12/18/15,2015,December,28,F,United States,Washington,Accessories,Bottles and Cages,3,86.67,92.333333,260,277
+1843,12/18/15,2015,December,28,F,United States,Washington,Accessories,Bottles and Cages,2,25,29.5,50,59
+1844,12/23/15,2015,December,28,F,United States,Washington,Accessories,Bottles and Cages,1,210,234,210,234
+1845,12/23/15,2015,December,28,F,United States,Washington,Accessories,Bottles and Cages,1,90,96,90,96
+1846,01/20/16,2016,January,28,F,United States,California,Accessories,Fenders,1,110,140,110,140
+1847,01/03/16,2016,January,32,F,United States,Washington,Accessories,Tires and Tubes,1,5,6,5,6
+1848,01/03/16,2016,January,32,F,United States,Washington,Accessories,Helmets,2,157.5,195.5,315,391
+1849,01/10/16,2016,January,32,F,United States,Washington,Accessories,Helmets,1,245,332,245,332
+1850,01/27/16,2016,January,32,F,United States,Washington,Accessories,Helmets,1,385,498,385,498
+1851,02/05/16,2016,February,32,F,United States,Washington,Clothing,Jerseys,1,1404,1808,1404,1808
+1852,03/07/16,2016,March,32,F,United States,Washington,Clothing,Jerseys,2,175,184,350,368
+1853,03/08/16,2016,March,32,F,United States,Washington,Clothing,Jerseys,1,864,1078,864,1078
+1854,03/12/16,2016,March,32,F,United States,Washington,Clothing,Jerseys,2,25,35,50,70
+1855,03/22/16,2016,March,32,F,United States,Washington,Accessories,Helmets,1,140,171,140,171
+1856,03/27/16,2016,March,32,F,United States,Washington,Accessories,Tires and Tubes,3,13.33,18.333333,40,55
+1857,03/27/16,2016,March,32,F,United States,Washington,Accessories,Tires and Tubes,2,3.5,4,7,8
+1858,03/31/16,2016,March,32,F,United States,Washington,Accessories,Tires and Tubes,3,268.33,360,805,1080
+1859,03/31/16,2016,March,32,F,United States,Washington,Accessories,Tires and Tubes,3,23.33,31.333333,70,94
+1860,03/31/16,2016,March,32,F,United States,Washington,Accessories,Tires and Tubes,1,9,11,9,11
+1861,04/05/16,2016,April,32,F,United States,Washington,Clothing,Jerseys,2,650,832,1300,1664
+1862,04/13/16,2016,April,32,F,United States,Washington,Accessories,Tires and Tubes,1,120,151,120,151
+1863,04/13/16,2016,April,32,F,United States,Washington,Accessories,Tires and Tubes,2,16,18.5,32,37
+1864,04/13/16,2016,April,32,F,United States,Washington,Accessories,Tires and Tubes,3,125,135.666667,375,407
+1865,04/13/16,2016,April,32,F,United States,Washington,Accessories,Tires and Tubes,2,3.5,4.5,7,9
+1866,04/18/16,2016,April,32,F,United States,Washington,Accessories,Tires and Tubes,3,65.33,82,196,246
+1867,04/18/16,2016,April,32,F,United States,Washington,Accessories,Tires and Tubes,2,4,5.5,8,11
+1868,04/18/16,2016,April,32,F,United States,Washington,Clothing,Jerseys,2,650,769.5,1300,1539
+1869,04/30/16,2016,April,32,F,United States,Washington,Accessories,Tires and Tubes,2,55,73,110,146
+1870,04/30/16,2016,April,32,F,United States,Washington,Accessories,Tires and Tubes,2,122.5,161,245,322
+1871,05/18/16,2016,May,32,F,United States,Washington,Clothing,Jerseys,3,342,388,1026,1164
+1872,05/27/16,2016,May,32,F,United States,Washington,Accessories,Helmets,1,665,868,665,868
+1873,06/06/16,2016,June,32,F,United States,Washington,Accessories,Tires and Tubes,2,62.5,70,125,140
+1874,06/06/16,2016,June,32,F,United States,Washington,Accessories,Tires and Tubes,2,14.5,17.5,29,35
+1875,06/07/16,2016,June,32,F,United States,Washington,Accessories,Tires and Tubes,2,40,49,80,98
+1876,06/07/16,2016,June,32,F,United States,Washington,Accessories,Tires and Tubes,1,225,298,225,298
+1877,06/07/16,2016,June,32,F,United States,Washington,Accessories,Tires and Tubes,2,11.5,15,23,30
+1878,06/24/16,2016,June,32,F,United States,Washington,Clothing,Jerseys,3,540,686,1620,2058
+1879,07/28/16,2016,July,32,F,United States,Washington,Accessories,Tires and Tubes,2,270,323.5,540,647
+1880,08/18/15,2015,August,32,F,United States,Washington,Accessories,Helmets,2,192.5,202,385,404
+1881,08/18/15,2015,August,32,F,United States,Washington,Clothing,Jerseys,1,1150,1289,1150,1289
+1882,08/22/15,2015,August,32,F,United States,Washington,Accessories,Tires and Tubes,3,16.67,17.333333,50,52
+1883,08/22/15,2015,August,32,F,United States,Washington,Accessories,Tires and Tubes,2,420,478,840,956
+1884,08/22/15,2015,August,32,F,United States,Washington,Accessories,Helmets,2,420,461.5,840,923
+1885,08/23/15,2015,August,32,F,United States,Washington,Accessories,Tires and Tubes,3,97.67,99.666667,293,299
+1886,08/23/15,2015,August,32,F,United States,Washington,Accessories,Tires and Tubes,3,37.33,40.666667,112,122
+1887,09/23/15,2015,September,32,F,United States,Washington,Accessories,Tires and Tubes,2,367.5,375,735,750
+1888,09/23/15,2015,September,32,F,United States,Washington,Accessories,Tires and Tubes,3,11.67,12.666667,35,38
+1889,09/23/15,2015,September,32,F,United States,Washington,Accessories,Tires and Tubes,3,20,22.333333,60,67
+1890,10/15/15,2015,October,32,F,United States,Washington,Accessories,Tires and Tubes,2,114,127,228,254
+1891,10/15/15,2015,October,32,F,United States,Washington,Accessories,Tires and Tubes,3,1.33,1.333333,4,4
+1892,10/15/15,2015,October,32,F,United States,Washington,Accessories,Helmets,2,437.5,488.5,875,977
+1893,11/20/15,2015,November,32,F,United States,Washington,Accessories,Tires and Tubes,2,187.5,190.5,375,381
+1894,11/22/15,2015,November,32,F,United States,Washington,Accessories,Tires and Tubes,2,300,349,600,698
+1895,11/22/15,2015,November,32,F,United States,Washington,Accessories,Tires and Tubes,2,35,36.5,70,73
+1896,11/22/15,2015,November,32,F,United States,Washington,Accessories,Tires and Tubes,2,13.5,14,27,28
+1897,12/08/15,2015,December,32,F,United States,Washington,Accessories,Tires and Tubes,3,50,54.333333,150,163
+1898,12/08/15,2015,December,32,F,United States,Washington,Accessories,Tires and Tubes,1,5,5,5,5
+1899,12/08/15,2015,December,32,F,United States,Washington,Accessories,Helmets,2,122.5,133,245,266
+1900,12/15/15,2015,December,32,F,United States,Washington,Accessories,Helmets,3,58.33,65,175,195
+1901,12/27/15,2015,December,32,F,United States,Washington,Accessories,Tires and Tubes,1,540,561,540,561
+1902,12/27/15,2015,December,32,F,United States,Washington,Accessories,Tires and Tubes,1,7,7,7,7
+1903,12/28/15,2015,December,32,F,United States,Washington,Clothing,Jerseys,1,1250,1462,1250,1462
+1904,01/05/16,2016,January,32,M,United States,Oregon,Accessories,Tires and Tubes,3,193.33,271.333333,580,814
+1905,01/05/16,2016,January,32,M,United States,Oregon,Accessories,Tires and Tubes,1,69,92,69,92
+1906,02/18/16,2016,February,32,M,United States,Oregon,Accessories,Tires and Tubes,2,37.5,48.5,75,97
+1907,08/31/15,2015,August,32,M,United States,Oregon,Accessories,Tires and Tubes,1,150,156,150,156
+1908,08/31/15,2015,August,32,M,United States,Oregon,Accessories,Tires and Tubes,3,0.67,0.666667,2,2
+1909,09/12/15,2015,September,32,M,United States,Oregon,Accessories,Tires and Tubes,3,116.67,142.333333,350,427
+1910,09/12/15,2015,September,32,M,United States,Oregon,Accessories,Tires and Tubes,3,6.67,7.333333,20,22
+1911,09/12/15,2015,September,32,M,United States,Oregon,Accessories,Cleaners,2,119.5,134.5,239,269
+1912,12/02/15,2015,December,32,M,United States,Oregon,Accessories,Tires and Tubes,1,95,99,95,99
+1913,12/02/15,2015,December,32,M,United States,Oregon,Accessories,Tires and Tubes,2,315,353,630,706
+1914,12/02/15,2015,December,32,M,United States,Oregon,Accessories,Tires and Tubes,3,22,25.333333,66,76
+1915,12/02/15,2015,December,32,M,United States,Oregon,Accessories,Cleaners,1,151,169,151,169
+1916,12/08/15,2015,December,32,M,United States,Oregon,Accessories,Tires and Tubes,1,900,930,900,930
+1917,12/29/15,2015,December,32,M,United States,Oregon,Accessories,Tires and Tubes,1,72,88,72,88
+1918,12/29/15,2015,December,32,M,United States,Oregon,Accessories,Tires and Tubes,1,848,1014,848,1014
+1919,12/29/15,2015,December,32,M,United States,Oregon,Accessories,Tires and Tubes,3,7.67,9,23,27
+1920,01/20/16,2016,January,32,M,United States,California,Bikes,Mountain Bikes,3,765,900.333333,2295,2701
+1921,03/23/16,2016,March,32,M,United States,California,Bikes,Mountain Bikes,3,180,190,540,570
+1922,05/24/16,2016,May,32,M,United States,California,Bikes,Mountain Bikes,1,769,847,769,847
+1923,05/27/16,2016,May,32,M,United States,California,Bikes,Mountain Bikes,3,773.33,781,2320,2343
+1924,06/09/16,2016,June,32,M,United States,California,Bikes,Mountain Bikes,2,1160,1184.5,2320,2369
+1925,08/17/15,2015,August,32,M,United States,California,Bikes,Mountain Bikes,1,2295,2094,2295,2094
+1926,11/06/15,2015,November,32,M,United States,California,Bikes,Mountain Bikes,3,773.33,655.333333,2320,1966
+1927,11/22/15,2015,November,32,M,United States,California,Bikes,Mountain Bikes,3,188.33,188.666667,565,566
+1928,12/14/15,2015,December,32,M,United States,California,Bikes,Mountain Bikes,3,773.33,727.666667,2320,2183
+1929,01/11/16,2016,January,33,F,United States,California,Clothing,Jerseys,3,100,110,300,330
+1930,02/08/16,2016,February,33,F,United States,California,Clothing,Jerseys,3,270,336,810,1008
+1931,04/07/16,2016,April,33,F,United States,California,Clothing,Jerseys,3,433.33,518.666667,1300,1556
+1932,05/30/16,2016,May,33,F,United States,California,Clothing,Jerseys,1,750,850,750,850
+1933,06/15/16,2016,June,33,F,United States,California,Clothing,Jerseys,1,1200,1553,1200,1553
+1934,10/28/15,2015,October,33,F,United States,California,Clothing,Jerseys,3,400,456,1200,1368
+1935,11/20/15,2015,November,33,F,United States,California,Clothing,Jerseys,2,135,133.5,270,267
+1936,11/26/15,2015,November,33,F,United States,California,Clothing,Jerseys,2,405,430,810,860
+1937,11/29/15,2015,November,33,F,United States,California,Clothing,Jerseys,3,90,99,270,297
+1938,12/05/15,2015,December,33,F,United States,California,Clothing,Jerseys,1,600,645,600,645
+1939,07/14/16,2016,July,33,F,United States,California,Accessories,Bike Stands,3,159,188.666667,477,566
+1940,02/12/16,2016,February,34,M,United States,Oregon,Accessories,Tires and Tubes,1,300,370,300,370
+1941,02/12/16,2016,February,34,M,United States,Oregon,Accessories,Tires and Tubes,1,70,81,70,81
+1942,03/30/16,2016,March,34,M,United States,Oregon,Accessories,Tires and Tubes,1,848,1088,848,1088
+1943,07/03/16,2016,July,34,M,United States,Oregon,Accessories,Tires and Tubes,2,315,384,630,768
+1944,07/03/16,2016,July,34,M,United States,Oregon,Accessories,Tires and Tubes,1,100,110,100,110
+1945,07/23/16,2016,July,34,M,United States,Oregon,Accessories,Tires and Tubes,2,42.5,58,85,116
+1946,07/23/16,2016,July,34,M,United States,Oregon,Accessories,Tires and Tubes,1,29,36,29,36
+1947,10/28/15,2015,October,34,M,United States,Oregon,Accessories,Tires and Tubes,2,12,14,24,28
+1948,10/28/15,2015,October,34,M,United States,Oregon,Accessories,Tires and Tubes,2,375,389,750,778
+1949,02/17/16,2016,February,36,F,United States,Washington,Accessories,Tires and Tubes,1,870,1243,870,1243
+1950,02/17/16,2016,February,36,F,United States,Washington,Accessories,Tires and Tubes,3,25,32,75,96
+1951,03/06/16,2016,March,36,F,United States,Washington,Accessories,Cleaners,3,53,64,159,192
+1952,03/07/16,2016,March,36,F,United States,Washington,Accessories,Tires and Tubes,3,93.33,104.666667,280,314
+1953,03/07/16,2016,March,36,F,United States,Washington,Accessories,Tires and Tubes,1,30,38,30,38
+1954,03/21/16,2016,March,36,F,United States,Washington,Accessories,Tires and Tubes,2,150.5,193.5,301,387
+1955,03/21/16,2016,March,36,F,United States,Washington,Accessories,Tires and Tubes,2,22,25,44,50
+1956,04/05/16,2016,April,36,F,United States,Washington,Accessories,Tires and Tubes,2,50,55.5,100,111
+1957,04/05/16,2016,April,36,F,United States,Washington,Accessories,Tires and Tubes,1,319,431,319,431
+1958,04/25/16,2016,April,36,F,United States,Washington,Accessories,Tires and Tubes,3,38.33,51,115,153
+1959,04/25/16,2016,April,36,F,United States,Washington,Accessories,Tires and Tubes,1,980,1199,980,1199
+1960,04/25/16,2016,April,36,F,United States,Washington,Accessories,Tires and Tubes,1,32,42,32,42
+1961,04/28/16,2016,April,36,F,United States,Washington,Accessories,Tires and Tubes,3,175,203.666667,525,611
+1962,04/28/16,2016,April,36,F,United States,Washington,Accessories,Tires and Tubes,3,23.33,24.666667,70,74
+1963,06/27/16,2016,June,36,F,United States,Washington,Accessories,Tires and Tubes,2,25,30.5,50,61
+1964,06/27/16,2016,June,36,F,United States,Washington,Accessories,Tires and Tubes,1,240,331,240,331
+1965,07/08/16,2016,July,36,F,United States,Washington,Accessories,Tires and Tubes,1,28,33,28,33
+1966,07/08/16,2016,July,36,F,United States,Washington,Accessories,Tires and Tubes,1,228,279,228,279
+1967,07/24/16,2016,July,36,F,United States,Washington,Accessories,Tires and Tubes,3,10,13.333333,30,40
+1968,07/24/16,2016,July,36,F,United States,Washington,Accessories,Tires and Tubes,1,64,76,64,76
+1969,07/31/16,2016,July,36,F,United States,Washington,Accessories,Tires and Tubes,1,25,30,25,30
+1970,07/31/16,2016,July,36,F,United States,Washington,Accessories,Tires and Tubes,2,240,265.5,480,531
+1971,07/31/16,2016,July,36,F,United States,Washington,Accessories,Tires and Tubes,2,4.5,5.5,9,11
+1972,08/15/15,2015,August,36,F,United States,Washington,Accessories,Tires and Tubes,3,6.67,7.666667,20,23
+1973,08/15/15,2015,August,36,F,United States,Washington,Accessories,Tires and Tubes,2,22,24,44,48
+1974,09/02/15,2015,September,36,F,United States,Washington,Accessories,Tires and Tubes,2,35,39,70,78
+1975,09/02/15,2015,September,36,F,United States,Washington,Accessories,Tires and Tubes,2,525,504,1050,1008
+1976,10/02/15,2015,October,36,F,United States,Washington,Accessories,Tires and Tubes,3,36.67,39.333333,110,118
+1977,10/05/15,2015,October,36,F,United States,Washington,Accessories,Tires and Tubes,2,5,6,10,12
+1978,11/17/15,2015,November,36,F,United States,Washington,Accessories,Cleaners,1,16,17,16,17
+1979,11/17/15,2015,November,36,F,United States,Washington,Accessories,Bike Stands,2,159,192,318,384
+1980,12/08/15,2015,December,36,F,United States,Washington,Accessories,Cleaners,2,75.5,75,151,150
+1981,08/22/15,2015,August,36,M,United States,California,Accessories,Cleaners,1,199,190,199,190
+1982,04/25/16,2016,April,37,M,United States,California,Accessories,Cleaners,1,239,323,239,323
+1983,02/03/16,2016,February,30,M,United States,California,Accessories,Helmets,2,175,236.5,350,473
+1984,03/09/16,2016,March,30,M,United States,California,Accessories,Helmets,2,437.5,527,875,1054
+1985,03/16/16,2016,March,30,M,United States,California,Accessories,Bottles and Cages,2,130.5,157,261,314
+1986,03/16/16,2016,March,30,M,United States,California,Accessories,Bottles and Cages,1,130,146,130,146
+1987,03/20/16,2016,March,30,M,United States,California,Accessories,Helmets,1,805,1004,805,1004
+1988,03/27/16,2016,March,30,M,United States,California,Accessories,Bottles and Cages,2,85.5,118,171,236
+1989,03/27/16,2016,March,30,M,United States,California,Accessories,Bottles and Cages,2,57.5,79,115,158
+1990,04/25/16,2016,April,30,M,United States,California,Accessories,Helmets,3,151.67,184.666667,455,554
+1991,05/01/16,2016,May,30,M,United States,California,Accessories,Bottles and Cages,1,225,264,225,264
+1992,05/01/16,2016,May,30,M,United States,California,Accessories,Bottles and Cages,2,62.5,81.5,125,163
+1993,05/10/16,2016,May,30,M,United States,California,Accessories,Bottles and Cages,3,18.33,24,55,72
+1994,05/10/16,2016,May,30,M,United States,California,Accessories,Bottles and Cages,3,12,14.333333,36,43
+1995,06/26/16,2016,June,30,M,United States,California,Accessories,Helmets,3,186.67,259.666667,560,779
+1996,07/01/16,2016,July,30,M,United States,California,Accessories,Helmets,1,105,124,105,124
+1997,07/08/16,2016,July,30,M,United States,California,Accessories,Helmets,1,175,228,175,228
+1998,07/18/16,2016,July,30,M,United States,California,Accessories,Helmets,2,70,80.5,140,161
+1999,07/09/15,2015,July,30,M,United States,California,Accessories,Bottles and Cages,3,23.33,27.333333,70,82
